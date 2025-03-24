@@ -1,0 +1,77 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="gFnyvGHb47JSzDH5IFKn">
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pQgiinVl193tW5uBNdnb-1" value="Resource-Based City Definition Methods" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20" width="205" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-2" value="Indicator-Based Definitions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="137" width="253" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-3" value="Genetic Perspective" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="601" y="137" width="203" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-4" value="Synthetic Definition" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="891" y="137" width="202" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-5" value="Li Wenyan (1985)&#xa;• Coal mining employment &amp;gt;25%&#xa;• Coal output ≥15% of total&#xa;• Production capacity ≥2Mt/year&#xa;• Urban genesis driven by coal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="236" width="255" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-6" value="Limitations:&#xa;Excludes cities with diversified functions&#xa;under planned economy" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="325" y="271" width="202" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-7" value="Zhu Tiefei et al.&#xa;• Resource extraction as origin&#xa;• Dominant industrial role" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="579" y="271" width="247" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-8" value="Multidimensional framework&#xa;• Formative causality&#xa;• Industrial dependence&#xa;• Functional reliance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="876" y="262" width="233" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pQgiinVl193tW5uBNdnb-1" target="pQgiinVl193tW5uBNdnb-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="287" y="112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pQgiinVl193tW5uBNdnb-1" target="pQgiinVl193tW5uBNdnb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pQgiinVl193tW5uBNdnb-1" target="pQgiinVl193tW5uBNdnb-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="993" y="112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pQgiinVl193tW5uBNdnb-2" target="pQgiinVl193tW5uBNdnb-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="148" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pQgiinVl193tW5uBNdnb-2" target="pQgiinVl193tW5uBNdnb-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pQgiinVl193tW5uBNdnb-3" target="pQgiinVl193tW5uBNdnb-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQgiinVl193tW5uBNdnb-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pQgiinVl193tW5uBNdnb-4" target="pQgiinVl193tW5uBNdnb-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
