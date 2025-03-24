@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gFnyvGHb47JSzDH5IFKn">
-    <mxGraphModel dx="1434" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="pQgiinVl193tW5uBNdnb-4" value="Synthetic Definition" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="891" y="137" width="202" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pQgiinVl193tW5uBNdnb-5" value="Li Wenyan&#xa;• Coal mining employment &amp;gt;25%&#xa;• Coal output ≥15% of total&#xa;• Production capacity ≥2Mt/year&#xa;• Urban genesis driven by coal" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="pQgiinVl193tW5uBNdnb-5" value="Li Wenyan&#xa;• Coal mining employment &amp;gt;25%&#xa;• Coal output ≥15% of total&#xa;• Production capacity ≥2Mt/year&#xa;• Urban genesis driven by coal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="236" width="255" height="172" as="geometry" />
         </mxCell>
         <mxCell id="pQgiinVl193tW5uBNdnb-6" value="Limitations:&#xa;Excludes cities with diversified functions&#xa;under planned economy" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
