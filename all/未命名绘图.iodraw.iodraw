@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pQgiinVl193tW5uBNdnb-1" value="Resource-Based City Definition Methods" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="20" width="205" height="67" as="geometry" />
+          <mxGeometry x="599" y="30" width="205" height="67" as="geometry" />
         </mxCell>
         <mxCell id="pQgiinVl193tW5uBNdnb-2" value="Indicator-Based Definitions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="137" width="253" height="49" as="geometry" />
