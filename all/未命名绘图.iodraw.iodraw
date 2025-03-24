@@ -16,7 +16,7 @@
         <mxCell id="pQgiinVl193tW5uBNdnb-4" value="Synthetic Definition" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="891" y="137" width="202" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="pQgiinVl193tW5uBNdnb-5" value="Li Wenyan&#xa;• Coal mining employment &amp;gt;25%&#xa;• Coal output ≥15% of total&#xa;• Production capacity ≥2Mt/year&#xa;• Urban genesis driven by coal" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="pQgiinVl193tW5uBNdnb-5" value="Li Wenyan&#xa;• Coal mining employment &amp;gt;25%&#xa;• Coal output ≥15% of total&#xa;• Production capacity ≥2Mt/year&#xa;• Urban genesis driven by coal" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="20" y="236" width="255" height="172" as="geometry" />
         </mxCell>
         <mxCell id="pQgiinVl193tW5uBNdnb-6" value="Limitations:&#xa;Excludes cities with diversified functions&#xa;under planned economy" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
