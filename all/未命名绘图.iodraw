@@ -223,6 +223,63 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-33" value="China" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1412" width="100" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-34" value="Central Government" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="132" y="1511" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-35" value="政策发布&#xa;（含试点城市名单）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1610" width="204" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-36" value="验证试点成效&#xa;是否成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1727" width="163" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-37" value="自上而下全国推广" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1962" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-38" value="修改政策/发布新政" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="258" y="1962" width="196" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-33" target="on0TeyGG3IyhOEqI8WDi-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-34" target="on0TeyGG3IyhOEqI8WDi-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-35" target="on0TeyGG3IyhOEqI8WDi-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="1702" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-42" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-36" target="on0TeyGG3IyhOEqI8WDi-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="1926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-43" value="不成功" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-36" target="on0TeyGG3IyhOEqI8WDi-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="267" y="1926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0;entryX=0.9;entryY=0.99;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-38" target="on0TeyGG3IyhOEqI8WDi-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="379" y="1926" />
+              <mxPoint x="379" y="1702" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
