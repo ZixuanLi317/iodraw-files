@@ -281,22 +281,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-45" value="China" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="219" y="2233" width="100" height="49" as="geometry" />
+          <mxGeometry x="621" y="1534" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-46" value="Central Government" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="166" y="2332" width="206" height="49" as="geometry" />
+          <mxGeometry x="568" y="1633" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-47" value="Policy Formulation&#xa;(Including Pilot City List)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="153" y="2431" width="232" height="84" as="geometry" />
+          <mxGeometry x="555" y="1732" width="232" height="84" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-48" value="Effectiveness Evaluation&#xa;Policy Pilot Achieves Success?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="54" y="2565" width="253" height="253" as="geometry" />
+          <mxGeometry x="456" y="1866" width="253" height="253" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-49" value="Nationwide Top-Down Implementation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2891" width="215" height="67" as="geometry" />
+          <mxGeometry x="422" y="2192" width="215" height="67" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-50" value="Policy Revision/New Policy Development" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="285" y="2891" width="251" height="67" as="geometry" />
+          <mxGeometry x="687" y="2192" width="251" height="67" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-45" target="on0TeyGG3IyhOEqI8WDi-46">
           <mxGeometry relative="1" as="geometry">
@@ -311,29 +311,29 @@
         <mxCell id="on0TeyGG3IyhOEqI8WDi-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-47" target="on0TeyGG3IyhOEqI8WDi-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="181" y="2540" />
+              <mxPoint x="583" y="1841" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-54" value="Successful" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-48" target="on0TeyGG3IyhOEqI8WDi-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="128" y="2854" />
+              <mxPoint x="530" y="2155" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-55" value="Unsuccessful" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-48" target="on0TeyGG3IyhOEqI8WDi-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="322" y="2854" />
+              <mxPoint x="724" y="2155" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=0.97;entryY=1;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-50" target="on0TeyGG3IyhOEqI8WDi-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="444" y="2854" />
-              <mxPoint x="444" y="2540" />
+              <mxPoint x="846" y="2155" />
+              <mxPoint x="846" y="1841" />
             </Array>
           </mxGeometry>
         </mxCell>
