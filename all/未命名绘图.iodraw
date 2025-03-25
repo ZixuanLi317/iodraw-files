@@ -147,6 +147,82 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-17" value="Resource-based Cities List" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="163" y="1243" width="247" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-18" value="Obtain Low-carbon Pilot Policy Cities List" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1342" width="233" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-19" value="Obtain Carbon Peak Policy Cities List" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="308" y="1342" width="248" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-20" value="Merge Policy Cities Lists" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="171" y="1459" width="232" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-21" value="Compare Resource-based Cities List&#xa;with Policy Cities List&#xa;to obtain Preliminary List" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="167" y="1558" width="240" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-22" value="Check if coal mines exist&#xa;in the Preliminary List?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="156" y="1709" width="261" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-23" value="Output overlapping cities" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2043" width="242" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-24" value="Remove from the city list" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="312" y="2043" width="242" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-17" target="on0TeyGG3IyhOEqI8WDi-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="142" y="1317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-17" target="on0TeyGG3IyhOEqI8WDi-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432" y="1317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.19;entryY=-0.01;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-18" target="on0TeyGG3IyhOEqI8WDi-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="142" y="1434" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.81;entryY=-0.01;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-19" target="on0TeyGG3IyhOEqI8WDi-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432" y="1434" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-20" target="on0TeyGG3IyhOEqI8WDi-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-21" target="on0TeyGG3IyhOEqI8WDi-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-31" value="Coal mines exist" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-22" target="on0TeyGG3IyhOEqI8WDi-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="2007" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-32" value="No coal mines" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-22" target="on0TeyGG3IyhOEqI8WDi-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="2007" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
