@@ -337,11 +337,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="on0TeyGG3IyhOEqI8WDi-57" value="Obtain Carbon Peak Policy Cities List" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1048" y="683" width="248" height="67" as="geometry" />
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-57" value="Other relevant policies" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1172" y="641" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-58" value="Obtain Carbon Peak Policy Cities List" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="489" y="680" width="248" height="67" as="geometry" />
+          <mxGeometry x="1262" y="760" width="248" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
