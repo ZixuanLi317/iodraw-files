@@ -157,7 +157,7 @@
           <mxGeometry x="481" y="641" width="233" height="67" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-19" value="Obtain Carbon Peak Policy Cities List" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="889" y="641" width="248" height="67" as="geometry" />
+          <mxGeometry x="750" y="641" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-20" value="Merge Policy Cities Lists" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="752" y="758" width="232" height="49" as="geometry" />
@@ -341,7 +341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-57" value="Other relevant policies" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1172" y="641" width="248" height="67" as="geometry" />
+          <mxGeometry x="1034" y="641" width="248" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
