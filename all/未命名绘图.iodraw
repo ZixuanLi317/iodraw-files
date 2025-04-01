@@ -154,7 +154,7 @@
           <mxGeometry x="744" y="542" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-18" value="Obtain Low-carbon Pilot Policy Cities List" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="606" y="641" width="233" height="67" as="geometry" />
+          <mxGeometry x="481" y="641" width="233" height="67" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-19" value="Obtain Carbon Peak Policy Cities List" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="889" y="641" width="248" height="67" as="geometry" />
