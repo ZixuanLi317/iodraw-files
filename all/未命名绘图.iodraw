@@ -147,7 +147,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4kL6zYsY-DzGGAkTv15i-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-17" target="on0TeyGG3IyhOEqI8WDi-57">
+        <mxCell id="4kL6zYsY-DzGGAkTv15i-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-17" target="on0TeyGG3IyhOEqI8WDi-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-17" value="Resource-based Cities List" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -180,12 +180,8 @@
         <mxCell id="on0TeyGG3IyhOEqI8WDi-26" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="on0TeyGG3IyhOEqI8WDi-17" target="on0TeyGG3IyhOEqI8WDi-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="on0TeyGG3IyhOEqI8WDi-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.19;entryY=-0.01;rounded=0;" parent="1" source="on0TeyGG3IyhOEqI8WDi-18" target="on0TeyGG3IyhOEqI8WDi-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="723" y="733" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.19;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="on0TeyGG3IyhOEqI8WDi-18" target="on0TeyGG3IyhOEqI8WDi-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-28" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="on0TeyGG3IyhOEqI8WDi-19" target="on0TeyGG3IyhOEqI8WDi-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
