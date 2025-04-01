@@ -148,7 +148,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4kL6zYsY-DzGGAkTv15i-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-17" target="on0TeyGG3IyhOEqI8WDi-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="867" y="616" />
+              <mxPoint x="1256" y="616" />
+              <mxPoint x="1256" y="674" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="on0TeyGG3IyhOEqI8WDi-17" value="Resource-based Cities List" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="744" y="542" width="247" height="49" as="geometry" />
