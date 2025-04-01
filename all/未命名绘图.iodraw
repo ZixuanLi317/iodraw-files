@@ -324,10 +324,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="on0TeyGG3IyhOEqI8WDi-57" value="Other relevant policies" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="on0TeyGG3IyhOEqI8WDi-57" value="Other Relevant Policies" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1034" y="641" width="248" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="4kL6zYsY-DzGGAkTv15i-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-57" target="on0TeyGG3IyhOEqI8WDi-20">
+        <mxCell id="4kL6zYsY-DzGGAkTv15i-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.75;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="on0TeyGG3IyhOEqI8WDi-57" target="on0TeyGG3IyhOEqI8WDi-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="608" y="718" as="sourcePoint" />
             <mxPoint x="807" y="768" as="targetPoint" />
