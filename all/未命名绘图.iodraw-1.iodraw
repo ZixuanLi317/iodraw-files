@@ -807,7 +807,7 @@
           <mxGeometry x="2344" y="4199" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-222" value="生态-技术整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2928" y="4176" width="162" height="49" as="geometry" />
+          <mxGeometry x="2920" y="4193" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-223" value="社会-技术整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3139" y="4176" width="162" height="49" as="geometry" />
@@ -918,10 +918,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-239" value="智能监测系统" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-214" target="FaEg5hChIHYmlGjZ65KH-222">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-239" value="智能监测系统" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-214" target="FaEg5hChIHYmlGjZ65KH-222">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="2608" y="4140" />
               <mxPoint x="2716" y="4140" />
+              <mxPoint x="2716" y="4218" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -953,10 +955,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-244" value="实时数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.3;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-219" target="FaEg5hChIHYmlGjZ65KH-222">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-244" value="实时数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-219" target="FaEg5hChIHYmlGjZ65KH-222">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3513" y="4140" />
+              <mxPoint x="3082" y="4140" />
             </Array>
           </mxGeometry>
         </mxCell>
