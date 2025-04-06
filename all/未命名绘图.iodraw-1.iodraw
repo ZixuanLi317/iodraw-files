@@ -780,7 +780,7 @@
           <mxGeometry x="2108" y="4068" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-213" value="生物多样性保护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2312" y="4077" width="172" height="49" as="geometry" />
+          <mxGeometry x="2314" y="4090" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-214" value="水文过程控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2532" y="4079" width="156" height="49" as="geometry" />
@@ -804,7 +804,7 @@
           <mxGeometry x="3644" y="4054" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-221" value="生态-社会整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2344" y="4176" width="162" height="49" as="geometry" />
+          <mxGeometry x="2344" y="4199" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-222" value="生态-技术整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2928" y="4176" width="162" height="49" as="geometry" />
@@ -843,13 +843,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-229" value="生态网络构建" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-229" value="生态网络构建" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-209" target="FaEg5hChIHYmlGjZ65KH-213">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2396.26" y="4014" />
+              <mxPoint x="2398" y="4018" />
+              <mxPoint x="2400" y="4018" />
+              <mxPoint x="2400" y="4077" />
             </Array>
-            <mxPoint x="2393.74" y="3977" as="sourcePoint" />
-            <mxPoint x="2394.26" y="4073" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-230" value="海绵城市建设" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-209" target="FaEg5hChIHYmlGjZ65KH-214">
