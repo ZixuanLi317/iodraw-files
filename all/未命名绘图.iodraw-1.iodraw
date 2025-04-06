@@ -806,10 +806,10 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-221" value="生态-社会整合" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="2344" y="4199" width="162" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-222" value="生态-技术整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-222" value="生态-技术整合" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="2899" y="4237" width="162" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-223" value="社会-技术整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-223" value="社会-技术整合" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="3139" y="4176" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-224" value="三维度整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
