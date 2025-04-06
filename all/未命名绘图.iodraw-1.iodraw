@@ -364,7 +364,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="478.25" y="2851.5" width="220" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=radial;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="426.25" y="2830" width="143" height="143" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-83" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;社会-生态交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=0;fontSize=15;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -506,6 +506,9 @@
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-121" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;生态服务提升&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;反哺社会&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;rotation=-120;" vertex="1" parent="1">
           <mxGeometry x="218.25" y="3010" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-122" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;生态服务提升&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;反哺社会&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;rotation=-120;" vertex="1" parent="1">
+          <mxGeometry x="110" y="3010" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
