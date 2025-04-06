@@ -733,7 +733,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-185" value="Policy-driven&lt;div style=&quot;font-size: 12px;&quot;&gt;Technological Innovation&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;resizable=1;align=center;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-185" value="Policy-driven&lt;div style=&quot;font-size: 12px;&quot;&gt;Technological Innovation&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;resizable=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-404.75" y="3500" width="157" height="40" as="geometry" />
         </mxCell>
       </root>
