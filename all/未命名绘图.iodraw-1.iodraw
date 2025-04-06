@@ -11,10 +11,10 @@
           <mxGeometry x="580" y="46" width="124" height="119" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-3" value="生态维度&#xa;气候模式&#xa;生物多样性&#xa;生态系统服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FaEg5hChIHYmlGjZ65KH-1">
-          <mxGeometry x="880" y="300" width="156" height="102" as="geometry" />
+          <mxGeometry x="564" y="280" width="156" height="102" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-4" value="技术维度&#xa;城市基础设施&#xa;数字孪生&#xa;物联网系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FaEg5hChIHYmlGjZ65KH-1">
-          <mxGeometry x="564" y="530" width="156" height="102" as="geometry" />
+          <mxGeometry x="570" y="480" width="156" height="102" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-5" value="社会-生态交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.2;exitY=1;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-2" target="FaEg5hChIHYmlGjZ65KH-3">
           <mxGeometry relative="1" as="geometry">
