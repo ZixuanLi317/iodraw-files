@@ -528,12 +528,6 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-128" value="生态维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 气候模式&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 生物多样性&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 生态系统服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="3920" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-129" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="376.25" y="3541.75" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-131" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=120;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="577.5" y="3850" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-135" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="354.75" y="3690" width="143" height="143" as="geometry" />
         </mxCell>
