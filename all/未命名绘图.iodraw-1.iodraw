@@ -316,6 +316,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-58" value="社会维度&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 文化认同&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 政策制度&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 经济动力&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 社区参与" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1260" width="210" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
