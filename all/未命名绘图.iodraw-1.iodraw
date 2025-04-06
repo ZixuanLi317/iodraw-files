@@ -839,38 +839,16 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-233" value="场所依恋" style="startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-217">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-234" value="虚拟仿真" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-218">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3409" y="4018" />
-              <mxPoint x="3348" y="4018" />
-              <mxPoint x="3348" y="4072" />
-              <mxPoint x="3413" y="4072" />
-              <mxPoint x="3413" y="4151" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-234" value="虚拟仿真" style="startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-218">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-235" value="无人机/传感器" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-219">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-235" value="无人机/传感器" style="startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-219">
           <mxGeometry x="0.0042" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3469" y="4018" />
-              <mxPoint x="3513" y="4018" />
-              <mxPoint x="3513" y="4069" />
-              <mxPoint x="3620" y="4069" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-236" value="机器学习" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-220">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3501" y="4018" />
-              <mxPoint x="3722" y="4018" />
-              <mxPoint x="3722" y="4028" />
-              <mxPoint x="3831" y="4028" />
-              <mxPoint x="3831" y="4098" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-236" value="机器学习" style="startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-220">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-237" value="健康环境供给" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-212" target="FaEg5hChIHYmlGjZ65KH-221">
           <mxGeometry relative="1" as="geometry">
