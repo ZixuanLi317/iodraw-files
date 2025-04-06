@@ -749,7 +749,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-201" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;e.g.&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; Ecosystem services feeding back social systems&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;dashed=1;align=left;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="3805" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-202" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;Social–Technological&lt;/span&gt;&lt;div style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;Feedbacks&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;align=center;fillColor=default;verticalAlign=middle;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-202" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Technological&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;–&lt;/span&gt;&lt;div style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;Feedbacks&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;align=center;fillColor=default;verticalAlign=middle;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-130" y="3770" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
