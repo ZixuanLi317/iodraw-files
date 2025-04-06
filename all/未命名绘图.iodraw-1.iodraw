@@ -982,10 +982,11 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-247" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-222" target="FaEg5hChIHYmlGjZ65KH-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2982" y="4320" />
-              <mxPoint x="2976" y="4320" />
-              <mxPoint x="2976" y="4335" />
-              <mxPoint x="3008" y="4335" />
+              <mxPoint x="2982" y="4290" />
+              <mxPoint x="2982" y="4363" />
+              <mxPoint x="2976" y="4363" />
+              <mxPoint x="2976" y="4444" />
+              <mxPoint x="3008" y="4444" />
               <mxPoint x="3008" y="4509" />
               <mxPoint x="3004" y="4509" />
             </Array>
