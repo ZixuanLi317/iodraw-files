@@ -125,13 +125,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-21" value="社会-技术交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=0;entryX=0.17;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-17" target="FaEg5hChIHYmlGjZ65KH-19">
-          <mxGeometry x="0.2964" y="55" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="578" y="850" />
-              <mxPoint x="750" y="770" />
+              <mxPoint x="890" y="750" />
               <mxPoint x="921" y="850" />
             </Array>
-            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-22" value="生态-技术交互" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-18" target="FaEg5hChIHYmlGjZ65KH-19">
@@ -320,7 +319,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-58" value="社会维度&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 文化认同&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 政策制度&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 经济动力&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 社区参与" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="1260" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-59" value="社会维度&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 文化认同&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 政策制度&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 经济动力&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;• 社区参与" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-59" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%A4%BE%E4%BC%9A%E7%BB%B4%E5%BA%A6%26lt%3Bbr%20style%3D%26quot%3Bpadding%3A%200px%3B%20margin%3A%200px%3B%26quot%3B%26gt%3B--------%26lt%3Bbr%20style%3D%26quot%3Bpadding%3A%200px%3B%20margin%3A%200px%3B%26quot%3B%26gt%3B%E2%80%A2%20%E6%96%87%E5%8C%96%E8%AE%A4%E5%90%8C%26lt%3Bbr%20style%3D%26quot%3Bpadding%3A%200px%3B%20margin%3A%200px%3B%26quot%3B%26gt%3B%E2%80%A2%20%E6%94%BF%E7%AD%96%E5%88%B6%E5%BA%A6%26lt%3Bbr%20style%3D%26quot%3Bpadding%3A%200px%3B%20margin%3A%200px%3B%26quot%3B%26gt%3B%E2%80%A2%20%E7%BB%8F%E6%B5%8E%E5%8A%A8%E5%8A%9B%26lt%3Bbr%20style%3D%26quot%3Bpadding%3A%200px%3B%20margin%3A%200px%3B%26quot%3B%26gt%3B%E2%80%A2%20%E7%A4%BE%E5%8C%BA%E5%8F%82%E4%B8%8E%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Baspect%3Dfixed%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%221260%22%20width%3D%22150%22%20height%3D%22150%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="648" y="1260" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
