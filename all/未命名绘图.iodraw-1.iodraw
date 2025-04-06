@@ -765,7 +765,7 @@
           <mxGeometry x="-315" y="3826.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-208" value="UGS Research System" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2799" y="3810" width="213" height="49" as="geometry" />
+          <mxGeometry x="2858" y="3765.5" width="213" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-209" value="生态维度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2333" y="3932" width="124" height="49" as="geometry" />
@@ -783,7 +783,7 @@
           <mxGeometry x="2314" y="4054" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-214" value="水文过程控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2638" y="4054" width="156" height="49" as="geometry" />
+          <mxGeometry x="2571" y="4060" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-215" value="身心健康促进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2847" y="4054" width="156" height="49" as="geometry" />
