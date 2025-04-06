@@ -812,12 +812,8 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-224" value="三维度整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2934" y="4549" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-225" value="生态系统功能" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-208" target="FaEg5hChIHYmlGjZ65KH-209">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2395" y="3896" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-225" value="生态系统功能" style="startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-208" target="FaEg5hChIHYmlGjZ65KH-209">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-226" value="公共健康效益" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-208" target="FaEg5hChIHYmlGjZ65KH-210">
           <mxGeometry relative="1" as="geometry">
@@ -953,10 +949,10 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3012" y="4165" />
-              <mxPoint x="2845" y="4165" />
-              <mxPoint x="2845" y="4221" />
-              <mxPoint x="2885" y="4221" />
-              <mxPoint x="2885" y="4216" />
+              <mxPoint x="2968" y="4165" />
+              <mxPoint x="2968" y="4221" />
+              <mxPoint x="2972" y="4221" />
+              <mxPoint x="2972" y="4216" />
               <mxPoint x="2946" y="4216" />
             </Array>
           </mxGeometry>
