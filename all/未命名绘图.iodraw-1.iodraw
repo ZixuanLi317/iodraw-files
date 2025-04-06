@@ -853,10 +853,8 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-237" value="健康环境供给" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-212" target="FaEg5hChIHYmlGjZ65KH-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-238" value="生物福祉增益" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-213" target="FaEg5hChIHYmlGjZ65KH-221">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-238" value="生物福祉增益" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-213" target="FaEg5hChIHYmlGjZ65KH-221">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-239" value="智能监测系统" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-214" target="FaEg5hChIHYmlGjZ65KH-222">
           <mxGeometry relative="1" as="geometry">
@@ -888,12 +886,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-242" value="景观感知优化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.38;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-217" target="FaEg5hChIHYmlGjZ65KH-221">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3219" y="4140" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-242" value="景观感知优化" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.38;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-217" target="FaEg5hChIHYmlGjZ65KH-221">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-243" value="系统模拟" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.3;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-218" target="FaEg5hChIHYmlGjZ65KH-224">
           <mxGeometry relative="1" as="geometry" />
