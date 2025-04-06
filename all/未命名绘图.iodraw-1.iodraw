@@ -619,7 +619,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-155" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;gradientDirection=radial;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-582" y="3520" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-156" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;gradientDirection=radial;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-156" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#f5f5f5;gradientColor=none;strokeColor=#666666;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="-521" y="3581.75" width="376.5" height="376.5" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-157" value="社会维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 文化认同&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 政策制度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 经济动力&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 社区参与" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;shadow=0;fillColor=#de8a75;gradientColor=#FFFFFF;" vertex="1" parent="1">
@@ -631,7 +631,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-159" value="生态维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 气候模式&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 生物多样性&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 生态系统服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#86a28e;gradientColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-407" y="3920" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-160" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#666666;strokeColor=#666666;gradientDirection=radial;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-160" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#666666;strokeColor=#666666;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="-404.75" y="3690" width="143" height="143" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-161" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;社会-生态交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=0;fontSize=15;labelBackgroundColor=none;" vertex="1" parent="1">
