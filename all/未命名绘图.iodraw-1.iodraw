@@ -332,7 +332,7 @@
           <mxGeometry x="439" y="1210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-64" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;社会-技术交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=-120;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1610" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="1580" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
