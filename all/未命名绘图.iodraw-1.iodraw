@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FaEg5hChIHYmlGjZ65KH-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1240" width="500" height="500" as="geometry" />
+          <mxGeometry x="-631" y="1730" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-76" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1301.75" width="376.5" height="376.5" as="geometry" />
+          <mxGeometry x="-570" y="1791.75" width="376.5" height="376.5" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-1" value="SETS框架三维交互系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="70" width="1508" height="647" as="geometry" />
@@ -326,22 +326,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-58" value="社会维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 文化认同&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 政策制度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 经济动力&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 社区参与" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1300" width="150" height="150" as="geometry" />
+          <mxGeometry x="-660" y="1790" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-59" value="技术维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 城市基础设施&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 数字孪生&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 物联网系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="613" y="1300" width="150" height="150" as="geometry" />
+          <mxGeometry x="-257" y="1790" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-60" value="生态维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 气候模式&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 生物多样性&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 生态系统服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1640" width="150" height="150" as="geometry" />
+          <mxGeometry x="-456" y="2130" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-63" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="435.5" y="1251.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="-434.5" y="1741.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-64" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=-120;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1570" width="100" height="40" as="geometry" />
+          <mxGeometry x="-631" y="2060" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-65" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=120;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="639" y="1570" width="100" height="40" as="geometry" />
+          <mxGeometry x="-231" y="2060" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-301" y="1270" width="220" height="220" as="geometry" />
@@ -356,40 +356,40 @@
           <mxGeometry x="-262.5" y="1400" width="143" height="143" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="377.75" y="1291.5" width="220" height="220" as="geometry" />
+          <mxGeometry x="-492.25" y="1781.5" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="288.25" y="1431.5" width="220" height="220" as="geometry" />
+          <mxGeometry x="-581.75" y="1921.5" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="468.25" y="1431.5" width="220" height="220" as="geometry" />
+          <mxGeometry x="-401.75" y="1921.5" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="416.25" y="1410" width="143" height="143" as="geometry" />
+          <mxGeometry x="-453.75" y="1900" width="143" height="143" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-83" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;社会-生态交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1492.25" width="100" height="40" as="geometry" />
+          <mxGeometry x="-560" y="1982.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-84" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;生态-技术交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=120;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="780" y="1474" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-86" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;生态-技术交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="564" y="1492.25" width="100" height="40" as="geometry" />
+          <mxGeometry x="-306" y="1982.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-87" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;社会-技术交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="439" y="1300" width="100" height="40" as="geometry" />
+          <mxGeometry x="-431" y="1790" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-88" value="&lt;ul style=&quot;font-size: 12px; line-height: 160%;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; font-size: 12px; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;城市绿色空间政策&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;→生物多样性模式&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-size: 12px;&quot;&gt;生态系统服务收益&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap; font-size: 12px;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-size: 12px;&quot;&gt;→公众参与度&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1510.75" width="146" height="110" as="geometry" />
+          <mxGeometry x="-590" y="2000.75" width="146" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-89" value="&lt;ul style=&quot;line-height: 160%; font-size: 12px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;数字治理政策&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;→平台应用&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;交通基础设施&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;→居住隔离模式&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1310" width="146" height="110" as="geometry" />
+          <mxGeometry x="-460" y="1800" width="146" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-91" value="&lt;ul style=&quot;line-height: 160%; font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;生态约束&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 12px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;→技术参数设计&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;绿色基础设施&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 12px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;→水文调节&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="1508.75" width="146" height="110" as="geometry" />
+          <mxGeometry x="-339.5" y="1998.75" width="146" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-92" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;社会-生态-技术&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;交互反馈&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="439" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry x="-431" y="1950" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-93" value="&lt;b style=&quot;font-weight: normal; font-size: 10px;&quot; id=&quot;docs-internal-guid-741e8d96-7fff-ac16-18f6-f21a11f03a0a&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 10px;&quot;&gt;气候变化适应策略&lt;/span&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; white-space: nowrap; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;→&lt;/span&gt;绿色基础设施技术实施增加&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; white-space: nowrap; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;→&lt;/span&gt;增强生态系统服务&lt;span style=&quot;font-family: Helvetica; text-align: center; white-space: nowrap; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;→&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 10px;&quot;&gt;改善公共健康成果和政策支持（社会）&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1445.25" width="141" height="87" as="geometry" />
