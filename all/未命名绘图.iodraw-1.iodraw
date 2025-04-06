@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7-Ps7Ewp17TA786Ylxam">
-    <mxGraphModel dx="2739" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2420" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -514,96 +514,93 @@
           <mxGeometry x="718" y="3021.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-124" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;gradientDirection=radial;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="259" y="2670" width="500" height="500" as="geometry" />
+          <mxGeometry x="177.5" y="3520" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-125" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;gradientDirection=radial;" vertex="1" parent="1">
-          <mxGeometry x="320" y="2731.75" width="376.5" height="376.5" as="geometry" />
+          <mxGeometry x="238.5" y="3581.75" width="376.5" height="376.5" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-126" value="社会维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 文化认同&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 政策制度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 经济动力&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 社区参与" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="2730" width="150" height="150" as="geometry" />
+          <mxGeometry x="148.5" y="3580" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-127" value="技术维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 城市基础设施&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 数字孪生&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 物联网系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="633" y="2730" width="150" height="150" as="geometry" />
+          <mxGeometry x="551.5" y="3580" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-128" value="生态维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 气候模式&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 生物多样性&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 生态系统服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="434" y="3070" width="150" height="150" as="geometry" />
+          <mxGeometry x="352.5" y="3920" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-129" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="457.75" y="2691.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="376.25" y="3541.75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-130" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=-120;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="259" y="3000" width="100" height="40" as="geometry" />
+          <mxGeometry x="177.5" y="3850" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-131" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=120;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="659" y="3000" width="100" height="40" as="geometry" />
+          <mxGeometry x="577.5" y="3850" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-132" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="397.75" y="2721.5" width="220" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-133" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="2861.5" width="220" height="220" as="geometry" />
+          <mxGeometry x="316.25" y="3571.5" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-134" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="488.25" y="2861.5" width="220" height="220" as="geometry" />
+          <mxGeometry x="406.75" y="3711.5" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-135" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;gradientDirection=radial;" vertex="1" parent="1">
-          <mxGeometry x="436.25" y="2840" width="143" height="143" as="geometry" />
+          <mxGeometry x="354.75" y="3690" width="143" height="143" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-136" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;社会-生态交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=0;fontSize=15;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="2922.25" width="100" height="40" as="geometry" />
+          <mxGeometry x="248.5" y="3772.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-137" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;生态-技术交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="584" y="2922.25" width="100" height="40" as="geometry" />
+          <mxGeometry x="502.5" y="3772.25" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-138" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;社会-技术交互&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="459" y="2730" width="100" height="40" as="geometry" />
+          <mxGeometry x="377.5" y="3580" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-139" value="&lt;ul style=&quot;font-size: 12px; line-height: 160%;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; font-size: 12px; text-align: center;&quot;&gt;城市绿色空间政策&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;→生物多样性模式&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; font-size: 12px;&quot;&gt;生态系统服务收益&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap; font-size: 12px;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; font-size: 12px;&quot;&gt;→公众参与度&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=12;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2940.75" width="146" height="110" as="geometry" />
+          <mxGeometry x="218.5" y="3790.75" width="146" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-140" value="&lt;ul style=&quot;line-height: 160%; font-size: 12px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;数字治理政策&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;→平台应用&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;交通基础设施&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;→居住隔离模式&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="2740" width="146" height="110" as="geometry" />
+          <mxGeometry x="348.5" y="3590" width="146" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-141" value="&lt;ul style=&quot;line-height: 160%; font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;生态约束&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 12px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;→技术参数设计&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;绿色基础设施&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 12px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;→水文调节&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=12;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550.5" y="2938.75" width="146" height="110" as="geometry" />
+          <mxGeometry x="469" y="3788.75" width="146" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-142" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;社会-生态-技术&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;交互/反馈&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="459" y="2890" width="100" height="40" as="geometry" />
+          <mxGeometry x="377.5" y="3740" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-143" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.726;exitY=0.041;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2.5;flowAnimation=1;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-126">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="405.5" y="2640" as="sourcePoint" />
-            <mxPoint x="680" y="2736" as="targetPoint" />
+            <mxPoint x="324" y="3490" as="sourcePoint" />
+            <mxPoint x="598.5" y="3586" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="2680" />
-              <mxPoint x="580" y="2660" />
+              <mxPoint x="318.5" y="3530" />
+              <mxPoint x="498.5" y="3510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-144" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;政策驱动&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;技术革新&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="468.25" y="2620" width="80" height="50" as="geometry" />
+          <mxGeometry x="386.75" y="3470" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-145" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.796;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2.5;flowAnimation=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.651;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-127" target="FaEg5hChIHYmlGjZ65KH-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="794.5" y="2861.5" as="sourcePoint" />
-            <mxPoint x="1135.5" y="2861.5" as="targetPoint" />
+            <mxPoint x="713" y="3711.5" as="sourcePoint" />
+            <mxPoint x="1054" y="3711.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="2890" />
-              <mxPoint x="760" y="2950" />
-              <mxPoint x="740" y="3030" />
-              <mxPoint x="660" y="3130" />
+              <mxPoint x="678.5" y="3740" />
+              <mxPoint x="678.5" y="3800" />
+              <mxPoint x="658.5" y="3880" />
+              <mxPoint x="578.5" y="3980" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-146" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=0.224;exitY=0.929;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2.5;flowAnimation=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.352;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-126" target="FaEg5hChIHYmlGjZ65KH-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="263" y="2872.5" as="sourcePoint" />
-            <mxPoint x="430" y="3167.5" as="targetPoint" />
+            <mxPoint x="181.5" y="3722.5" as="sourcePoint" />
+            <mxPoint x="348.5" y="4017.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="255" y="2920" />
-              <mxPoint x="270" y="3000" />
-              <mxPoint x="300" y="3060" />
-              <mxPoint x="360" y="3130" />
+              <mxPoint x="173.5" y="3770" />
+              <mxPoint x="188.5" y="3850" />
+              <mxPoint x="218.5" y="3910" />
+              <mxPoint x="278.5" y="3980" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -611,10 +608,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-148" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;生态服务提升&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;反哺社会&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="201" y="3031.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="119.5" y="3881.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-149" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;工程实施&lt;/span&gt;&lt;br style=&quot;font-size: 13px; text-wrap-mode: nowrap; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;改善环境&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="728" y="3031.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="646.5" y="3881.5" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
