@@ -767,13 +767,13 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-208" value="UGS Research System" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2858" y="3765.5" width="213" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-209" value="生态维度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-209" value="生态维度" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2333" y="3932" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-210" value="社会维度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-210" value="社会维度" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2937" y="3909.25" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-211" value="技术维度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-211" value="技术维度" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3377" y="3932" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-212" value="城市气候调节" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -803,7 +803,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-220" value="数据分析平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3644" y="4054" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-221" value="生态-社会整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-221" value="生态-社会整合" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="2344" y="4199" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-222" value="生态-技术整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
