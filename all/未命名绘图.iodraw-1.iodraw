@@ -684,7 +684,7 @@
           <mxGeometry x="-640" y="3881.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-174" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;工程实施&lt;/span&gt;&lt;br style=&quot;font-size: 13px; text-wrap-mode: nowrap; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;改善环境&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-113" y="3881.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="-10" y="3900" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-175" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E6E6E6;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;flowAnimation=0;curved=1;exitX=0.046;exitY=0.297;exitDx=0;exitDy=0;entryX=0.945;entryY=0.745;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-160" target="FaEg5hChIHYmlGjZ65KH-157">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -730,6 +730,9 @@
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-188" value="Environmental Improvement through&lt;div&gt;Engineering Implementation&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;align=center;fillColor=default;rotation=-60;" vertex="1" parent="1">
           <mxGeometry x="-190" y="3850" width="157" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-190" value="Policy-driven&lt;div style=&quot;font-size: 11px;&quot;&gt;Technological Innovation&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;align=center;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-33" y="3770" width="157" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
