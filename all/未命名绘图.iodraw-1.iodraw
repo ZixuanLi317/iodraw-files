@@ -1008,7 +1008,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-248" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-223" target="FaEg5hChIHYmlGjZ65KH-224">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-248" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-223" target="FaEg5hChIHYmlGjZ65KH-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3390" y="4451" />
