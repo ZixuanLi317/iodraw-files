@@ -108,7 +108,7 @@
           <mxGeometry x="430" y="882" width="137" height="102" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-18" value="生态维度&#xa;    --------&#xa;    • 气候模式&#xa;    • 生物多样性&#xa;    • 生态系统服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1140" width="169" height="84" as="geometry" />
+          <mxGeometry x="658" y="1120" width="169" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-19" value="技术维度&#xa;    --------&#xa;    • 城市基础设施&#xa;    • 数字孪生&#xa;    • 物联网系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="940" y="891" width="169" height="84" as="geometry" />
@@ -117,6 +117,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="1160" />
+              <mxPoint x="510" y="1190" />
               <mxPoint x="540" y="1200" />
               <mxPoint x="560" y="1200" />
               <mxPoint x="590" y="1200" />
