@@ -641,7 +641,7 @@
           <mxGeometry x="-251.75" y="3740" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-163" value="Social–Technological&amp;nbsp;&amp;nbsp;Interactions" style="text;whiteSpace=wrap;html=1;align=center;fontSize=15;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-400.75" y="3590" width="132" height="40" as="geometry" />
+          <mxGeometry x="-400.75" y="3590" width="240.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-165" value="&lt;ul style=&quot;line-height: 160%; font-size: 12px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;数字治理政策&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;→平台应用&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;交通基础设施&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;→居住隔离模式&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-407.75" y="3630" width="146" height="110" as="geometry" />
