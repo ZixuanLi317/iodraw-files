@@ -111,12 +111,12 @@
           <mxGeometry x="560" y="850" width="137" height="102" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-18" value="生态维度&#xa;    --------&#xa;    • 气候模式&#xa;    • 生物多样性&#xa;    • 生态系统服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="788" y="1088" width="169" height="84" as="geometry" />
+          <mxGeometry x="810" y="1085" width="169" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-19" value="技术维度&#xa;    --------&#xa;    • 城市基础设施&#xa;    • 数字孪生&#xa;    • 物联网系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1050" y="850" width="169" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-20" value="社会-生态交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-20" value="社会-生态交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="FaEg5hChIHYmlGjZ65KH-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="640" y="1157" />
