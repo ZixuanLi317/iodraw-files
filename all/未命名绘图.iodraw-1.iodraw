@@ -795,7 +795,7 @@
           <mxGeometry x="3141" y="4054" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-219" value="智能监测网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3547" y="4075" width="156" height="49" as="geometry" />
+          <mxGeometry x="3546" y="4074" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-220" value="数据分析平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3767" y="4062" width="156" height="49" as="geometry" />
@@ -890,8 +890,8 @@
             <Array as="points">
               <mxPoint x="3409" y="4018" />
               <mxPoint x="3348" y="4018" />
-              <mxPoint x="3348" y="4140" />
-              <mxPoint x="3413" y="4140" />
+              <mxPoint x="3348" y="4072" />
+              <mxPoint x="3413" y="4072" />
               <mxPoint x="3413" y="4151" />
             </Array>
           </mxGeometry>
@@ -1016,7 +1016,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-218" value="数字孪生系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3326" y="4151" width="156" height="49" as="geometry" />
+          <mxGeometry x="3335" y="4167" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
