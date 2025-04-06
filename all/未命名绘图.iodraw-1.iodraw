@@ -903,10 +903,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-237" value="健康环境供给" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.03;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-212" target="FaEg5hChIHYmlGjZ65KH-221">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-237" value="健康环境供给" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-212" target="FaEg5hChIHYmlGjZ65KH-221">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2186" y="4140" />
+              <mxPoint x="2319" y="4140" />
             </Array>
           </mxGeometry>
         </mxCell>
