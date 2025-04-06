@@ -807,10 +807,10 @@
           <mxGeometry x="2360" y="4272" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-222" value="生态-技术整合" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2873" y="4241" width="162" height="49" as="geometry" />
+          <mxGeometry x="2865" y="4216" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-223" value="社会-技术整合" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="3139" y="4176" width="162" height="49" as="geometry" />
+          <mxGeometry x="3309" y="4312" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-224" value="三维度整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2934" y="4549" width="140" height="49" as="geometry" />
@@ -982,9 +982,11 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-247" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-222" target="FaEg5hChIHYmlGjZ65KH-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2982" y="4290" />
-              <mxPoint x="2982" y="4363" />
-              <mxPoint x="2976" y="4363" />
+              <mxPoint x="2935" y="4279" />
+              <mxPoint x="2935" y="4340" />
+              <mxPoint x="2982" y="4340" />
+              <mxPoint x="2982" y="4378" />
+              <mxPoint x="2976" y="4378" />
               <mxPoint x="2976" y="4444" />
               <mxPoint x="3008" y="4444" />
               <mxPoint x="3008" y="4509" />
