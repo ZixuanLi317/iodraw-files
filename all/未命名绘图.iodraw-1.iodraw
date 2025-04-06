@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7-Ps7Ewp17TA786Ylxam">
-    <mxGraphModel dx="2579" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3247" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -743,17 +743,14 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-199" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;e.g.&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; Ecosystem services feeding back social systems&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;dashed=1;align=left;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="-650" y="3805" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-198" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;Social–Technological&lt;/span&gt;&lt;div style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;Feedbacks&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;align=center;fillColor=default;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="3760" width="157" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-195" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;Social–Technological&lt;/span&gt;&lt;div style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;Feedbacks&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;align=center;fillColor=default;verticalAlign=middle;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-650" y="3770" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-201" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;e.g.&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; Ecosystem services feeding back social systems&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;dashed=1;align=left;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="-159.5" y="3935" width="110" height="60" as="geometry" />
+          <mxGeometry x="-192" y="3940" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-202" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;Social–Technological&lt;/span&gt;&lt;div style=&quot;font-size: 11px; background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;Feedbacks&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;align=center;fillColor=default;verticalAlign=middle;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-159.5" y="3900" width="110" height="40" as="geometry" />
+          <mxGeometry x="-192" y="3905" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
