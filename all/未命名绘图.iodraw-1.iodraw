@@ -786,10 +786,10 @@
           <mxGeometry x="2530" y="4087" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-215" value="身心健康促进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2847" y="4054" width="156" height="49" as="geometry" />
+          <mxGeometry x="2751" y="4051" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-216" value="社区韧性增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2894" y="4144" width="156" height="49" as="geometry" />
+          <mxGeometry x="2934" y="4054" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-217" value="文化体验提升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3141" y="4054" width="156" height="49" as="geometry" />
@@ -864,7 +864,9 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-231" value="压力缓解" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-215">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2925" y="4018" />
+              <mxPoint x="2969" y="4011" />
+              <mxPoint x="2834" y="4011" />
+              <mxPoint x="2834" y="4051" />
             </Array>
           </mxGeometry>
         </mxCell>
