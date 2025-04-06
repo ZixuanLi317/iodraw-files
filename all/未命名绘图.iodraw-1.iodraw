@@ -398,7 +398,7 @@
           <mxGeometry x="827" y="2898" width="172" height="69" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-95" value="技术维度&#xa;---------&#xa;• 绿色基础设施&#xa;• 技术实施增加" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
-          <mxGeometry x="1117" y="2769" width="140" height="52" as="geometry" />
+          <mxGeometry x="1117" y="2866" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-96" value="生态维度&#xa;---------&#xa;• 生态系统服务&#xa;• 功能增强" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
           <mxGeometry x="1375" y="2907" width="140" height="52" as="geometry" />
@@ -423,6 +423,15 @@
               <mxPoint x="1316" y="2973" />
               <mxPoint x="1058" y="2973" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-100" value="政策驱动&#xa;技术革新" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.15;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1068" y="2902" />
+            </Array>
+            <mxPoint x="1009" y="2918" as="sourcePoint" />
+            <mxPoint x="1127" y="2902" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
