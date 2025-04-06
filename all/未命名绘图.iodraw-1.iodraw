@@ -619,7 +619,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-155" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=8 8;gradientDirection=radial;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-582" y="3520" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-156" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#f5f5f5;gradientColor=none;strokeColor=#666666;gradientDirection=radial;" vertex="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-156" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;strokeColor=#666666;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="-521" y="3581.75" width="376.5" height="376.5" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-157" value="社会维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 文化认同&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 政策制度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 经济动力&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 社区参与" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;shadow=0;fillColor=#de8a75;gradientColor=#FFFFFF;" vertex="1" parent="1">
@@ -701,7 +701,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-174" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;工程实施&lt;/span&gt;&lt;br style=&quot;font-size: 13px; text-wrap-mode: nowrap; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;改善环境&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-113" y="3881.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-175" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;flowAnimation=0;curved=1;exitX=0.046;exitY=0.297;exitDx=0;exitDy=0;entryX=0.945;entryY=0.745;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-160" target="FaEg5hChIHYmlGjZ65KH-157">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-175" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;flowAnimation=0;curved=1;exitX=0.046;exitY=0.297;exitDx=0;exitDy=0;entryX=0.945;entryY=0.745;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-160" target="FaEg5hChIHYmlGjZ65KH-157">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-373.5" y="3721" as="sourcePoint" />
             <mxPoint x="-458.5" y="3697" as="targetPoint" />
