@@ -885,11 +885,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-234" value="虚拟仿真" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.04;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-218">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-234" value="虚拟仿真" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-218">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3366" y="4018" />
-              <mxPoint x="3366" y="4140" />
+              <mxPoint x="3409" y="4018" />
+              <mxPoint x="3348" y="4018" />
+              <mxPoint x="3348" y="4140" />
+              <mxPoint x="3413" y="4140" />
+              <mxPoint x="3413" y="4151" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1013,7 +1016,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-218" value="数字孪生系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3335" y="4148" width="156" height="49" as="geometry" />
+          <mxGeometry x="3326" y="4151" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
