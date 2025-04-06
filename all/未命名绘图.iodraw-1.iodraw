@@ -865,8 +865,8 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-241" value="数字孪生平台" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-216" target="FaEg5hChIHYmlGjZ65KH-223">
           <mxGeometry x="-0.1251" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3017" y="4362" />
-              <mxPoint x="3668" y="4362" />
+              <mxPoint x="3017" y="4252" />
+              <mxPoint x="3668" y="4252" />
             </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -906,7 +906,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-248" value="整合" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-223" target="FaEg5hChIHYmlGjZ65KH-224">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-249" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-219" target="FaEg5hChIHYmlGjZ65KH-218">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-249" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-219" target="FaEg5hChIHYmlGjZ65KH-222">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3625" y="4124" as="sourcePoint" />
             <mxPoint x="3027" y="4241" as="targetPoint" />
