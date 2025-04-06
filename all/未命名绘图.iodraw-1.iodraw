@@ -901,7 +901,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-246" value="整合" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-221" target="FaEg5hChIHYmlGjZ65KH-224">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2409" y="4463" />
+              <mxPoint x="3004" y="4463" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-247" value="整合" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-222" target="FaEg5hChIHYmlGjZ65KH-224">
           <mxGeometry relative="1" as="geometry" />
