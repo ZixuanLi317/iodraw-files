@@ -789,7 +789,7 @@
           <mxGeometry x="2847" y="4054" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-216" value="社区韧性增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2585" y="4199" width="156" height="49" as="geometry" />
+          <mxGeometry x="2894" y="4144" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-217" value="文化体验提升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3141" y="4054" width="156" height="49" as="geometry" />
@@ -997,7 +997,9 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-248" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-223" target="FaEg5hChIHYmlGjZ65KH-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3220" y="4262" />
+              <mxPoint x="3390" y="4451" />
+              <mxPoint x="3220" y="4451" />
+              <mxPoint x="3220" y="4549" />
             </Array>
           </mxGeometry>
         </mxCell>
