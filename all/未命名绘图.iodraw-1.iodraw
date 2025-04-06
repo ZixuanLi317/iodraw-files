@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="7-Ps7Ewp17TA786Ylxam">
-    <mxGraphModel dx="3249" dy="1136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3112" dy="1060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -870,18 +870,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-232" value="危机缓冲" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=1;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-216">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-232" value="危机缓冲" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-216">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3072" y="4018" />
-              <mxPoint x="3072" y="4140" />
+              <mxPoint x="3029" y="3999" />
+              <mxPoint x="3072" y="3999" />
+              <mxPoint x="3072" y="4026" />
+              <mxPoint x="3012" y="4026" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-233" value="场所依恋" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-217">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3219" y="4018" />
+              <mxPoint x="3061" y="3994" />
+              <mxPoint x="3219" y="3994" />
             </Array>
           </mxGeometry>
         </mxCell>
