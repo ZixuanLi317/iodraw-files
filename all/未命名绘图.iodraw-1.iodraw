@@ -209,11 +209,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-31" value="生态系统&#xa;服务增强" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.9;entryY=1;rounded=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-18" target="FaEg5hChIHYmlGjZ65KH-17">
-          <mxGeometry x="-0.0354" y="26" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="708" y="1173" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-32" value="技术维度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
