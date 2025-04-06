@@ -325,6 +325,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-58" target="FaEg5hChIHYmlGjZ65KH-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-58" value="社会维度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;--------&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 文化认同&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 政策制度&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 经济动力&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;• 社区参与" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="220" y="2720" width="150" height="150" as="geometry" />
         </mxCell>
@@ -424,6 +427,9 @@
               <mxPoint x="1058" y="2973" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-102" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="285" y="2555" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
