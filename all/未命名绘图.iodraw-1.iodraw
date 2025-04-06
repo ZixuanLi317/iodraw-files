@@ -425,8 +425,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-102" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="285" y="2555" width="20" height="20" as="geometry" />
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-105" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.727;exitY=0.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="2930" as="sourcePoint" />
+            <mxPoint x="690" y="2880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="2930" />
+              <mxPoint x="640" y="2880" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
