@@ -116,14 +116,16 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-19" value="技术维度&#xa;    --------&#xa;    • 城市基础设施&#xa;    • 数字孪生&#xa;    • 物联网系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1050" y="850" width="169" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-20" value="社会-生态交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-17" target="FaEg5hChIHYmlGjZ65KH-18">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-20" value="社会-生态交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="1158" />
-              <mxPoint x="670" y="1168" />
-              <mxPoint x="690" y="1168" />
-              <mxPoint x="720" y="1168" />
+              <mxPoint x="640" y="1157" />
+              <mxPoint x="670" y="1167" />
+              <mxPoint x="690" y="1167" />
+              <mxPoint x="710" y="1169" />
             </Array>
+            <mxPoint x="628.5" y="950.9999999999998" as="sourcePoint" />
+            <mxPoint x="788" y="1129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-21" value="社会-技术交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=0;entryX=0.17;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-17" target="FaEg5hChIHYmlGjZ65KH-19">
@@ -346,7 +348,7 @@
           <mxGeometry x="477" y="1420" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-74" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="1390" width="143" height="143" as="geometry" />
+          <mxGeometry x="417.5" y="1400" width="143" height="143" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
