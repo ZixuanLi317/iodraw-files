@@ -425,9 +425,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-100" value="政策驱动&#xa;技术革新" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.15;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-101" value="政策驱动&#xa;技术革新" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0;entryX=0.289;entryY=0.044;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-61" target="FaEg5hChIHYmlGjZ65KH-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="960" y="2880" />
               <mxPoint x="1068" y="2902" />
             </Array>
             <mxPoint x="1009" y="2918" as="sourcePoint" />
