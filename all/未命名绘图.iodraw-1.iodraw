@@ -862,10 +862,11 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-240" value="智能健身设施" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-215" target="FaEg5hChIHYmlGjZ65KH-223">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-241" value="数字孪生平台" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-216" target="FaEg5hChIHYmlGjZ65KH-222">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-241" value="数字孪生平台" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-216" target="FaEg5hChIHYmlGjZ65KH-223">
           <mxGeometry x="-0.1251" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3017" y="4362" />
+              <mxPoint x="3668" y="4362" />
             </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
