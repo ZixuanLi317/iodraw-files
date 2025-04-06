@@ -105,13 +105,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-17" value="社会维度&#xa;    --------&#xa;    • 文化认同&#xa;    • 政策制度&#xa;    • 经济动力&#xa;    • 社区参与" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1004" width="137" height="102" as="geometry" />
+          <mxGeometry x="414" y="900" width="137" height="102" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-18" value="生态维度&#xa;    --------&#xa;    • 气候模式&#xa;    • 生物多样性&#xa;    • 生态系统服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="1072" width="169" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-19" value="技术维度&#xa;    --------&#xa;    • 城市基础设施&#xa;    • 数字孪生&#xa;    • 物联网系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1004" y="1013" width="169" height="84" as="geometry" />
+          <mxGeometry x="910" y="900" width="169" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-20" value="社会-生态交互" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.4;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-17" target="FaEg5hChIHYmlGjZ65KH-18">
           <mxGeometry relative="1" as="geometry">
