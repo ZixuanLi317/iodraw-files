@@ -789,7 +789,7 @@
           <mxGeometry x="2847" y="4054" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-216" value="社区韧性增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2714" y="4219" width="156" height="49" as="geometry" />
+          <mxGeometry x="2584" y="4207" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-217" value="文化体验提升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3141" y="4054" width="156" height="49" as="geometry" />
@@ -813,7 +813,7 @@
           <mxGeometry x="3139" y="4176" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-224" value="三维度整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3043" y="4298" width="140" height="49" as="geometry" />
+          <mxGeometry x="2971" y="4449" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-225" value="生态系统功能" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-208" target="FaEg5hChIHYmlGjZ65KH-209">
           <mxGeometry relative="1" as="geometry">
