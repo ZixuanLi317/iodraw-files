@@ -950,7 +950,9 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-241" value="数字孪生平台" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.23;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-216" target="FaEg5hChIHYmlGjZ65KH-224">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2788" y="4262" />
+              <mxPoint x="3012" y="4183" />
+              <mxPoint x="2788" y="4183" />
+              <mxPoint x="2788" y="4560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1020,8 +1022,8 @@
             <Array as="points">
               <mxPoint x="3620" y="4183" />
               <mxPoint x="3624" y="4183" />
-              <mxPoint x="3624" y="4195" />
-              <mxPoint x="3513" y="4195" />
+              <mxPoint x="3624" y="4221" />
+              <mxPoint x="3513" y="4221" />
               <mxPoint x="3513" y="4177" />
               <mxPoint x="3476" y="4177" />
             </Array>
