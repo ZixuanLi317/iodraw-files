@@ -833,23 +833,11 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-231" value="压力缓解" style="startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-215">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-232" value="危机缓冲" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-216">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3029" y="3999" />
-              <mxPoint x="3072" y="3999" />
-              <mxPoint x="3072" y="4026" />
-              <mxPoint x="3012" y="4026" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-232" value="危机缓冲" style="startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-216">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-233" value="场所依恋" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-217">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3061" y="3994" />
-              <mxPoint x="3219" y="3994" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-233" value="场所依恋" style="startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-217">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-234" value="虚拟仿真" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-218">
           <mxGeometry relative="1" as="geometry">
