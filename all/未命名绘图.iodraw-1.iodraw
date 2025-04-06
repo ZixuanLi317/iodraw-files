@@ -394,6 +394,37 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-93" value="&lt;b style=&quot;font-weight: normal; font-size: 10px;&quot; id=&quot;docs-internal-guid-741e8d96-7fff-ac16-18f6-f21a11f03a0a&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 10px;&quot;&gt;气候变化适应策略&lt;/span&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; white-space: nowrap; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;→&lt;/span&gt;绿色基础设施技术实施增加&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; text-align: center; white-space: nowrap; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;→&lt;/span&gt;增强生态系统服务&lt;span style=&quot;font-family: Helvetica; text-align: center; white-space: nowrap; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;→&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-weight: normal; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-size: 10px;&quot;&gt;改善公共健康成果和政策支持（社会）&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1445.25" width="141" height="87" as="geometry" />
         </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-94" value="社会维度&#xa;---------&#xa;• 气候变化适应策略&#xa;• 公共健康改善&#xa;• 政策支持强化" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2322" width="172" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-95" value="技术维度&#xa;---------&#xa;• 绿色基础设施&#xa;• 技术实施增加" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2290" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-96" value="生态维度&#xa;---------&#xa;• 生态系统服务&#xa;• 功能增强" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;" vertex="1" parent="1">
+          <mxGeometry x="738" y="2331" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-97" value="政策驱动&#xa;技术革新" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.15;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-94" target="FaEg5hChIHYmlGjZ65KH-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="2316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-98" value="工程实施&#xa;改善环境" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.06;rounded=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-95" target="FaEg5hChIHYmlGjZ65KH-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="679" y="2316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-99" value="生态服务提升&#xa;反哺社会" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=1;entryY=0.85;rounded=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-96" target="FaEg5hChIHYmlGjZ65KH-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="679" y="2397" />
+              <mxPoint x="421" y="2397" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
