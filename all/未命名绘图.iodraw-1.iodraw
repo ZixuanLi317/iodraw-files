@@ -807,7 +807,7 @@
           <mxGeometry x="2941" y="4362" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-223" value="社会-技术整合" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="3432" y="4293" width="162" height="49" as="geometry" />
+          <mxGeometry x="3587" y="4316" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-224" value="三维度整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2937" y="4718" width="140" height="49" as="geometry" />
@@ -865,8 +865,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-241" value="数字孪生平台" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-216" target="FaEg5hChIHYmlGjZ65KH-222">
           <mxGeometry x="-0.1251" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3017" y="4231" />
-              <mxPoint x="2918" y="4231" />
+              <mxPoint x="3017" y="4362" />
             </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
