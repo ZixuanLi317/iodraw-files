@@ -116,7 +116,7 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-20" value="社会-生态交互" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.4;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-17" target="FaEg5hChIHYmlGjZ65KH-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="578" y="1032" />
+              <mxPoint x="600" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -124,6 +124,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="578" y="850" />
+              <mxPoint x="750" y="770" />
               <mxPoint x="921" y="850" />
             </Array>
           </mxGeometry>
