@@ -764,6 +764,225 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-207" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;e.g.&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;resizable=1;" vertex="1" parent="1">
           <mxGeometry x="-315" y="3826.5" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-208" value="UGS Research System" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="711" y="4498" width="213" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-209" value="生态维度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="245" y="4620" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-210" value="社会维度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="848" y="4620" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-211" value="技术维度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1289" y="4620" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-212" value="城市气候调节" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="4742" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-213" value="生物多样性保护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="4742" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-214" value="水文过程控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="4742" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-215" value="身心健康促进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="759" y="4742" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-216" value="社区韧性增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="622" y="4864" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-217" value="文化体验提升" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1053" y="4742" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-218" value="数字孪生系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1379" y="4864" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-219" value="智能监测网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="4742" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-220" value="数据分析平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1556" y="4742" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-221" value="生态-社会整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="231" y="4864" width="162" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-222" value="生态-技术整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="4864" width="162" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-223" value="社会-技术整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1051" y="4864" width="162" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-224" value="三维度整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="955" y="4986" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-225" value="生态系统功能" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-208" target="FaEg5hChIHYmlGjZ65KH-209">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="307" y="4584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-226" value="公共健康效益" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-208" target="FaEg5hChIHYmlGjZ65KH-210">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="4584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-227" value="数字创新应用" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-208" target="FaEg5hChIHYmlGjZ65KH-211">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1351" y="4584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-228" value="热岛效应缓解" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-209" target="FaEg5hChIHYmlGjZ65KH-212">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="4706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-229" value="生态网络构建" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-209" target="FaEg5hChIHYmlGjZ65KH-213">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="4706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-230" value="海绵城市建设" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-209" target="FaEg5hChIHYmlGjZ65KH-214">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="628" y="4706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-231" value="压力缓解" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-215">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="837" y="4706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-232" value="危机缓冲" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=1;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-216">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="984" y="4706" />
+              <mxPoint x="984" y="4828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-233" value="场所依恋" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-210" target="FaEg5hChIHYmlGjZ65KH-217">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1131" y="4706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-234" value="虚拟仿真" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.04;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-218">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1278" y="4706" />
+              <mxPoint x="1278" y="4828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-235" value="无人机/传感器" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1425" y="4706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-236" value="机器学习" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-211" target="FaEg5hChIHYmlGjZ65KH-220">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1634" y="4706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-237" value="健康环境供给" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.03;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-212" target="FaEg5hChIHYmlGjZ65KH-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="4828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-238" value="生物福祉增益" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-213" target="FaEg5hChIHYmlGjZ65KH-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-239" value="智能监测系统" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-214" target="FaEg5hChIHYmlGjZ65KH-222">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="628" y="4828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-240" value="智能健身设施" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-215" target="FaEg5hChIHYmlGjZ65KH-223">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="837" y="4828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-241" value="数字孪生平台" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.23;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-216" target="FaEg5hChIHYmlGjZ65KH-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="4950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-242" value="景观感知优化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.38;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-217" target="FaEg5hChIHYmlGjZ65KH-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1131" y="4828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-243" value="系统模拟" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.3;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-218" target="FaEg5hChIHYmlGjZ65KH-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1457" y="4950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-244" value="实时数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.3;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-219" target="FaEg5hChIHYmlGjZ65KH-222">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1425" y="4828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-245" value="使用模式分析" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.3;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-220" target="FaEg5hChIHYmlGjZ65KH-223">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1634" y="4828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-246" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.38;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-221" target="FaEg5hChIHYmlGjZ65KH-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="4950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-247" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.2;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-222" target="FaEg5hChIHYmlGjZ65KH-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="4950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-248" value="整合" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-223" target="FaEg5hChIHYmlGjZ65KH-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1132" y="4950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
