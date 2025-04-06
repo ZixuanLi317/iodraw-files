@@ -976,7 +976,9 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-245" value="使用模式分析" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.3;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-220" target="FaEg5hChIHYmlGjZ65KH-223">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3722" y="4140" />
+              <mxPoint x="3835" y="4215" />
+              <mxPoint x="3722" y="4215" />
+              <mxPoint x="3722" y="4327" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1016,10 +1018,12 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-249" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-219" target="FaEg5hChIHYmlGjZ65KH-218">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="3620" y="4183" />
               <mxPoint x="3624" y="4183" />
-              <mxPoint x="3513" y="4183" />
+              <mxPoint x="3624" y="4195" />
+              <mxPoint x="3513" y="4195" />
               <mxPoint x="3513" y="4177" />
-              <mxPoint x="3491" y="4177" />
+              <mxPoint x="3476" y="4177" />
             </Array>
             <mxPoint x="3625" y="4124" as="sourcePoint" />
             <mxPoint x="3027" y="4241" as="targetPoint" />
