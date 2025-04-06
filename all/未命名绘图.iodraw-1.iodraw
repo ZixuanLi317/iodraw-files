@@ -111,7 +111,7 @@
           <mxGeometry x="680" y="1100" width="169" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-19" value="技术维度&#xa;    --------&#xa;    • 城市基础设施&#xa;    • 数字孪生&#xa;    • 物联网系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="910" y="900" width="169" height="84" as="geometry" />
+          <mxGeometry x="940" y="891" width="169" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-20" value="社会-生态交互" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.4;entryX=0;entryY=0.03;rounded=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-17" target="FaEg5hChIHYmlGjZ65KH-18">
           <mxGeometry relative="1" as="geometry">
