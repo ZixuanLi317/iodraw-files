@@ -856,23 +856,11 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-238" value="生物福祉增益" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-213" target="FaEg5hChIHYmlGjZ65KH-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-239" value="智能监测系统" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-214" target="FaEg5hChIHYmlGjZ65KH-222">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2608" y="4140" />
-              <mxPoint x="2716" y="4140" />
-              <mxPoint x="2716" y="4263" />
-              <mxPoint x="2791" y="4263" />
-              <mxPoint x="2791" y="4297" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-239" value="智能监测系统" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-214" target="FaEg5hChIHYmlGjZ65KH-222">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-240" value="智能健身设施" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-215" target="FaEg5hChIHYmlGjZ65KH-223">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2925" y="4140" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-240" value="智能健身设施" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-215" target="FaEg5hChIHYmlGjZ65KH-223">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-241" value="数字孪生平台" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="FaEg5hChIHYmlGjZ65KH-216" target="FaEg5hChIHYmlGjZ65KH-222">
           <mxGeometry relative="1" as="geometry">
