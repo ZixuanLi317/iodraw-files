@@ -4,6 +4,106 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-1" value="SETS框架三维交互系统" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="1508" height="647" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-2" value="社会维度&#xa;文化认同&#xa;政策制度&#xa;经济动力&#xa;社区参与" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FaEg5hChIHYmlGjZ65KH-1">
+          <mxGeometry x="580" y="46" width="124" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-3" value="生态维度&#xa;气候模式&#xa;生物多样性&#xa;生态系统服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FaEg5hChIHYmlGjZ65KH-1">
+          <mxGeometry x="721" y="298" width="156" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-4" value="技术维度&#xa;城市基础设施&#xa;数字孪生&#xa;物联网系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="FaEg5hChIHYmlGjZ65KH-1">
+          <mxGeometry x="355" y="516" width="156" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-5" value="社会-生态交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.2;exitY=1;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-2" target="FaEg5hChIHYmlGjZ65KH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-6" value="社会-技术交互" style="curved=1;startArrow=block;endArrow=block;exitX=0;exitY=0.62;entryX=0;entryY=0.25;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-2" target="FaEg5hChIHYmlGjZ65KH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="93" y="232" />
+              <mxPoint x="93" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-7" value="生态-技术交互" style="curved=1;startArrow=block;endArrow=block;exitX=0;exitY=0.63;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-3" target="FaEg5hChIHYmlGjZ65KH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="177" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-8" value="城市绿色空间政策 → 生物多样性模式&#xa;(社会→生态)" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-2" target="FaEg5hChIHYmlGjZ65KH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="713" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-9" value="生态系统服务收益 → 公众参与度&#xa;(生态→社会)" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0;entryX=1;entryY=0.77;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-3" target="FaEg5hChIHYmlGjZ65KH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="886" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-10" value="交通基础设施 → 居住隔离模式&#xa;(技术→社会)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.38;entryX=1;entryY=0.63;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-4" target="FaEg5hChIHYmlGjZ65KH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1134" y="458" />
+              <mxPoint x="1134" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-11" value="数字治理政策 → 平台应用&#xa;(社会→技术)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-2" target="FaEg5hChIHYmlGjZ65KH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="261" y="232" />
+              <mxPoint x="261" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-12" value="生态约束 → 技术参数设计&#xa;(生态→技术)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-3" target="FaEg5hChIHYmlGjZ65KH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="376" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-13" value="绿色基础设施 → 水文调节&#xa;(技术→生态)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.39;entryX=1;entryY=0.68;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-4" target="FaEg5hChIHYmlGjZ65KH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1249" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-14" value="气候变化适应策略" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-2" target="FaEg5hChIHYmlGjZ65KH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="232" />
+              <mxPoint x="490" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-15" value="绿色基础设施实施" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.41;entryX=1;entryY=0.63;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-4" target="FaEg5hChIHYmlGjZ65KH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-16" value="生态系统服务增强" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=1;entryY=0.66;rounded=0;" edge="1" parent="FaEg5hChIHYmlGjZ65KH-1" source="FaEg5hChIHYmlGjZ65KH-3" target="FaEg5hChIHYmlGjZ65KH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1048" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
