@@ -681,7 +681,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-173" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;生态服务提升&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;反哺社会&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="3881.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="140" y="3958.25" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-174" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;工程实施&lt;/span&gt;&lt;br style=&quot;font-size: 13px; text-wrap-mode: nowrap; padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;改善环境&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="3900" width="80" height="50" as="geometry" />
@@ -732,7 +732,7 @@
           <mxGeometry x="-190" y="3850" width="157" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FaEg5hChIHYmlGjZ65KH-190" value="&lt;br&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Ecosystem Services Enhancement Feeding Back to &lt;br&gt;Social Systems&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;align=center;fillColor=default;rotation=60;" vertex="1" parent="1">
-          <mxGeometry x="-654" y="3851.5" width="193" height="80" as="geometry" />
+          <mxGeometry x="-640" y="3850" width="193" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
