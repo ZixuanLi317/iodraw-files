@@ -20,7 +20,7 @@
           <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-5" value="&lt;b&gt;社会维度&lt;/b&gt;&lt;br&gt;(Social)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="517" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="507" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-6" value="&lt;b&gt;技术维度&lt;/b&gt;&lt;br&gt;(Technological)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="354" y="510" width="120" height="40" as="geometry" />
