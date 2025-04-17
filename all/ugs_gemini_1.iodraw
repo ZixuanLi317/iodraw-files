@@ -35,7 +35,7 @@
           <mxGeometry x="357" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;Social&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;–&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Ecological Intergration&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="354.5" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="354.5" y="165" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-12" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Social&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;–&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Technological&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;Intergration&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;• 公众参与技术&lt;br&gt;• 智慧公园体验&lt;br&gt;• 数字鸿沟" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="450" y="310" width="84" height="100" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="357" y="225" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-GWysuYoch2RMku2lgD-16" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;e.g.&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;resizable=1;" vertex="1" parent="1">
-          <mxGeometry x="378.25" y="220" width="50" height="30" as="geometry" />
+          <mxGeometry x="370" y="200" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
