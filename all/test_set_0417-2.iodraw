@@ -1,60 +1,54 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="SETS Diagram" id="abc123">
-    <mxGraphModel dx="1000" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1">
+    <mxGraphModel dx="1026" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
-        <!-- Subsystems -->
-        <mxCell id="2" value="S\n社会" style="rounded=1;fillColor=#8CC0DE;strokeColor=#000000;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="80" height="40" as="geometry"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="S\n社会" style="rounded=1;fillColor=#8CC0DE;strokeColor=#000000;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="50" y="50" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="E\n生态" style="rounded=1;fillColor=#A2D39C;strokeColor=#000000;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="200" y="50" width="80" height="40" as="geometry"/>
+        <mxCell id="3" value="E\n生态" style="rounded=1;fillColor=#A2D39C;strokeColor=#000000;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="T\n技术" style="rounded=1;fillColor=#F5B971;strokeColor=#000000;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="350" y="50" width="80" height="40" as="geometry"/>
+        <mxCell id="4" value="T\n技术" style="rounded=1;fillColor=#F5B971;strokeColor=#000000;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="350" y="50" width="80" height="40" as="geometry" />
         </mxCell>
-        <!-- Feedback arrows -->
-        <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;endArrow=block;strokeColor=#000000;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="3" target="4">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;endArrow=block;strokeColor=#000000;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="4" target="2">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;endArrow=block;strokeColor=#000000;" parent="1" source="4" target="2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- Non-linearity: threshold curve -->
-        <mxCell id="8" value="" style="shape=polyline;curved=1;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8" value="" style="shape=polyline;curved=1;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="150" y="200" width="250" height="150" as="geometry">
-            <mxPoint x="0" y="150" as="sourcePoint"/>
-            <mxPoint x="250" y="0" as="targetPoint"/>
+            <mxPoint y="150" as="sourcePoint" />
+            <mxPoint x="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <!-- Threshold line -->
-        <mxCell id="9" style="shape=line;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="275" y="200" width="0" height="150" as="geometry"/>
+        <mxCell id="9" style="shape=line;strokeColor=#FF0000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="275" y="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="阈值" style="text;align=center;verticalAlign=top;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="30" height="20" as="geometry"/>
+        <mxCell id="10" value="阈值" style="text;align=center;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="260" y="180" width="30" height="20" as="geometry" />
         </mxCell>
-        <!-- Uncertainty layers -->
-        <mxCell id="11" value="随机性\n(Stochasticity)" style="rounded=1;fillColor=#EEEEEE;strokeColor=#000000;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="550" y="50" width="120" height="40" as="geometry"/>
+        <mxCell id="11" value="随机性\n(Stochasticity)" style="rounded=1;fillColor=#EEEEEE;strokeColor=#000000;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="550" y="50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="认知不确定\n(Epistemic)" style="rounded=1;fillColor=#DDDDDD;strokeColor=#000000;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="540" y="100" width="140" height="40" as="geometry"/>
+        <mxCell id="12" value="认知不确定\n(Epistemic)" style="rounded=1;fillColor=#DDDDDD;strokeColor=#000000;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="540" y="100" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="结构不确定\n(Structural)" style="rounded=1;fillColor=#CCCCCC;strokeColor=#000000;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="530" y="150" width="160" height="40" as="geometry"/>
+        <mxCell id="13" value="结构不确定\n(Structural)" style="rounded=1;fillColor=#CCCCCC;strokeColor=#000000;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="530" y="150" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="深度不确定\n(Deep)" style="rounded=1;fillColor=#BBBBBB;strokeColor=#000000;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="180" height="40" as="geometry"/>
+        <mxCell id="14" value="深度不确定\n(Deep)" style="rounded=1;fillColor=#BBBBBB;strokeColor=#000000;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="520" y="200" width="180" height="40" as="geometry" />
         </mxCell>
-        <!-- Feedback loop arrow -->
-        <mxCell id="15" style="edgeStyle=loopEdgeStyle;loopDirection=0;endArrow=block;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="2" target="2">
+        <mxCell id="15" style="edgeStyle=loopEdgeStyle;loopDirection=0;endArrow=block;strokeColor=#000000;strokeWidth=2;" parent="1" source="2" target="2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="350" as="offset"/>
+            <mxPoint x="200" y="350" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
