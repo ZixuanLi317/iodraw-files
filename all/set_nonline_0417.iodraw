@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxGraphModel dx="1096" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+
+    <!-- 行标题（非线性类型） -->
+    <mxCell id="2" value="阈值效应&#10;Threshold" style="text;html=1;align=right;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
+      <mxGeometry x="0" y="100" width="140" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="3" value="敏感依赖&#10;Sensitive dependence" style="text;html=1;align=right;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
+      <mxGeometry x="0" y="200" width="140" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="4" value="不成比例影响&#10;Disproportionate" style="text;html=1;align=right;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
+      <mxGeometry x="0" y="300" width="140" height="100" as="geometry"/>
+    </mxCell>
+
+    <!-- 列标题（不确定性来源） -->
+    <mxCell id="5" value="随机性&#10;Stochasticity" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
+      <mxGeometry x="140" y="0" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="6" value="认知不确定&#10;Epistemic" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
+      <mxGeometry x="300" y="0" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="7" value="结构不确定&#10;Structural" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
+      <mxGeometry x="460" y="0" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="8" value="深度不确定&#10;Deep" style="text;html=1;align=center;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
+      <mxGeometry x="620" y="0" width="160" height="100" as="geometry"/>
+    </mxCell>
+
+    <!-- 网格单元（空白矩形，只起到画线作用） -->
+    <!-- Row 1 -->
+    <mxCell id="9" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="140" y="100" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="10" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="300" y="100" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="11" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="460" y="100" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="12" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="620" y="100" width="160" height="100" as="geometry"/>
+    </mxCell>
+
+    <!-- Row 2 -->
+    <mxCell id="13" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="140" y="200" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="14" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="300" y="200" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="15" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="460" y="200" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="16" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="620" y="200" width="160" height="100" as="geometry"/>
+    </mxCell>
+
+    <!-- Row 3 -->
+    <mxCell id="17" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="140" y="300" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="18" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="300" y="300" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="19" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="460" y="300" width="160" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="20" value=" " style="shape=rect;rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=none;" vertex="1" parent="1">
+      <mxGeometry x="620" y="300" width="160" height="100" as="geometry"/>
+    </mxCell>
+  </root>
+</mxGraphModel>
