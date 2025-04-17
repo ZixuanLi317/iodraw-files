@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="GDUI3rXUotCDzuUynW4w" name="第 1 页">
-    <mxGraphModel dx="7667" dy="4273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2195" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="317.75" y="690" width="160.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l-GWysuYoch2RMku2lgD-9" value="&lt;ul style=&quot;line-height: 130%; font-size: 10px;&quot;&gt;&lt;li style=&quot;&quot;&gt;Greenspace Policies&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;→&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;Biodiversity Patterns&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Ecosystem Service Benefits&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;→&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;Public Engagement&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=11;labelBackgroundColor=none;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="3650" width="197.75" height="80" as="geometry" />
+          <mxGeometry x="-50" y="544" width="197.75" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
