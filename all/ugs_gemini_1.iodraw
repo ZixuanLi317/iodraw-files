@@ -38,7 +38,7 @@
           <mxGeometry x="354.5" y="165" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-12" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Social&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;–&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Technological&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;Intergration&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="460.5" y="305" width="84" height="45" as="geometry" />
+          <mxGeometry x="460.5" y="310" width="84" height="45" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-13" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Ecological&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;–&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Technological&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Intergration&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="284.75" y="315" width="90" height="40" as="geometry" />
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="l-GWysuYoch2RMku2lgD-18" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;e.g.&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;resizable=1;" vertex="1" parent="1">
           <mxGeometry x="288.5" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l-GWysuYoch2RMku2lgD-19" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Functional simulation&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Precision management&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=11;labelBackgroundColor=none;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="365" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="l-GWysuYoch2RMku2lgD-20" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;e.g.&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="360" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
