@@ -17,7 +17,7 @@
           <mxGeometry x="264" y="270" width="300" height="300" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-4" value="&lt;b style=&quot;&quot;&gt;Ecological&lt;/b&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Dimension&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="213.75" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-5" value="&lt;b&gt;&lt;font&gt;Social&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-weight: 400; font-size: 11px;&quot;&gt;&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Dimension&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="507" y="160" width="120" height="40" as="geometry" />
