@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OvkLrlBSBYiqY4a0cCmZ">
-    <mxGraphModel dx="2304" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3191" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-13" value="GNN Layer l (l=1...L)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="352" y="294" width="1381" height="266" as="geometry" />
+          <mxGeometry x="600" y="850" width="1381" height="266" as="geometry" />
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-14" value="输入: h_u^(l) for u ∈ N(v) ∪ {v}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="K08hOpIf4pHCK0xj02j1-13">
           <mxGeometry x="46" y="83" width="245" height="67" as="geometry" />
