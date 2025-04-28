@@ -102,6 +102,9 @@
         <mxCell id="K08hOpIf4pHCK0xj02j1-24" value="初始UGS特征 h_v^(0) = [s,e,t]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="584" width="224" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="K08hOpIf4pHCK0xj02j1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K08hOpIf4pHCK0xj02j1-25" target="K08hOpIf4pHCK0xj02j1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-25" value="GNN Layer 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="392" y="1074" width="149" height="49" as="geometry" />
         </mxCell>
