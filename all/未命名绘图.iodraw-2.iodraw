@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K08hOpIf4pHCK0xj02j1-1" value="UpdateFunc (MLP)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="282" height="814" as="geometry" />
+          <mxGeometry x="2080" y="585" width="282" height="814" as="geometry" />
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-2" value="拼接: concat(h_v^(l), agg_neighbors_v^(l)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="K08hOpIf4pHCK0xj02j1-1">
           <mxGeometry x="43" y="46" width="212" height="67" as="geometry" />
