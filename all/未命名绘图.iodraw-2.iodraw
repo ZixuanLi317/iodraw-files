@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OvkLrlBSBYiqY4a0cCmZ">
-    <mxGraphModel dx="3191" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2304" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,22 +100,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-24" value="初始UGS特征 h_v^(0) = [s,e,t]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1783" y="394" width="224" height="67" as="geometry" />
+          <mxGeometry x="354" y="584" width="224" height="67" as="geometry" />
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-25" value="GNN Layer 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1821" y="884" width="149" height="49" as="geometry" />
+          <mxGeometry x="392" y="1074" width="149" height="49" as="geometry" />
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-26" value="..." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1857" y="983" width="78" height="49" as="geometry" />
+          <mxGeometry x="428" y="1173" width="78" height="49" as="geometry" />
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-27" value="GNN Layer L" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1821" y="1082" width="148" height="49" as="geometry" />
+          <mxGeometry x="392" y="1272" width="148" height="49" as="geometry" />
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-28" value="最终UGS表示 h_v^(L)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="1181" width="211" height="49" as="geometry" />
+          <mxGeometry x="361" y="1371" width="211" height="49" as="geometry" />
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-29" value="下游任务 (预测/分类等)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1781" y="1280" width="229" height="49" as="geometry" />
+          <mxGeometry x="352" y="1470" width="229" height="49" as="geometry" />
         </mxCell>
         <mxCell id="K08hOpIf4pHCK0xj02j1-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="K08hOpIf4pHCK0xj02j1-24" target="K08hOpIf4pHCK0xj02j1-25">
           <mxGeometry relative="1" as="geometry">
