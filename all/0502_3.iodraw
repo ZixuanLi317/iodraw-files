@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2" value="&lt;b&gt;External Drivers&lt;/b&gt;&lt;br&gt;&lt;i&gt;(e.g., Climate Change, Policy, Technology Shifts)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;size=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="40" width="180" height="80" as="geometry" />
+          <mxGeometry x="30" y="70" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3" value="&lt;b&gt;Agents &amp;amp; Rules&lt;/b&gt;&lt;br&gt;&lt;i&gt;(e.g., Residents, Managers; Decision Logic)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="300" y="70" width="180" height="80" as="geometry" />
