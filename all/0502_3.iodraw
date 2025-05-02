@@ -128,7 +128,7 @@
             <mxPoint x="165" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="790" y="450" />
-              <mxPoint x="790" y="200" />
+              <mxPoint x="790" y="10" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
