@@ -64,16 +64,16 @@
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="670" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-14" value="&lt;b&gt;Theoretical Foundations&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-14" value="&lt;b&gt;Theoretical Foundations&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="24" y="640" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-16" value="SETS Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-16" value="SETS Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="690" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-17" value="UGS Context" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-17" value="UGS Context" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="730" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-18" value="CAS Theory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-18" value="CAS Theory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="770" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
