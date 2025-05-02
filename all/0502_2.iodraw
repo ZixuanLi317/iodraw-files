@@ -17,7 +17,7 @@
           <mxGeometry x="550" y="140" width="270" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6" value="&lt;b&gt;3.3 Measurement &amp;amp; Analysis Framework&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;Principles: Systematic, Integrative, Multi-scale, Complexity-focused, Operable&lt;/li&gt;&lt;li&gt;Methods: Integrate Traditional &amp;amp; Complexity Metrics&lt;/li&gt;&lt;li&gt;Core Tools: Network Analysis, Scaling Law Analysis&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;spacingLeft=4;" parent="1" vertex="1">
-          <mxGeometry x="860" y="140" width="260" height="110" as="geometry" />
+          <mxGeometry x="860" y="140" width="260" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7" value="Goal:&lt;br&gt;Systematic Understanding &amp;amp; Quantitative Measurement of UGS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1160" y="175" width="160" height="80" as="geometry" />
