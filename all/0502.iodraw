@@ -133,8 +133,11 @@
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-40" value="Complex Network Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="960" width="161" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-43" value="Complex Network Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="970" width="161" height="40" as="geometry" />
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rZE4SRtE4Rj2MSYg7wH4-43" target="rZE4SRtE4Rj2MSYg7wH4-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-43" value="CAS Theory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1087.5" width="161" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
