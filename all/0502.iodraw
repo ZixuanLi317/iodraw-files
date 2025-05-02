@@ -82,11 +82,8 @@
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Goal&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="464" y="680" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-21" value="SETS Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-21" value="Systematic Understanding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="490" y="730" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-22" value="UGS Context" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490" y="770" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-23" value="CAS Theory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="490" y="810" width="150" height="30" as="geometry" />
