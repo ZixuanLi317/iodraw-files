@@ -168,7 +168,7 @@
           <mxGeometry x="489" y="1257.5" width="161" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;UGS-SETS Model&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="315" y="910" width="200" height="40" as="geometry" />
+          <mxGeometry x="180" y="910" width="470" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
