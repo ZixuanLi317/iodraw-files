@@ -70,8 +70,8 @@
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-16" value="SETS Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="690" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-17" value="SETS Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="60" y="700" width="150" height="30" as="geometry" />
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-17" value="UGS Context" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="730" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
