@@ -148,8 +148,8 @@
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-46" value="&lt;b&gt;STEP 3&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Assessment &amp;amp; Analysis Framework&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="180" y="1180" width="265" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-48" value="CAS Theory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="1097.5" width="161" height="40" as="geometry" />
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-48" value="Agent Based Model&lt;div&gt;Graph Neural Network&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1217.5" width="161" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
