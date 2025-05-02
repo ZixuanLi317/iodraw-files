@@ -7,7 +7,7 @@
         <mxCell id="sJCoKLhCtGf9L0UEM42w-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fbf7f4;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="800" height="860" as="geometry" />
         </mxCell>
-        <mxCell id="sJCoKLhCtGf9L0UEM42w-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2">
+        <mxCell id="sJCoKLhCtGf9L0UEM42w-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="sJCoKLhCtGf9L0UEM42w-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="110" as="targetPoint" />
           </mxGeometry>
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sJCoKLhCtGf9L0UEM42w-29" value="&lt;b&gt;Agents &amp;amp; Rules&lt;/b&gt;&lt;br&gt;&lt;i&gt;(&lt;/i&gt;&lt;i&gt;S-E-T Dimensions&amp;nbsp;&lt;/i&gt;&lt;i&gt;)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="850" y="70" width="180" height="80" as="geometry" />
+          <mxGeometry x="300" y="70" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
