@@ -179,6 +179,13 @@
         <mxCell id="sJCoKLhCtGf9L0UEM42w-48" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="sJCoKLhCtGf9L0UEM42w-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="640" />
+              <mxPoint x="250" y="670" />
+              <mxPoint x="140" y="640" />
+              <mxPoint x="130" y="640" />
+              <mxPoint x="80" y="620" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sJCoKLhCtGf9L0UEM42w-42" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
