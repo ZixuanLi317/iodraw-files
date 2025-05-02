@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="QdIdCz0D35wXdwvkpaF6" name="第 1 页">
-    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="555" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="&lt;b&gt;3.1 Conceptual Reconstruction&lt;/b&gt;&lt;br&gt;UGS as Multilayer Interaction Network&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;Unit: UGS-SETS Unit (Physical Node)&lt;/li&gt;&lt;li&gt;Structure: Multilayer Network (S, E, T Layers)&lt;/li&gt;&lt;li&gt;Nodes: State Nodes (Attributes per Layer)&lt;/li&gt;&lt;li&gt;Edges: Intra-/Inter-layer (Interactions)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;spacingLeft=4;" parent="1" vertex="1">
-          <mxGeometry x="260" y="140" width="250" height="130" as="geometry" />
+          <mxGeometry x="260" y="140" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5" value="&lt;b&gt;3.2 Interaction Mechanism Analysis&lt;/b&gt;&lt;br&gt;Network Dynamics &amp;amp; Complexity&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;Feedback Loops (Table 1)&lt;/li&gt;&lt;li&gt;Cross-scale Interactions&lt;/li&gt;&lt;li&gt;Non-linearity &amp;amp; Uncertainty&lt;/li&gt;&lt;li&gt;Driver for Emergent Macro-patterns&lt;/li&gt;&lt;li&gt;Process Model (Drivers -&amp;gt; Units -&amp;gt; Network -&amp;gt; Emergence -&amp;gt; Outcomes)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;spacingLeft=4;" parent="1" vertex="1">
           <mxGeometry x="550" y="140" width="270" height="160" as="geometry" />
