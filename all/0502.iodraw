@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-51" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fbf7f4;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1450" width="546" height="650" as="geometry" />
+        </mxCell>
         <mxCell id="2" value="理论基础&lt;br&gt;(Theoretical Foundations)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="314" y="40" width="200" height="60" as="geometry" />
         </mxCell>
@@ -153,9 +156,6 @@
         </mxCell>
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-48" value="Agent Based Model&lt;div&gt;Graph Neural Network&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="1217.5" width="161" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-51" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fbf7f4;" vertex="1" parent="1">
-          <mxGeometry x="144" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
