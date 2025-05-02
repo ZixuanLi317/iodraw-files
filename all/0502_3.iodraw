@@ -12,7 +12,7 @@
             <mxPoint x="300" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJCoKLhCtGf9L0UEM42w-25" value="Influence" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJCoKLhCtGf9L0UEM42w-24">
+        <mxCell id="sJCoKLhCtGf9L0UEM42w-25" value="&lt;b style=&quot;background-color: rgb(254, 253, 253);&quot;&gt;Influence&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJCoKLhCtGf9L0UEM42w-24">
           <mxGeometry x="-0.1667" y="4" relative="1" as="geometry">
             <mxPoint y="4" as="offset" />
           </mxGeometry>
