@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-14" value="Theoretical Foundations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="24" y="560" width="200" height="60" as="geometry" />
+          <mxGeometry x="24" y="560" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
