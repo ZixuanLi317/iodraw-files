@@ -5,14 +5,14 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sJCoKLhCtGf9L0UEM42w-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fbf7f4;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="800" height="860" as="geometry" />
+          <mxGeometry x="10" y="10" width="800" height="520" as="geometry" />
         </mxCell>
         <mxCell id="sJCoKLhCtGf9L0UEM42w-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="sJCoKLhCtGf9L0UEM42w-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJCoKLhCtGf9L0UEM42w-25" value="&lt;b style=&quot;&quot;&gt;Influence&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fbf7f4;" vertex="1" connectable="0" parent="sJCoKLhCtGf9L0UEM42w-24">
+        <mxCell id="sJCoKLhCtGf9L0UEM42w-25" value="&lt;span style=&quot;&quot;&gt;Influence&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fbf7f4;fontStyle=0" vertex="1" connectable="0" parent="sJCoKLhCtGf9L0UEM42w-24">
           <mxGeometry x="-0.1667" y="4" relative="1" as="geometry">
             <mxPoint y="4" as="offset" />
           </mxGeometry>
