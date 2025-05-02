@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="290" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Multi-layer Network&lt;br&gt;&lt;i&gt;(Structure for Interaction)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="324" y="290" width="180" height="80" as="geometry" />
+          <mxGeometry x="320" y="290" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Mechanisms &amp;amp; Feedbacks&lt;br&gt;&lt;i&gt;(Feedback Loops, Scale, Non-linearity)&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="560" y="290" width="180" height="80" as="geometry" />
@@ -41,7 +41,7 @@
             <mxPoint x="130" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="11" value="Interaction via Network, applying Mechanisms" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3" edge="1">
+        <mxCell id="11" value="Interaction via Network, applying Mechanisms" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" edge="1" target="5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="220" as="sourcePoint" />
             <mxPoint x="390" y="290" as="targetPoint" />
@@ -113,8 +113,7 @@
             <Array as="points">
               <mxPoint x="790" y="520" />
               <mxPoint x="790" y="230" />
-              <mxPoint x="260" y="230" />
-              <mxPoint x="260" y="240" />
+              <mxPoint x="220" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
