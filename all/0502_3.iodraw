@@ -13,6 +13,9 @@
         <mxCell id="4" value="&lt;b&gt;UGS-SETS Units &amp;amp; States&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Nodes with S-E-T Attributes)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="40" y="290" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="sJCoKLhCtGf9L0UEM42w-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5" value="Multi-layer Network&lt;br&gt;&lt;i&gt;(Structure for Interaction)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="320" y="290" width="180" height="80" as="geometry" />
         </mxCell>
