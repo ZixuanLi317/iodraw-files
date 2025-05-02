@@ -22,9 +22,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sJCoKLhCtGf9L0UEM42w-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5" target="4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="330" />
+              <mxPoint x="260" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="sJCoKLhCtGf9L0UEM42w-22" value="Structure mediates Interaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJCoKLhCtGf9L0UEM42w-21">
+        <mxCell id="sJCoKLhCtGf9L0UEM42w-22" value="Structure&lt;div&gt;mediates&lt;/div&gt;&lt;div&gt;Interaction&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sJCoKLhCtGf9L0UEM42w-21">
           <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
