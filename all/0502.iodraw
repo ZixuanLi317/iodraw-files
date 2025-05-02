@@ -61,8 +61,8 @@
             <mxPoint x="464" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="24" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="670" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-14" value="&lt;b&gt;Theoretical Foundations&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="24" y="640" width="200" height="40" as="geometry" />
