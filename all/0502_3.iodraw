@@ -179,10 +179,10 @@
         <mxCell id="sJCoKLhCtGf9L0UEM42w-42" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="255" y="677" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="sJCoKLhCtGf9L0UEM42w-46" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+        <mxCell id="sJCoKLhCtGf9L0UEM42w-46" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sJCoKLhCtGf9L0UEM42w-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="780" as="sourcePoint" />
-            <mxPoint x="500" y="730" as="targetPoint" />
+            <mxPoint x="170" y="620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="500" y="780" />
               <mxPoint x="450" y="730" />
