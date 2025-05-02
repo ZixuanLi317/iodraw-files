@@ -221,7 +221,7 @@
             <mxPoint x="70" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJCoKLhCtGf9L0UEM42w-60" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=0;" edge="1" parent="1">
+        <mxCell id="sJCoKLhCtGf9L0UEM42w-60" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="685.33" as="sourcePoint" />
             <mxPoint x="70" y="720" as="targetPoint" />
