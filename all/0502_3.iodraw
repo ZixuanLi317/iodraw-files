@@ -11,7 +11,7 @@
           <mxGeometry x="300" y="70" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4" value="&lt;b&gt;UGS-SETS Units &amp;amp; States&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Nodes with S-E-T Attributes)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="30" y="370" width="180" height="80" as="geometry" />
+          <mxGeometry x="30" y="410" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sJCoKLhCtGf9L0UEM42w-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5" target="7">
           <mxGeometry relative="1" as="geometry" />
@@ -21,10 +21,10 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJCoKLhCtGf9L0UEM42w-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5" target="4">
+        <mxCell id="sJCoKLhCtGf9L0UEM42w-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5" target="4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="330" />
+              <mxPoint x="260" y="260" />
               <mxPoint x="260" y="410" />
             </Array>
           </mxGeometry>
