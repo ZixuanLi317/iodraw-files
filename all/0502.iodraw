@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="b7dw44TIJJ7V4tcsixj3" name="第 1 页">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="472" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,11 +148,6 @@
         </mxCell>
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-40" value="Complex Network Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="1000" width="161" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rZE4SRtE4Rj2MSYg7wH4-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="489" y="1147.5" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-45" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Indicators, Network Metrics, Spaital Pattern" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="1252.5" width="260" height="45" as="geometry" />
