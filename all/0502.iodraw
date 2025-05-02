@@ -130,7 +130,7 @@
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rZE4SRtE4Rj2MSYg7wH4-40" target="rZE4SRtE4Rj2MSYg7wH4-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-40" value="Complex Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rZE4SRtE4Rj2MSYg7wH4-40" value="Complex Network Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="960" width="161" height="40" as="geometry" />
         </mxCell>
       </root>
