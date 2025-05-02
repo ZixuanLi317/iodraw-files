@@ -1,0 +1,54 @@
+<mxGraphModel dx="1296" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="2" value="SETS 框架&lt;br&gt;(SETS Framework)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+      <mxGeometry x="230" y="20" width="80" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="3" value="CAS 理论&lt;br&gt;(CAS Theory)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+      <mxGeometry x="520" y="20" width="80" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="4" value="&lt;b&gt;3.1 概念重构: UGS 作为多层交互网络&lt;/b&gt;&lt;br&gt;(Conceptual Reconstruction: UGS as Multilayer Interaction Network)&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;基础单元: UGS-SETS 单元 (物理节点)&lt;/li&gt;&lt;li&gt;网络结构: 多层网络 (S, E, T 层面)&lt;/li&gt;&lt;li&gt;节点状态: 状态节点 (单元在各层面的属性)&lt;/li&gt;&lt;li&gt;连接方式: 层内/层间边 (交互关系)&lt;/li&gt;&lt;li&gt;理论视角: CAS (主体, 适应, 涌现)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
+      <mxGeometry x="180" y="140" width="470" height="140" as="geometry" />
+    </mxCell>
+    <mxCell id="5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="415" y="280" as="sourcePoint" />
+        <mxPoint x="415" y="320" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="6" value="&lt;b&gt;3.2 交互机制解析: 网络动态与复杂性&lt;/b&gt;&lt;br&gt;(Interaction Mechanism Analysis: Network Dynamics &amp;amp; Complexity)&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;反馈回路: 强化, 平衡, 调节, 延迟 (表1)&lt;/li&gt;&lt;li&gt;跨尺度互动: 空间层级嵌套, 时间异步性&lt;/li&gt;&lt;li&gt;非线性与不确定性: 阈值, 敏感依赖, 级联失效, 多源不确定性&lt;/li&gt;&lt;li&gt;驱动力: 上述机制驱动宏观模式涌现&lt;/li&gt;&lt;li&gt;过程模型: 外部驱动力-&amp;gt;单元/主体-&amp;gt;网络/机制-&amp;gt;涌现-&amp;gt;功能/绩效&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
+      <mxGeometry x="180" y="320" width="470" height="160" as="geometry" />
+    </mxCell>
+    <mxCell id="7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="8">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="415" y="480" as="sourcePoint" />
+        <mxPoint x="415" y="520" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="8" value="&lt;b&gt;3.3 测度与分析框架 (初步)&lt;/b&gt;&lt;br&gt;(Measurement &amp;amp; Analysis Framework - Prelim.)&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;原则: 系统性, 整合性, 多尺度, 复杂性, 可操作性&lt;/li&gt;&lt;li&gt;方法: 整合传统指标与复杂性科学度量&lt;/li&gt;&lt;li&gt;核心工具: 网络分析 (拓扑结构, 中心性等), 标度律/幂律分析&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
+      <mxGeometry x="180" y="520" width="470" height="100" as="geometry" />
+    </mxCell>
+    <mxCell id="9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="10">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="415" y="620" as="sourcePoint" />
+        <mxPoint x="415" y="660" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="10" value="目标：&lt;br&gt;UGS 系统性理解与定量测度&lt;br&gt;(Goal:&lt;br&gt;Systematic Understanding &amp;amp; Quantitative Measurement of UGS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+      <mxGeometry x="265" y="660" width="300" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="4">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="360" y="110" as="sourcePoint" />
+        <mxPoint x="300" y="140" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="4">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="460" y="110" as="sourcePoint" />
+        <mxPoint x="530" y="140" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+  </root>
+</mxGraphModel>
