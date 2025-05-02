@@ -140,10 +140,10 @@
           <mxGeometry x="489" y="1087.5" width="161" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-45" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Feedback, Scale, Non-linearity, Emergence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="1092.5" width="260" height="45" as="geometry" />
+          <mxGeometry x="182.5" y="1212.5" width="260" height="45" as="geometry" />
         </mxCell>
         <mxCell id="rZE4SRtE4Rj2MSYg7wH4-46" value="&lt;b&gt;STEP 2&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Interaction Mechanism And Process Model&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1060" width="265" height="40" as="geometry" />
+          <mxGeometry x="180" y="1180" width="265" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
