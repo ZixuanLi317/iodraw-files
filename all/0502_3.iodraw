@@ -20,7 +20,7 @@
         <mxCell id="2" value="&lt;b&gt;External Drivers&lt;/b&gt;&lt;br&gt;&lt;i&gt;(e.g., Climate Change, Policy, Technology Shifts)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;size=10;" parent="1" vertex="1">
           <mxGeometry x="30" y="70" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="&lt;b&gt;UGS-SETS Units &amp;amp; States&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Nodes with S-E-T Attributes)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="4" value="&lt;b&gt;UGS-SETS Units &amp;amp; States&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Nodes with S-E-T Attributes)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="410" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sJCoKLhCtGf9L0UEM42w-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5" target="7">
@@ -44,16 +44,16 @@
             <mxPoint y="-38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5" value="&lt;b&gt;Multi-layer Network&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Structure for Interaction)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="5" value="&lt;b&gt;Multi-layer Network&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Structure for Interaction)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="220" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="&lt;b&gt;Mechanisms&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Feedback Loops, Scale, Non-linearity)&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="6" value="&lt;b&gt;Mechanisms&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Feedback Loops, Scale, Non-linearity)&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="220" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="&lt;b&gt;Emergent Macro-patterns&lt;/b&gt;&lt;br&gt;&lt;i&gt;(e.g., Network Topology, Clusters)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="7" value="&lt;b&gt;Emergent Macro-patterns&lt;/b&gt;&lt;br&gt;&lt;i&gt;(e.g., Network Topology, Clusters)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="410" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="&lt;b&gt;System Outcomes &amp;amp; Functions&lt;/b&gt;&lt;br&gt;&lt;i&gt;(e.g., Ecosystem Services, Resilience)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;size=0;" parent="1" vertex="1">
+        <mxCell id="8" value="&lt;b&gt;System Outcomes &amp;amp; Functions&lt;/b&gt;&lt;br&gt;&lt;i&gt;(e.g., Ecosystem Services, Resilience)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="410" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Influence" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="4" edge="1">
@@ -121,7 +121,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sJCoKLhCtGf9L0UEM42w-29" value="&lt;b&gt;Agents &amp;amp; Rules&lt;/b&gt;&lt;br&gt;&lt;i&gt;(&lt;/i&gt;&lt;i&gt;S-E-T Dimensions&amp;nbsp;&lt;/i&gt;&lt;i&gt;)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="sJCoKLhCtGf9L0UEM42w-29" value="&lt;b&gt;Agents &amp;amp; Rules&lt;/b&gt;&lt;br&gt;&lt;i&gt;(&lt;/i&gt;&lt;i&gt;S-E-T Dimensions&amp;nbsp;&lt;/i&gt;&lt;i&gt;)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="70" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
