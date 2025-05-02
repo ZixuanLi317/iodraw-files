@@ -1,0 +1,79 @@
+<mxGraphModel dx="1430" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="2" value="SETS Framework" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+      <mxGeometry x="40" y="150" width="160" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="3" value="Urban Green Space (UGS) Context" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+      <mxGeometry x="40" y="240" width="160" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="4" value="&lt;b&gt;3.1 Conceptual Reconstruction&lt;/b&gt;&lt;br&gt;UGS as Multilayer Interaction Network&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;Unit: UGS-SETS Unit (Physical Node)&lt;/li&gt;&lt;li&gt;Structure: Multilayer Network (S, E, T Layers)&lt;/li&gt;&lt;li&gt;Nodes: State Nodes (Attributes per Layer)&lt;/li&gt;&lt;li&gt;Edges: Intra-/Inter-layer (Interactions)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
+      <mxGeometry x="260" y="140" width="250" height="130" as="geometry" />
+    </mxCell>
+    <mxCell id="5" value="&lt;b&gt;3.2 Interaction Mechanism Analysis&lt;/b&gt;&lt;br&gt;Network Dynamics &amp;amp; Complexity&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;Feedback Loops (Table 1)&lt;/li&gt;&lt;li&gt;Cross-scale Interactions&lt;/li&gt;&lt;li&gt;Non-linearity &amp;amp; Uncertainty&lt;/li&gt;&lt;li&gt;Driver for Emergent Macro-patterns&lt;/li&gt;&lt;li&gt;Process Model (Drivers -&amp;gt; Units -&amp;gt; Network -&amp;gt; Emergence -&amp;gt; Outcomes)&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
+      <mxGeometry x="550" y="140" width="270" height="160" as="geometry" />
+    </mxCell>
+    <mxCell id="6" value="&lt;b&gt;3.3 Measurement &amp;amp; Analysis Framework&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;Principles: Systematic, Integrative, Multi-scale, Complexity-focused, Operable&lt;/li&gt;&lt;li&gt;Methods: Integrate Traditional &amp;amp; Complexity Metrics&lt;/li&gt;&lt;li&gt;Core Tools: Network Analysis, Scaling Law Analysis&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;spacingLeft=4;" vertex="1" parent="1">
+      <mxGeometry x="860" y="140" width="260" height="110" as="geometry" />
+    </mxCell>
+    <mxCell id="7" value="Goal:&lt;br&gt;Systematic Understanding &amp;amp; Quantitative Measurement of UGS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+      <mxGeometry x="1160" y="175" width="160" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="8" value="Complex Adaptive Systems (CAS) Theory Lens" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      <mxGeometry x="590" y="380" width="180" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="5">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="510" y="205" as="sourcePoint" />
+        <mxPoint x="560" y="205" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="6">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="820" y="220" as="sourcePoint" />
+        <mxPoint x="870" y="220" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="7">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="1120" y="195" as="sourcePoint" />
+        <mxPoint x="1170" y="195" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="4">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="200" y="180" as="sourcePoint" />
+        <mxPoint x="250" y="180" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="230" y="180" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="4">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="200" y="270" as="sourcePoint" />
+        <mxPoint x="260" y="270" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="230" y="270" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=#d6b656;" edge="1" parent="1" source="8" target="5">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="680" y="380" as="sourcePoint" />
+        <mxPoint x="685" y="300" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.808;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.327;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#d6b656;" edge="1" parent="1" source="8" target="6">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="735" y="383" as="sourcePoint" />
+        <mxPoint x="945" y="250" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="810" y="340" />
+          <mxPoint x="920" y="300" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+  </root>
+</mxGraphModel>
