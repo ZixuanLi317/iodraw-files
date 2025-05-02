@@ -22,7 +22,7 @@
           <mxGeometry x="300" y="70" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4" value="&lt;b&gt;UGS-SETS Units &amp;amp; States&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Nodes with S-E-T Attributes)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="30" y="410" width="180" height="80" as="geometry" />
+          <mxGeometry x="30" y="220" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sJCoKLhCtGf9L0UEM42w-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5" target="7">
           <mxGeometry relative="1" as="geometry" />
@@ -118,17 +118,6 @@
               <mxPoint x="790" y="450" />
               <mxPoint x="790" y="30" />
               <mxPoint x="120" y="30" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sJCoKLhCtGf9L0UEM42w-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=classic;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8" target="sJCoKLhCtGf9L0UEM42w-27">
-          <mxGeometry x="-0.2287" relative="1" as="geometry">
-            <mxPoint x="760" y="450" as="sourcePoint" />
-            <mxPoint x="165" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="450" />
-              <mxPoint x="790" y="10" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
