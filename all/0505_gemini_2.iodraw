@@ -7,6 +7,9 @@
         <mxCell id="IKtdd-uRWKz1-KzvknGg-55" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;arcSize=3;" vertex="1" parent="1">
           <mxGeometry x="330" y="700" width="500" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="526" y="737" width="144" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="737" width="180" height="110" as="geometry" />
         </mxCell>
@@ -305,9 +308,6 @@
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-85" value="Inter-layer Edges" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=left;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="531.4200000000001" y="824" width="119.16" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="IKtdd-uRWKz1-KzvknGg-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="526" y="737" width="144" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
