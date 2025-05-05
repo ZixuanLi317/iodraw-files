@@ -427,11 +427,11 @@
         <mxCell id="IKtdd-uRWKz1-KzvknGg-130" value="&lt;span style=&quot;text-align: center;&quot;&gt;多尺度整合&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;非线性捕捉&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;不确定性应对&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="217" y="545" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IKtdd-uRWKz1-KzvknGg-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-131" value="Nonlinear&amp;nbsp;&lt;div&gt;Capture&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="523.25" y="1340" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="686.5" y="1340" width="115" height="50" as="geometry" />
+          <mxGeometry x="686.5" y="1340" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
