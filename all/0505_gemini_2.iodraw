@@ -283,16 +283,16 @@
           <mxGeometry x="78" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-81" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="960" y="912" width="108" height="30" as="geometry" />
+          <mxGeometry x="530" y="760" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-45" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot;&gt;E&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#80a08b;" vertex="1" parent="IKtdd-uRWKz1-KzvknGg-81">
-          <mxGeometry width="30" height="30" as="geometry" />
+          <mxGeometry width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="IKtdd-uRWKz1-KzvknGg-81" source="IKtdd-uRWKz1-KzvknGg-47" target="IKtdd-uRWKz1-KzvknGg-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-47" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot;&gt;E&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#80a08b;" vertex="1" parent="IKtdd-uRWKz1-KzvknGg-81">
-          <mxGeometry x="78" width="30" height="30" as="geometry" />
+          <mxGeometry x="65" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
