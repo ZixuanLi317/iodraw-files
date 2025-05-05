@@ -397,7 +397,7 @@
           <mxGeometry x="490" y="1158.5" width="170" height="131.5" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-118" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Key element / structure identification&lt;/li&gt;&lt;li&gt;Structure-function relationship&lt;/li&gt;&lt;li&gt;Community structure&lt;/li&gt;&lt;li&gt;Functional clusters&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="651" y="1158.5" width="170" height="131.5" as="geometry" />
+          <mxGeometry x="900" y="1150" width="170" height="131.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
