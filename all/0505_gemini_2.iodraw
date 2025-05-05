@@ -315,8 +315,8 @@
         <mxCell id="IKtdd-uRWKz1-KzvknGg-88" value="Intra-layer Edges" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=left;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="730" y="755" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IKtdd-uRWKz1-KzvknGg-89" value="Topological Sturcture" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="533" y="910" width="173.5" height="30" as="geometry" />
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-89" value="Topological&lt;div&gt;Sturcture&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="888.25" y="890" width="173.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-90" value="Spatial Pattern" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="726.5" y="910" width="173.5" height="30" as="geometry" />
