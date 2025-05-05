@@ -202,7 +202,7 @@
           <mxGeometry x="412" y="700" width="336" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-70" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680" y="760" width="54.08" height="80" as="geometry" />
+          <mxGeometry x="686" y="760" width="54.08" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-58" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="IKtdd-uRWKz1-KzvknGg-70" source="IKtdd-uRWKz1-KzvknGg-62" target="IKtdd-uRWKz1-KzvknGg-64">
           <mxGeometry relative="1" as="geometry" />
