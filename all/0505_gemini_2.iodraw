@@ -193,10 +193,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-52" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;T&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#729fb8;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="1024" width="30" height="30" as="geometry" />
+          <mxGeometry x="545.5" y="910" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-53" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;S&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e88671;" vertex="1" parent="1">
-          <mxGeometry x="1284" y="1024" width="30" height="30" as="geometry" />
+          <mxGeometry x="624.5" y="910" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-54" value="&lt;b&gt;输入数据 Input Data (From 3.3.1)&lt;/b&gt;&lt;br&gt;- 单元状态属性 (Unit States)&lt;br&gt;- 交互关系/边属性 (Interactions)&lt;br&gt;- 涌现特征初测 (Initial Emergent Properties)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=4;" vertex="1" parent="1">
           <mxGeometry x="70" y="300" width="180" height="130" as="geometry" />
