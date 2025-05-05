@@ -1,0 +1,193 @@
+<mxGraphModel dx="1582" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="2" value="&lt;b&gt;输入：&lt;br&gt;多维度测度数据 (来自 3.3.1)&lt;/b&gt;&lt;br&gt;&lt;i&gt;- 单元状态属性&lt;br&gt;- 交互关系/边属性&lt;br&gt;- 系统涌现特征&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=4;" vertex="1" parent="1">
+      <mxGeometry x="40" y="40" width="220" height="120" as="geometry" />
+    </mxCell>
+    <mxCell id="3" value="&lt;b&gt;核心分析引擎 (互补协作)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="300" y="40" width="660" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="4" value="&lt;b&gt;多层网络分析&lt;/b&gt;&lt;br&gt;&lt;i&gt;(结构 / 度量 / 模式表征)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+      <mxGeometry x="300" y="80" width="200" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="5" value="&lt;b&gt;基于主体的建模 (ABM)&lt;/b&gt;&lt;br&gt;&lt;i&gt;(过程 / 机制 / 仿真模拟)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+      <mxGeometry x="530" y="80" width="200" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="6" value="&lt;b&gt;图神经网络 (GNN)&lt;/b&gt;&lt;br&gt;&lt;i&gt;(特征学习 / 预测 / 非线性)&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+      <mxGeometry x="760" y="80" width="200" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="4">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="260" y="100" as="sourcePoint" />
+        <mxPoint x="320" y="80" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="280" y="100" />
+          <mxPoint x="280" y="70" />
+          <mxPoint x="320" y="70" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="5">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="260" y="100" as="sourcePoint" />
+        <mxPoint x="630" y="80" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="280" y="100" />
+          <mxPoint x="280" y="60" />
+          <mxPoint x="630" y="60" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.9;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="6">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="260" y="100" as="sourcePoint" />
+        <mxPoint x="940" y="76" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="280" y="100" />
+          <mxPoint x="280" y="70" />
+          <mxPoint x="940" y="70" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="10" value="&lt;b&gt;分析目标与具体任务&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="300" y="200" width="660" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="11" value="1. 关键要素/结构/脆弱性识别" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      <mxGeometry x="300" y="240" width="210" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="12" value="2. 结构-功能关联解析" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      <mxGeometry x="520" y="240" width="210" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="13" value="3. 社团结构/功能簇挖掘" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      <mxGeometry x="740" y="240" width="210" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="14" value="4. 跨维度协同/权衡量化" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      <mxGeometry x="300" y="290" width="210" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="15" value="5. 动态演化/反馈追踪 (时序分析/ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      <mxGeometry x="520" y="290" width="210" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="16" value="6. 预测与推断 (GNN/ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      <mxGeometry x="740" y="290" width="210" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="17" value="7. 模拟涌现/机制验证 (ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      <mxGeometry x="300" y="340" width="320" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="18" value="8. 政策情景模拟/评估 (ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      <mxGeometry x="630" y="340" width="320" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4" target="11">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="400" y="160" as="sourcePoint" />
+        <mxPoint x="405" y="240" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="400" y="200" />
+          <mxPoint x="405" y="200" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5" target="17">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="630" y="160" as="sourcePoint" />
+        <mxPoint x="460" y="340" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="630" y="200" />
+          <mxPoint x="460" y="200" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6" target="12">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="860" y="160" as="sourcePoint" />
+        <mxPoint x="625" y="240" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="860" y="200" />
+          <mxPoint x="625" y="200" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="22" value="&lt;b&gt;应对复杂动态特性&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+      <mxGeometry x="300" y="410" width="660" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="23" value="- 多尺度整合" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+      <mxGeometry x="330" y="450" width="140" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="24" value="- 非线性捕捉&lt;br&gt;(GNN / ABM)" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+      <mxGeometry x="510" y="450" width="140" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="25" value="- 不确定性应对&lt;br&gt;(集成/鲁棒性/情景/ABM)" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+      <mxGeometry x="690" y="450" width="170" height="50" as="geometry" />
+    </mxCell>
+    <mxCell id="26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="11" target="23">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="405" y="280" as="sourcePoint" />
+        <mxPoint x="400" y="450" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="405" y="400" />
+          <mxPoint x="400" y="400" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="17" target="24">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="460" y="380" as="sourcePoint" />
+        <mxPoint x="580" y="450" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="460" y="400" />
+          <mxPoint x="580" y="400" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="18" target="25">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="785" y="380" as="sourcePoint" />
+        <mxPoint x="775" y="450" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="785" y="400" />
+          <mxPoint x="775" y="400" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="29" value="&lt;b&gt;输出/目标:&lt;/b&gt;&lt;br&gt;- 系统性理解与定量评估&lt;br&gt;- 可持续UGS决策支持" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=4;" vertex="1" parent="1">
+      <mxGeometry x="490" y="540" width="280" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="23" target="29">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="400" y="500" as="sourcePoint" />
+        <mxPoint x="630" y="540" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="400" y="520" />
+          <mxPoint x="630" y="520" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="24" target="29">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="580" y="500" as="sourcePoint" />
+        <mxPoint x="630" y="540" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="580" y="520" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="25" target="29">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="775" y="500" as="sourcePoint" />
+        <mxPoint x="630" y="540" as="targetPoint" />
+        <Array as="points">
+          <mxPoint x="775" y="520" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="33" value="衔接 Section 4 实证分析&lt;br&gt;(ABM - 4.1 / GNN - 4.2)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
+      <mxGeometry x="920" y="550" width="140" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="34" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="29" target="33">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="770" y="580" as="sourcePoint" />
+        <mxPoint x="920" y="580" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+  </root>
+</mxGraphModel>
