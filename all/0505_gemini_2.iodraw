@@ -388,13 +388,13 @@
           <mxGeometry x="180" y="1180" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-116" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Key element / structure identification&lt;/li&gt;&lt;li&gt;Structure-function relationship&lt;/li&gt;&lt;li&gt;Community structure&lt;/li&gt;&lt;li&gt;Functional clusters&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="320" y="1156.5" width="170" height="131.5" as="geometry" />
+          <mxGeometry x="320" y="1151.5" width="170" height="131.5" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-117" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Dynamic evolution / feedback tracking&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cross-dimensional synergies / trade-offs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Simulation of emergent properties&lt;/li&gt;&lt;li&gt;Validation of interaction mechanisms&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="485.75" y="1149.5" width="170" height="131.5" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-118" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Key element / structure identification&lt;/li&gt;&lt;li&gt;Structure-function relationship&lt;/li&gt;&lt;li&gt;Community structure&lt;/li&gt;&lt;li&gt;Functional clusters&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="649" y="1156.5" width="170" height="131.5" as="geometry" />
+          <mxGeometry x="649" y="1149.5" width="170" height="131.5" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-119" value="- 动态演化/反馈追踪&lt;br&gt;- 跨维度协同/权衡&lt;br&gt;- 模拟涌现现象&lt;br&gt;- 交互机制验证 (ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="410" y="1350" width="260" height="100" as="geometry" />
