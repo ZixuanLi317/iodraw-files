@@ -363,9 +363,6 @@
         <mxCell id="IKtdd-uRWKz1-KzvknGg-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="669" y="1107" width="150" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="IKtdd-uRWKz1-KzvknGg-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IKtdd-uRWKz1-KzvknGg-107" target="IKtdd-uRWKz1-KzvknGg-123">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="505.75" y="1107" width="150" height="203" as="geometry" />
         </mxCell>
@@ -409,10 +406,7 @@
           <mxGeometry x="1150" y="1320" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-121" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="342" y="1340" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IKtdd-uRWKz1-KzvknGg-123" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520.75" y="1461.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="342" y="1340" width="150" height="203" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
