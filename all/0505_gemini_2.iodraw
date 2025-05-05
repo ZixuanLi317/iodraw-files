@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="m1RTSPT_75vWHLUcorhi" name="第 1 页">
-    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,10 +397,10 @@
           <mxGeometry x="649" y="1149.5" width="170" height="131.5" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-119" value="- 动态演化/反馈追踪&lt;br&gt;- 跨维度协同/权衡&lt;br&gt;- 模拟涌现现象&lt;br&gt;- 交互机制验证 (ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1350" width="260" height="100" as="geometry" />
+          <mxGeometry x="1100" y="1170" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-120" value="- 交互关系/边预测 (GNN)&lt;br&gt;- 节点分类/功能预测 (GNN)&lt;br&gt;- 系统状态/绩效预测 (GNN/ABM)&lt;br&gt;- 政策/气候情景模拟 (ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1350" width="260" height="100" as="geometry" />
+          <mxGeometry x="1150" y="1320" width="260" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
