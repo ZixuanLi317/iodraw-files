@@ -399,6 +399,12 @@
         <mxCell id="IKtdd-uRWKz1-KzvknGg-118" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Key element / structure identification&lt;/li&gt;&lt;li&gt;Structure-function relationship&lt;/li&gt;&lt;li&gt;Community structure&lt;/li&gt;&lt;li&gt;Functional clusters&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="649" y="1156.5" width="170" height="131.5" as="geometry" />
         </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-119" value="- 动态演化/反馈追踪&lt;br&gt;- 跨维度协同/权衡&lt;br&gt;- 模拟涌现现象&lt;br&gt;- 交互机制验证 (ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-120" value="- 交互关系/边预测 (GNN)&lt;br&gt;- 节点分类/功能预测 (GNN)&lt;br&gt;- 系统状态/绩效预测 (GNN/ABM)&lt;br&gt;- 政策/气候情景模拟 (ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="910" y="310" width="260" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
