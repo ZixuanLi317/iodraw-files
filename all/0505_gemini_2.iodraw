@@ -361,10 +361,10 @@
           <mxGeometry x="412" y="1070" width="336" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="675" y="1107" width="144" height="163" as="geometry" />
+          <mxGeometry x="675" y="1107" width="144" height="183" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="1107" width="155" height="163" as="geometry" />
+          <mxGeometry x="505" y="1107" width="155" height="183" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="1107" width="150" height="183" as="geometry" />
@@ -391,7 +391,10 @@
           <mxGeometry x="570" y="1350" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-116" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Key element / structure identification&lt;/li&gt;&lt;li&gt;Structure-function relationship&lt;/li&gt;&lt;li&gt;Community structure&lt;/li&gt;&lt;li&gt;Functional clusters&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="320" y="1148.5" width="170" height="131.5" as="geometry" />
+          <mxGeometry x="320" y="1158.5" width="170" height="131.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-117" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Key element / structure identification&lt;/li&gt;&lt;li&gt;Structure-function relationship&lt;/li&gt;&lt;li&gt;Community structure&lt;/li&gt;&lt;li&gt;Functional clusters&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="490" y="1158.5" width="170" height="131.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
