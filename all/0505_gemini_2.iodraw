@@ -390,7 +390,7 @@
         <mxCell id="IKtdd-uRWKz1-KzvknGg-115" value="Key element/structure identification" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="1350" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IKtdd-uRWKz1-KzvknGg-116" value="Key element / structure identification" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-116" value="&lt;ul&gt;&lt;li&gt;Key element / structure identification&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1310" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
