@@ -286,7 +286,7 @@
           <mxGeometry x="65" width="20.089285714285715" height="20.089285714285715" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-82" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="530" y="810" width="110" height="50" as="geometry" />
+          <mxGeometry x="530" y="807" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;strokeWidth=2;dashPattern=1 1;" edge="1" parent="IKtdd-uRWKz1-KzvknGg-82" source="IKtdd-uRWKz1-KzvknGg-52" target="IKtdd-uRWKz1-KzvknGg-53">
           <mxGeometry relative="1" as="geometry" />
@@ -304,7 +304,7 @@
           <mxGeometry x="531" y="779" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-85" value="Inter-layer Edges" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=left;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="531.4200000000001" y="827" width="119.16" height="20" as="geometry" />
+          <mxGeometry x="531.4200000000001" y="824" width="119.16" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
