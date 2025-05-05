@@ -366,6 +366,9 @@
         <mxCell id="IKtdd-uRWKz1-KzvknGg-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="505.75" y="1107" width="150" height="203" as="geometry" />
         </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IKtdd-uRWKz1-KzvknGg-108" target="IKtdd-uRWKz1-KzvknGg-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="342" y="1107" width="150" height="203" as="geometry" />
         </mxCell>
@@ -401,6 +404,9 @@
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-120" value="- 交互关系/边预测 (GNN)&lt;br&gt;- 节点分类/功能预测 (GNN)&lt;br&gt;- 系统状态/绩效预测 (GNN/ABM)&lt;br&gt;- 政策/气候情景模拟 (ABM)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1320" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-121" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="342" y="1390" width="150" height="203" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
