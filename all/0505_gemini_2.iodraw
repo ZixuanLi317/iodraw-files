@@ -439,6 +439,15 @@
         <mxCell id="IKtdd-uRWKz1-KzvknGg-136" value="Output / Goal" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=default;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="413.34" y="1460" width="336" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-137" value="Multi-scale Integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="1350" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-138" value="Nonlinear&lt;div&gt;Capture&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="533.25" y="1350" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-139" value="Uncertainty Response" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="696.5" y="1350" width="115" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
