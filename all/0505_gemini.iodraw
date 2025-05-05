@@ -191,8 +191,8 @@
             <mxPoint x="920" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8SxqoCK0i9rTLRpSEUGe-34" value="&lt;b&gt;输入：&lt;br&gt;多维度测度数据 (来自 3.3.1)&lt;/b&gt;&lt;br&gt;&lt;i&gt;- 单元状态属性&lt;br&gt;- 交互关系/边属性&lt;br&gt;- 系统涌现特征&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=4;" vertex="1" parent="1">
-          <mxGeometry x="30" y="50" width="220" height="120" as="geometry" />
+        <mxCell id="8SxqoCK0i9rTLRpSEUGe-34" value="&lt;b&gt;输入：&lt;br&gt;多维度测度数据&lt;/b&gt;&lt;br&gt;&lt;i&gt;- 单元状态属性&lt;br&gt;- 交互关系/边属性&lt;br&gt;- 系统涌现特征&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="100" y="590" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
