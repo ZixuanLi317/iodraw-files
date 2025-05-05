@@ -439,7 +439,7 @@
         <mxCell id="IKtdd-uRWKz1-KzvknGg-136" value="Output / Goal" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=default;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="413.34" y="1460" width="336" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IKtdd-uRWKz1-KzvknGg-137" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Systematic Understanding (answering what” &amp;amp; “why”)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-137" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Systematic Understanding (answering &#39;what&#39; &amp;amp; &#39;why&#39;)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="1500" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-138" value="Nonlinear&lt;div style=&quot;font-size: 14px;&quot;&gt;Capture&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
