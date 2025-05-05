@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="m1RTSPT_75vWHLUcorhi" name="第 1 页">
-    <mxGraphModel dx="2868" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,40 +175,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-42" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;S&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e88671;" vertex="1" parent="1">
-          <mxGeometry x="1441.5" y="145" width="30" height="30" as="geometry" />
+          <mxGeometry x="960" y="791" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="IKtdd-uRWKz1-KzvknGg-44" target="IKtdd-uRWKz1-KzvknGg-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-44" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;S&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e88671;" vertex="1" parent="1">
-          <mxGeometry x="1519.5" y="145" width="30" height="30" as="geometry" />
+          <mxGeometry x="1038" y="791" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-45" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;E&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#80a08b;" vertex="1" parent="1">
-          <mxGeometry x="1441.5" y="266" width="30" height="30" as="geometry" />
+          <mxGeometry x="960" y="912" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="IKtdd-uRWKz1-KzvknGg-47" target="IKtdd-uRWKz1-KzvknGg-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-47" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;E&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#80a08b;" vertex="1" parent="1">
-          <mxGeometry x="1519.5" y="266" width="30" height="30" as="geometry" />
+          <mxGeometry x="1038" y="912" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-48" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;T&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#729fb8;" vertex="1" parent="1">
-          <mxGeometry x="1441.5" y="356" width="30" height="30" as="geometry" />
+          <mxGeometry x="960" y="1002" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="IKtdd-uRWKz1-KzvknGg-50" target="IKtdd-uRWKz1-KzvknGg-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-50" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;T&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#729fb8;" vertex="1" parent="1">
-          <mxGeometry x="1519.5" y="356" width="30" height="30" as="geometry" />
+          <mxGeometry x="1038" y="1002" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;strokeWidth=2;dashPattern=1 1;" edge="1" parent="1" source="IKtdd-uRWKz1-KzvknGg-52" target="IKtdd-uRWKz1-KzvknGg-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-52" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;T&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#729fb8;" vertex="1" parent="1">
-          <mxGeometry x="1686.5" y="378" width="30" height="30" as="geometry" />
+          <mxGeometry x="1205" y="1024" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-53" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;S&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e88671;" vertex="1" parent="1">
-          <mxGeometry x="1765.5" y="378" width="30" height="30" as="geometry" />
+          <mxGeometry x="1284" y="1024" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-54" value="&lt;b&gt;输入数据 Input Data (From 3.3.1)&lt;/b&gt;&lt;br&gt;- 单元状态属性 (Unit States)&lt;br&gt;- 交互关系/边属性 (Interactions)&lt;br&gt;- 涌现特征初测 (Initial Emergent Properties)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=4;" vertex="1" parent="1">
           <mxGeometry x="70" y="300" width="180" height="130" as="geometry" />
@@ -217,7 +217,10 @@
           <mxGeometry x="330" y="700" width="500" height="150" as="geometry" />
         </mxCell>
         <mxCell id="IKtdd-uRWKz1-KzvknGg-56" value="Interactions / Edge Attributes" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;fontColor=default;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1447" y="34" width="336" height="40" as="geometry" />
+          <mxGeometry x="965.5" y="680" width="336" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKtdd-uRWKz1-KzvknGg-57" value="Input Data" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;fontColor=default;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="412" y="710" width="336" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
