@@ -170,7 +170,7 @@
           <mxGeometry x="230" y="670" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E6U-Yn731wz1Q3-p8PzI-38" value="&lt;b&gt;涌现的宏观模式&lt;/b&gt;&lt;br&gt;(Emergent Macroscopic Patterns)&lt;br&gt;- UGS 功能类型/聚类&lt;br&gt;- 嵌入空间结构&lt;br&gt;- 功能性连接/社区" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="324.5" y="930" width="240" height="120" as="geometry" />
+          <mxGeometry x="180" y="960" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E6U-Yn731wz1Q3-p8PzI-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-4" target="E6U-Yn731wz1Q3-p8PzI-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
