@@ -1,183 +1,187 @@
-<mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-  <root>
-    <mxCell id="0" />
-    <mxCell id="1" parent="0" />
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-1" target="E6U-Yn731wz1Q3-p8PzI-12">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-1" value="&lt;b&gt;输入数据 (Input Data)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
-      <mxGeometry x="424.5" y="40" width="320" height="40" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-2" value="UGS 节点 (N=225)&lt;br&gt;Nodes: UGS Units" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-      <mxGeometry x="290" y="110" width="160" height="60" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-3" value="初始节点属性&lt;br&gt;(标准化 S, E, T)&lt;br&gt;Initial Attributes&lt;br&gt;(Scaled S, E, T) [N, 3]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-      <mxGeometry x="480" y="110" width="160" height="70" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-4" value="单层图结构&lt;br&gt;(空间连接边)&lt;br&gt;Single-Layer Graph&lt;br&gt;(Spatial Edges)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-      <mxGeometry x="670" y="110" width="160" height="70" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.333;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-2" target="E6U-Yn731wz1Q3-p8PzI-12">
-      <mxGeometry width="50" height="50" relative="1" as="geometry">
-        <mxPoint x="460" y="250" as="sourcePoint" />
-        <mxPoint x="510" y="200" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="370" y="210" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-3" target="E6U-Yn731wz1Q3-p8PzI-12">
-      <mxGeometry width="50" height="50" relative="1" as="geometry">
-        <mxPoint x="510" y="250" as="sourcePoint" />
-        <mxPoint x="560" y="200" as="targetPoint" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-4" target="E6U-Yn731wz1Q3-p8PzI-12">
-      <mxGeometry width="50" height="50" relative="1" as="geometry">
-        <mxPoint x="710" y="250" as="sourcePoint" />
-        <mxPoint x="760" y="200" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="750" y="210" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-12" target="E6U-Yn731wz1Q3-p8PzI-16">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-12" value="&lt;b&gt;GNN 模型 (CAS_GNN)&lt;/b&gt;&lt;br&gt;模型结构: 单层图简化&lt;br&gt;核心层: CASUpdateLayer&lt;br&gt;&amp;nbsp; (MLP 更新机制: 整合自身与邻居信息)&lt;br&gt;层数: NUM_GNN_LAYERS" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-      <mxGeometry x="424.5" y="230" width="320" height="100" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-16" target="E6U-Yn731wz1Q3-p8PzI-18">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-16" target="E6U-Yn731wz1Q3-p8PzI-22">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="840" y="430" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="690" y="430" />
-          <mxPoint x="840" y="430" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-16" value="&lt;b&gt;GNN 模型输出&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-      <mxGeometry x="484.5" y="390" width="200" height="80" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-18" target="E6U-Yn731wz1Q3-p8PzI-20">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-18" value="&lt;b&gt;最终节点嵌入&lt;/b&gt;&lt;br&gt;`final_embeddings`&lt;br&gt;[N, EMBEDDING_DIM]" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-      <mxGeometry x="489.5" y="510" width="190" height="70" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-27">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="430" y="670" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="430" y="645" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-30">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-28">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="430" y="730" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="430" y="755" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-33">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="430" y="790" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="430" y="810" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-36">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="430" y="620" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="430" y="600" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-20" value="&lt;b&gt;基于嵌入的涌现模式分析&lt;br&gt;(Analysis Techniques on Embeddings)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0" vertex="1" parent="1">
-      <mxGeometry x="464.5" y="630" width="240" height="30" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-22" target="E6U-Yn731wz1Q3-p8PzI-24">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-22" value="预测特征 (用于训练)&lt;br&gt;`predicted_features`&lt;br&gt;[N, 3]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-      <mxGeometry x="744.5" y="510" width="190" height="70" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-24" target="E6U-Yn731wz1Q3-p8PzI-3">
-      <mxGeometry relative="1" as="geometry">
-        <Array as="points">
-          <mxPoint x="840" y="670" />
-          <mxPoint x="560" y="670" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-24" value="&lt;b&gt;模型训练 (代理任务)&lt;/b&gt;&lt;br&gt;目标: 学习信息丰富的嵌入&lt;br&gt;任务: 特征重构&lt;br&gt;损失: MSE (`predicted` vs `initial_scaled`)&lt;br&gt;优化器: Adam" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-      <mxGeometry x="744.5" y="610" width="190" height="100" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-45" value="计算损失&lt;br&gt;Calculate Loss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-      <mxGeometry x="665" y="540" width="80" height="30" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-46" value="反向传播&lt;br&gt;更新参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-      <mxGeometry x="625" y="670" width="80" height="30" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-24" target="E6U-Yn731wz1Q3-p8PzI-12">
-      <mxGeometry relative="1" as="geometry">
-        <Array as="points">
-          <mxPoint x="840" y="740" />
-          <mxPoint x="584.5" y="740" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-27" value="K-Means 聚类&lt;br&gt;+ 轮廓系数评估&lt;br&gt;(Clustering + Silhouette)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-      <mxGeometry x="470" y="670" width="140" height="50" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-28" value="(可选) 功能网络分析&lt;br&gt;+ 社区发现&lt;br&gt;(Functional Network)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-      <mxGeometry x="470" y="780" width="140" height="60" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-30" value="降维可视化&lt;br&gt;(UMAP / t-SNE)&lt;br&gt;(Dimensionality Reduction)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-      <mxGeometry x="470" y="725" width="140" height="50" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-33" value="可视化&lt;br&gt;(空间聚类, 嵌入空间等)&lt;br&gt;(Visualization)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-      <mxGeometry x="470" y="845" width="140" height="50" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-36" target="E6U-Yn731wz1Q3-p8PzI-38">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-27" target="E6U-Yn731wz1Q3-p8PzI-38">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-30" target="E6U-Yn731wz1Q3-p8PzI-38">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-28" target="E6U-Yn731wz1Q3-p8PzI-38">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-33" target="E6U-Yn731wz1Q3-p8PzI-38">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-36" value="网络中心性分析&lt;br&gt;(基于空间图)&lt;br&gt;(Network Centrality)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-      <mxGeometry x="230" y="670" width="140" height="50" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-38" value="&lt;b&gt;涌现的宏观模式&lt;/b&gt;&lt;br&gt;(Emergent Macroscopic Patterns)&lt;br&gt;- UGS 功能类型/聚类&lt;br&gt;- 嵌入空间结构&lt;br&gt;- 功能性连接/社区" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" vertex="1" parent="1">
-      <mxGeometry x="324.5" y="930" width="240" height="120" as="geometry" />
-    </mxCell>
-    <mxCell id="E6U-Yn731wz1Q3-p8PzI-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E6U-Yn731wz1Q3-p8PzI-4" target="E6U-Yn731wz1Q3-p8PzI-36">
-      <mxGeometry width="50" height="50" relative="1" as="geometry">
-        <mxPoint x="800" y="400" as="sourcePoint" />
-        <mxPoint x="850" y="350" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="750" y="695" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-  </root>
-</mxGraphModel>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="i_SuL0xbmgV243Mj60Ti" name="第 1 页">
+    <mxGraphModel dx="1180" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-1" target="E6U-Yn731wz1Q3-p8PzI-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-1" value="&lt;b&gt;输入数据 (Input Data)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
+          <mxGeometry x="424.5" y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-2" value="UGS 节点 (N=225)&lt;br&gt;Nodes: UGS Units" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="290" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-3" value="初始节点属性&lt;br&gt;(标准化 S, E, T)&lt;br&gt;Initial Attributes&lt;br&gt;(Scaled S, E, T) [N, 3]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="480" y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-4" value="单层图结构&lt;br&gt;(空间连接边)&lt;br&gt;Single-Layer Graph&lt;br&gt;(Spatial Edges)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="670" y="110" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.333;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-2" target="E6U-Yn731wz1Q3-p8PzI-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="250" as="sourcePoint" />
+            <mxPoint x="510" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-3" target="E6U-Yn731wz1Q3-p8PzI-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="250" as="sourcePoint" />
+            <mxPoint x="560" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-4" target="E6U-Yn731wz1Q3-p8PzI-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="250" as="sourcePoint" />
+            <mxPoint x="760" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-12" target="E6U-Yn731wz1Q3-p8PzI-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-12" value="&lt;b&gt;GNN 模型 (CAS_GNN)&lt;/b&gt;&lt;br&gt;模型结构: 单层图简化&lt;br&gt;核心层: CASUpdateLayer&lt;br&gt;&amp;nbsp; (MLP 更新机制: 整合自身与邻居信息)&lt;br&gt;层数: NUM_GNN_LAYERS" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="424.5" y="230" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-16" target="E6U-Yn731wz1Q3-p8PzI-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-16" target="E6U-Yn731wz1Q3-p8PzI-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="430" />
+              <mxPoint x="840" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-16" value="&lt;b&gt;GNN 模型输出&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="484.5" y="390" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-18" target="E6U-Yn731wz1Q3-p8PzI-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-18" value="&lt;b&gt;最终节点嵌入&lt;/b&gt;&lt;br&gt;`final_embeddings`&lt;br&gt;[N, EMBEDDING_DIM]" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="489.5" y="510" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-20" target="E6U-Yn731wz1Q3-p8PzI-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-20" value="&lt;b&gt;基于嵌入的涌现模式分析&lt;br&gt;(Analysis Techniques on Embeddings)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="464.5" y="630" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-22" target="E6U-Yn731wz1Q3-p8PzI-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-22" value="预测特征 (用于训练)&lt;br&gt;`predicted_features`&lt;br&gt;[N, 3]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="744.5" y="510" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-24" target="E6U-Yn731wz1Q3-p8PzI-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="670" />
+              <mxPoint x="560" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-24" value="&lt;b&gt;模型训练 (代理任务)&lt;/b&gt;&lt;br&gt;目标: 学习信息丰富的嵌入&lt;br&gt;任务: 特征重构&lt;br&gt;损失: MSE (`predicted` vs `initial_scaled`)&lt;br&gt;优化器: Adam" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="744.5" y="610" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-45" value="计算损失&lt;br&gt;Calculate Loss" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="665" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-46" value="反向传播&lt;br&gt;更新参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="625" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-24" target="E6U-Yn731wz1Q3-p8PzI-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="740" />
+              <mxPoint x="584.5" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-27" value="K-Means 聚类&lt;br&gt;+ 轮廓系数评估&lt;br&gt;(Clustering + Silhouette)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="470" y="670" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-28" value="(可选) 功能网络分析&lt;br&gt;+ 社区发现&lt;br&gt;(Functional Network)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="470" y="780" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-30" value="降维可视化&lt;br&gt;(UMAP / t-SNE)&lt;br&gt;(Dimensionality Reduction)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="470" y="725" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-33" value="可视化&lt;br&gt;(空间聚类, 嵌入空间等)&lt;br&gt;(Visualization)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="470" y="845" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-36" target="E6U-Yn731wz1Q3-p8PzI-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-27" target="E6U-Yn731wz1Q3-p8PzI-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-30" target="E6U-Yn731wz1Q3-p8PzI-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-28" target="E6U-Yn731wz1Q3-p8PzI-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-33" target="E6U-Yn731wz1Q3-p8PzI-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-36" value="网络中心性分析&lt;br&gt;(基于空间图)&lt;br&gt;(Network Centrality)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="230" y="670" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-38" value="&lt;b&gt;涌现的宏观模式&lt;/b&gt;&lt;br&gt;(Emergent Macroscopic Patterns)&lt;br&gt;- UGS 功能类型/聚类&lt;br&gt;- 嵌入空间结构&lt;br&gt;- 功能性连接/社区" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="324.5" y="930" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E6U-Yn731wz1Q3-p8PzI-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E6U-Yn731wz1Q3-p8PzI-4" target="E6U-Yn731wz1Q3-p8PzI-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="400" as="sourcePoint" />
+            <mxPoint x="850" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
