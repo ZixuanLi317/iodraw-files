@@ -650,15 +650,15 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-169" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;政策驱动&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;技术革新&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="-20" y="3430" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FaEg5hChIHYmlGjZ65KH-170" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.796;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2.5;flowAnimation=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.651;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=0;" parent="1" source="FaEg5hChIHYmlGjZ65KH-158" target="FaEg5hChIHYmlGjZ65KH-155" edge="1">
+        <mxCell id="FaEg5hChIHYmlGjZ65KH-170" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.796;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2.5;flowAnimation=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.651;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-44.5" y="3788.5" as="sourcePoint" />
-            <mxPoint x="296.5" y="3788.5" as="targetPoint" />
+            <mxPoint x="-75.09999999999991" y="3797" as="sourcePoint" />
+            <mxPoint x="-243" y="4091.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-79" y="3817" />
-              <mxPoint x="-79" y="3877" />
-              <mxPoint x="-99" y="3957" />
-              <mxPoint x="-179" y="4057" />
+              <mxPoint x="-67.5" y="3822" />
+              <mxPoint x="-67.5" y="3882" />
+              <mxPoint x="-87.5" y="3962" />
+              <mxPoint x="-167.5" y="4062" />
             </Array>
           </mxGeometry>
         </mxCell>
