@@ -917,6 +917,18 @@
         <mxCell id="FaEg5hChIHYmlGjZ65KH-218" value="数字孪生系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3332" y="4111" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="AdSnaDxk6u61N6Iscz87-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.224;exitY=0.929;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2.5;flowAnimation=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.352;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-561.4000000000001" y="3789.3500000000004" as="sourcePoint" />
+            <mxPoint x="-390" y="4079" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-570" y="3840" />
+              <mxPoint x="-555" y="3920" />
+              <mxPoint x="-525" y="3980" />
+              <mxPoint x="-465" y="4050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
