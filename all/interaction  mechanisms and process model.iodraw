@@ -77,7 +77,7 @@
             <mxPoint x="390" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17" value="Interaction&lt;div&gt;Interaction via Network, applying Mechanisms&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fbf7f4;" parent="11" vertex="1" connectable="0">
+        <mxCell id="17" value="&lt;div&gt;Interaction via Network, applying Mechanisms&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#fbf7f4;" parent="11" vertex="1" connectable="0">
           <mxGeometry x="-0.32" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
