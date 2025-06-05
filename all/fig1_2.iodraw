@@ -81,11 +81,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="arrow_m5_feedback_main" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;dashed=1;dashPattern=8 8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="module5" target="centralPhilosophy" edge="1">
+        <mxCell id="arrow_m5_feedback_main" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;dashed=1;dashPattern=8 8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="module5" target="centralPhilosophy" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="887" y="700" as="sourcePoint" />
             <mxPoint x="1000" y="320" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1090" y="950" />
               <mxPoint x="970" y="950" />
               <mxPoint x="970" y="350" />
               <mxPoint x="1000" y="350" />
