@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="djFd3ABPchH4VWwgqrRo-162" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="882.88" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="block_theory_support" value="理论支撑：地域特色中心论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;spacingTop=5;" parent="1" vertex="1">
           <mxGeometry x="302" y="60" width="220" height="80" as="geometry" />
         </mxCell>
@@ -529,9 +532,6 @@
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-161" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.2984832451499114;arrowSize=0.47252747252745253;fillColor=#eeeeee;strokeColor=#36393d;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="979.1800000000001" y="1782" width="39.63" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-162" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1282" y="1668" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
