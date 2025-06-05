@@ -353,11 +353,8 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-94" value="影响更新&lt;div&gt;潜在成败&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1491" y="1077" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-99" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.2984832451499114;arrowSize=0.47252747252745253;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="944" width="19" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-100" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.2984832451499114;arrowSize=0.47252747252745253;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="954" width="19" height="16" as="geometry" />
+          <mxGeometry x="1110.5" y="940" width="19" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
