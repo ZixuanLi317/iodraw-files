@@ -130,13 +130,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rbnCJUj0f540ZzCsuID-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rbnCJUj0f540ZzCsuID-1" target="9rbnCJUj0f540ZzCsuID-5">
+        <mxCell id="9rbnCJUj0f540ZzCsuID-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="9rbnCJUj0f540ZzCsuID-1" target="9rbnCJUj0f540ZzCsuID-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9rbnCJUj0f540ZzCsuID-1" value="地理空间&lt;div&gt;基础数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="530" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9rbnCJUj0f540ZzCsuID-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rbnCJUj0f540ZzCsuID-2" target="9rbnCJUj0f540ZzCsuID-5">
+        <mxCell id="9rbnCJUj0f540ZzCsuID-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="9rbnCJUj0f540ZzCsuID-2" target="9rbnCJUj0f540ZzCsuID-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9rbnCJUj0f540ZzCsuID-2" value="社会经济&lt;div&gt;统计数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
