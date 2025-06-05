@@ -125,7 +125,7 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-15" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;地域特色中心论&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1670" y="580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-16" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;地域&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;特色中心&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;horizontal=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="djFd3ABPchH4VWwgqrRo-16" value="&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;地域&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;特色中心&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;horizontal=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1200.75" y="733.75" width="115" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.14;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="djFd3ABPchH4VWwgqrRo-17" target="djFd3ABPchH4VWwgqrRo-20">
