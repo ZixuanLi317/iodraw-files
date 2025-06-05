@@ -248,6 +248,12 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-58" value="地理空间&lt;div&gt;基础数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="975" y="880" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="djFd3ABPchH4VWwgqrRo-59" value="社会经济&lt;div&gt;统计数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1082.5" y="880" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="djFd3ABPchH4VWwgqrRo-60" value="&lt;div&gt;实地调研&lt;/div&gt;&lt;div&gt;访谈数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="905" y="1260" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
