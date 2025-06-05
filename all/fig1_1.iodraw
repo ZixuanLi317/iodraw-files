@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="V0ufiChK4fXUYNe6NVzz" name="第 1 页">
-    <mxGraphModel dx="1933" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="50" y="400" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="core_theories" value="&lt;b&gt;核心理论：&lt;/b&gt;&lt;br&gt;- 可持续发展&lt;br&gt;- 韧性&lt;br&gt;- 演化经济地理与路径创造&lt;br&gt;- 公正转型&lt;br&gt;- 空间生产与重构" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;spacing=6;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="980" y="150" width="240" height="180" as="geometry" />
+          <mxGeometry x="1080" y="150" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="paradigm_label" value="整合性分析范式&lt;br&gt;“诊断-分析-目标-路径-评估-反馈”的迭代循环" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;whiteSpace=wrap;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="500" y="900" width="300" height="60" as="geometry" />
