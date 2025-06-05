@@ -118,14 +118,14 @@
         <mxCell id="LbEWxDQuSPon8GTAGZHK-10" value="······" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="757" y="1066.5" width="139" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="LbEWxDQuSPon8GTAGZHK-11" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="749" y="1110" width="151" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-12" value="影响城市&lt;div&gt;更新进程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="755.5" y="1116" width="64.5" height="30" as="geometry" />
+          <mxGeometry x="592.75" y="1140" width="64.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-13" value="影响更新&lt;div&gt;潜在成败&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1122" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LbEWxDQuSPon8GTAGZHK-14" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="746" y="1171.5" width="154" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
