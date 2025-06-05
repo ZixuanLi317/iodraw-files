@@ -23,7 +23,7 @@
           <mxGeometry x="1000" y="390" width="350" height="220" as="geometry" />
         </mxCell>
         <mxCell id="module4" value="&lt;b&gt;模块四：地域适应性的更新路径选择与策略设计 (路径)&lt;/b&gt;&lt;br&gt;以前三模块的分析为基础，聚焦于为特定资源型城市设计和选择具有高度地域适应性的更新路径与综合策略组合。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="400" width="350" height="200" as="geometry" />
+          <mxGeometry x="1460" y="390" width="350" height="210" as="geometry" />
         </mxCell>
         <mxCell id="module5" value="&lt;b&gt;模块五：更新效应的动态评估与反馈调适机制 (评估-反馈)&lt;/b&gt;&lt;br&gt;建立包含经济、社会、生态、文化等多维度指标的效应评估体系，对更新策略的实施效果进行动态追踪和科学评估，并根据评估结果及时调整和优化更新路径与策略，形成一个反馈学习和持续改进的闭环。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="775" y="700" width="450" height="220" as="geometry" />
