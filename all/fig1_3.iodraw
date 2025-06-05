@@ -315,13 +315,13 @@
           <mxGeometry x="1349" y="1309" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-82" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="1187.5" width="130" height="172" as="geometry" />
+          <mxGeometry x="1435" y="1187.5" width="95" height="152.5" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-83" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;路径依赖&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1454" y="1208.5" width="56" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-84" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;驱动分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1447.5" y="1179.5" width="70" height="22" as="geometry" />
+          <mxGeometry x="1443" y="1179" width="70" height="22" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-85" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;制度惯性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1454" y="1234.5" width="56" height="20" as="geometry" />
