@@ -20,7 +20,7 @@
           <mxGeometry x="550" y="400" width="350" height="200" as="geometry" />
         </mxCell>
         <mxCell id="module3" value="&lt;b&gt;模块三：多元理论引导下的多维目标建构与权衡 (目标)&lt;/b&gt;&lt;br&gt;核心理论分别从目标、能力、路径、公平和空间等维度，为资源型城市更新设定理想愿景和价值取向，并指导在具体地域特色约束下对这些多元目标进行科学的权衡与整合。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="400" width="350" height="220" as="geometry" />
+          <mxGeometry x="1000" y="390" width="350" height="220" as="geometry" />
         </mxCell>
         <mxCell id="module4" value="&lt;b&gt;模块四：地域适应性的更新路径选择与策略设计 (路径)&lt;/b&gt;&lt;br&gt;以前三模块的分析为基础，聚焦于为特定资源型城市设计和选择具有高度地域适应性的更新路径与综合策略组合。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1450" y="400" width="350" height="200" as="geometry" />
