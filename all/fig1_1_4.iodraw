@@ -1,0 +1,90 @@
+<mxGraphModel dx="2000" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="module4_main_title" value="模块四：地域适应性的更新路径选择与策略设计" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+      <mxGeometry x="600" y="20" width="600" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="input_from_modules123" value="&lt;b&gt;输入基础：&lt;/b&gt;&lt;br&gt;前三模块的分析结果&lt;br&gt;（地域特色诊断、机制分析、多维目标）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="100" y="300" width="250" height="120" as="geometry" />
+    </mxCell>
+    <mxCell id="core_process_focus" value="&lt;b&gt;核心聚焦：&lt;/b&gt;&lt;br&gt;为特定资源型城市设计和选择&lt;br&gt;&lt;b&gt;具有高度地域适应性的&lt;/b&gt;&lt;br&gt;更新路径与综合策略组合" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontSize=14;shadow=1;" vertex="1" parent="1">
+      <mxGeometry x="450" y="280" width="350" height="160" as="geometry" />
+    </mxCell>
+    <mxCell id="arrow_input_to_core" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" edge="1" parent="1" source="input_from_modules123" target="core_process_focus">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="strategy_components_group_label" value="更新路径与策略组合的构成内容：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=13;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
+      <mxGeometry x="880" y="100" width="340" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="component_industrial" value="&lt;b&gt;产业转型升级的具体方向&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;shadow=1;fontSize=12;" vertex="1" parent="1">
+      <mxGeometry x="900" y="150" width="300" height="70" as="geometry" />
+    </mxCell>
+    <mxCell id="component_ecological" value="&lt;b&gt;生态环境修复的优先序&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;shadow=1;fontSize=12;" vertex="1" parent="1">
+      <mxGeometry x="900" y="240" width="300" height="70" as="geometry" />
+    </mxCell>
+    <mxCell id="component_social" value="&lt;b&gt;社会包容性政策的制定&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;shadow=1;fontSize=12;" vertex="1" parent="1">
+      <mxGeometry x="900" y="330" width="300" height="70" as="geometry" />
+    </mxCell>
+    <mxCell id="component_spatial" value="&lt;b&gt;空间功能重组的方案&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;shadow=1;fontSize=12;" vertex="1" parent="1">
+      <mxGeometry x="900" y="420" width="300" height="70" as="geometry" />
+    </mxCell>
+    <mxCell id="component_governance" value="&lt;b&gt;地方治理机制的创新&lt;/b&gt;&lt;br&gt;...等" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;shadow=1;fontSize=12;" vertex="1" parent="1">
+      <mxGeometry x="900" y="510" width="300" height="70" as="geometry" />
+    </mxCell>
+    <mxCell id="arrow_core_to_comp1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="core_process_focus" target="component_industrial">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="800" y="360" as="sourcePoint"/>
+        <mxPoint x="900" y="185" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="arrow_core_to_comp2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="core_process_focus" target="component_ecological">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="800" y="360" as="sourcePoint"/>
+        <mxPoint x="900" y="275" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="arrow_core_to_comp3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="core_process_focus" target="component_social">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="arrow_core_to_comp4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="core_process_focus" target="component_spatial">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="800" y="360" as="sourcePoint"/>
+        <mxPoint x="900" y="455" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="arrow_core_to_comp5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="core_process_focus" target="component_governance">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="800" y="360" as="sourcePoint"/>
+        <mxPoint x="900" y="545" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="output_group_label" value="模块产出：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=13;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
+      <mxGeometry x="450" y="550" width="350" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="output_paths" value="&lt;b&gt;具有高度地域适应性的&lt;/b&gt;&lt;br&gt;更新路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;shadow=1;fontSize=13;" vertex="1" parent="1">
+      <mxGeometry x="300" y="600" width="250" height="100" as="geometry" />
+    </mxCell>
+    <mxCell id="output_strategies" value="&lt;b&gt;综合策略组合&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;shadow=1;fontSize=13;" vertex="1" parent="1">
+      <mxGeometry x="650" y="600" width="250" height="100" as="geometry" />
+    </mxCell>
+    <mxCell id="arrow_components_to_outputs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=1.5;" edge="1" parent="1" source="component_industrial" target="output_paths">
+        <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="185" as="sourcePoint"/>
+            <mxPoint x="425" y="600" as="targetPoint"/>
+            <Array as="points">
+                <mxPoint x="1050" y="380"/>
+                <mxPoint x="425" y="380"/>
+            </Array>
+        </mxGeometry>
+    </mxCell>
+     <mxCell id="arrow_compIndustrial_to_path" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="arrow_components_to_outputs" target="output_paths">
+        <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+     <mxCell id="arrow_compIndustrial_to_strategy" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="arrow_components_to_outputs" target="output_strategies">
+        <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-20" as="offset"/>
+        </mxGeometry>
+    </mxCell>
+  </root>
+</mxGraphModel>
