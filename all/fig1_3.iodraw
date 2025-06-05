@@ -158,7 +158,7 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=2.1;dx=8.52;arrowHead=12.24;rounded=1;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="1295" y="750" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-27" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.29814814814814855;arrowSize=0.105;" vertex="1" parent="1">
+        <mxCell id="djFd3ABPchH4VWwgqrRo-27" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.22777777777778282;arrowSize=0.2069444444444457;" vertex="1" parent="1">
           <mxGeometry x="1370" y="720" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
