@@ -351,13 +351,13 @@
           <mxGeometry x="700" y="1098" width="100" height="210" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-92" value="影响更新进程" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="705" y="1131" width="90" height="21" as="geometry" />
+          <mxGeometry x="1433" y="1220" width="90" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-93" value="影响更新房向" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="705" y="1193.5" width="90" height="21" as="geometry" />
+          <mxGeometry x="1433" y="1282.5" width="90" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-94" value="影响潜在成败" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="705" y="1259" width="90" height="21" as="geometry" />
+          <mxGeometry x="1433" y="1348" width="90" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
