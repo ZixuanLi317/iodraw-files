@@ -110,8 +110,11 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-10" value="韧性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="750" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-11" value="演化经济地理与路径创造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="800" width="115" height="30" as="geometry" />
+        <mxCell id="djFd3ABPchH4VWwgqrRo-11" value="演化经济地理&lt;div&gt;与路径创造&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="790" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="djFd3ABPchH4VWwgqrRo-12" value="可持续发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="710" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
