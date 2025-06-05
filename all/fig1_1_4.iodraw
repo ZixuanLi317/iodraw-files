@@ -98,25 +98,25 @@
           <mxGeometry x="908" y="968.5" width="50" height="203" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1076" y="951" width="154" height="142" as="geometry" />
+          <mxGeometry x="754" y="951" width="154" height="142" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-2" value="产业转型升级的具体方向" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="966.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="762" y="966.5" width="139" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-3" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;更新路径与策略组合&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1092" y="940" width="128" height="22" as="geometry" />
+          <mxGeometry x="770" y="940" width="128" height="22" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-7" value="生态环境修复的优先序" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="991.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="762" y="991.5" width="139" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-8" value="社会包容性政策的制定" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="1016.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="762" y="1016.5" width="139" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-9" value="空间功能重组的方案" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="1041.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="762" y="1041.5" width="139" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-10" value="······" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1084" y="1066.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="762" y="1066.5" width="139" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
