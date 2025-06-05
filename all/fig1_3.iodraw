@@ -245,9 +245,6 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-57" value="&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;诊断与识别结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="919" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djFd3ABPchH4VWwgqrRo-61" target="djFd3ABPchH4VWwgqrRo-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-61" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="880" width="300" height="60" as="geometry" />
         </mxCell>
@@ -262,9 +259,6 @@
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-62" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;多源数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1059" y="872" width="120" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djFd3ABPchH4VWwgqrRo-63" target="djFd3ABPchH4VWwgqrRo-69">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-63" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="964" width="300" height="60" as="geometry" />
@@ -358,6 +352,9 @@
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-94" value="影响更新&lt;div&gt;潜在成败&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1491" y="1077" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="djFd3ABPchH4VWwgqrRo-99" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.2984832451499114;arrowSize=0.47252747252745253;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="944" width="19" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
