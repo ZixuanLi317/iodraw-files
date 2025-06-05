@@ -26,7 +26,7 @@
           <mxGeometry x="1760" y="520" width="350" height="220" as="geometry" />
         </mxCell>
         <mxCell id="module5" value="&lt;b&gt;模块五：更新效应的动态评估与反馈调适机制 (评估-反馈)&lt;/b&gt;&lt;br&gt;建立包含经济、社会、生态、文化等多维度指标的效应评估体系，对更新策略的实施效果进行动态追踪和科学评估，并根据评估结果及时调整和优化更新路径与策略，形成一个反馈学习和持续改进的闭环。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="780" width="450" height="220" as="geometry" />
+          <mxGeometry x="1090" y="950" width="450" height="220" as="geometry" />
         </mxCell>
         <mxCell id="characteristicsValue" value="&lt;b&gt;该整合分析范式的特点与价值&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px; padding:0;&quot;&gt;&lt;li&gt;&lt;b&gt;地域中心性：&lt;/b&gt;始终将地域特色作为分析和决策的核心依据，强调“一把钥匙开一把锁”。&lt;/li&gt;&lt;li&gt;&lt;b&gt;理论整合性：&lt;/b&gt;有机融合了多个相关理论的核心思想，为理解复杂的更新问题提供了多棱镜式的观察视角。&lt;/li&gt;&lt;li&gt;&lt;b&gt;系统动态性：&lt;/b&gt;将城市更新视为一个动态演化的系统过程，强调各要素间的相互作用和反馈调整。&lt;/li&gt;&lt;li&gt;&lt;b&gt;实践导向性：&lt;/b&gt;最终目标是为资源型城市制定科学有效的更新策略提供可操作的分析框架和方法论指导。&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6ffcc;strokeColor=#82b366;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="1210" width="1200" height="200" as="geometry" />
@@ -72,13 +72,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="arrow_m4_m5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="module4" target="module5" edge="1">
+        <mxCell id="arrow_m4_m5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="module4" target="module5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1625" y="600" as="sourcePoint" />
             <mxPoint x="1112.5" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1625" y="650" />
-              <mxPoint x="1112" y="650" />
+              <mxPoint x="1935" y="650" />
+              <mxPoint x="1540" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -87,7 +87,8 @@
             <mxPoint x="887" y="700" as="sourcePoint" />
             <mxPoint x="1000" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="887" y="350" />
+              <mxPoint x="970" y="950" />
+              <mxPoint x="970" y="350" />
               <mxPoint x="1000" y="350" />
             </Array>
           </mxGeometry>
