@@ -428,6 +428,12 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-125" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.2984832451499114;arrowSize=0.47252747252745253;rotation=90;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1345" y="1270" width="39.63" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="djFd3ABPchH4VWwgqrRo-126" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1388.5" y="1155" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="djFd3ABPchH4VWwgqrRo-127" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;城市更新目标&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;构建&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1583.5" y="1216" width="50" height="158" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
