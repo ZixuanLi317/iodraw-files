@@ -369,61 +369,61 @@
           <mxGeometry x="930" y="1150" width="670" height="300" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-106" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="600" width="220" height="270" as="geometry" />
+          <mxGeometry x="800" y="1540" width="220" height="270" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-107" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;城市更新目标&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;构建&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="975" y="661" width="50" height="158" as="geometry" />
+          <mxGeometry x="995" y="1601" width="50" height="158" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="djFd3ABPchH4VWwgqrRo-109" target="djFd3ABPchH4VWwgqrRo-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-109" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="867.5" y="780" width="85" height="70" as="geometry" />
+          <mxGeometry x="887.5" y="1720" width="85" height="70" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-110" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: nowrap;&quot;&gt;理想愿景&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="816" width="55" height="21" as="geometry" />
+          <mxGeometry x="902.5" y="1756" width="55" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-111" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;多元理论&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="875" y="841.5" width="70" height="22" as="geometry" />
+          <mxGeometry x="895" y="1781.5" width="70" height="22" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djFd3ABPchH4VWwgqrRo-113" target="djFd3ABPchH4VWwgqrRo-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-113" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="867.5" y="618" width="85" height="120.5" as="geometry" />
+          <mxGeometry x="887.5" y="1558" width="85" height="120.5" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-114" value="地域基因" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="636.5" width="55" height="21" as="geometry" />
+          <mxGeometry x="902.5" y="1576.5" width="55" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-115" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;地域特色&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="873.5" y="610" width="70" height="22" as="geometry" />
+          <mxGeometry x="893.5" y="1550" width="70" height="22" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-116" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: nowrap;&quot;&gt;价值取向&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="790" width="55" height="21" as="geometry" />
+          <mxGeometry x="902.5" y="1730" width="55" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-117" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;发展基底&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="661.5" width="55" height="21" as="geometry" />
+          <mxGeometry x="902.5" y="1601.5" width="55" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-118" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;制约作用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="686.5" width="55" height="21" as="geometry" />
+          <mxGeometry x="902.5" y="1626.5" width="55" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-119" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;驱动作用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="711.5" width="55" height="21" as="geometry" />
+          <mxGeometry x="902.5" y="1651.5" width="55" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-120" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.3333333333333333;arrowSize=0.12268518518518097;" vertex="1" parent="1">
-          <mxGeometry x="923" y="742" width="9.5" height="36" as="geometry" />
+          <mxGeometry x="943" y="1682" width="9.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-121" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.3333333333333333;arrowSize=0.12268518518518097;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="890" y="742" width="9.5" height="36" as="geometry" />
+          <mxGeometry x="910" y="1682" width="9.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-122" value="约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="920" y="745" width="50" height="30" as="geometry" />
+          <mxGeometry x="940" y="1685" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-123" value="权衡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="849.5" y="745" width="50" height="30" as="geometry" />
+          <mxGeometry x="869.5" y="1685" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-124" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;多维城市&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;更新目标&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="790" y="721.5" width="59.5" height="53.5" as="geometry" />
+          <mxGeometry x="810" y="1661.5" width="59.5" height="53.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
