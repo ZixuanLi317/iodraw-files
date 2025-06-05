@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="-23OS_eVOOB6HuU2q149" name="第 1 页">
-    <mxGraphModel dx="787" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="384" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,25 +118,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="758" width="170" height="222" as="geometry" />
+          <mxGeometry x="200" y="758" width="130" height="222" as="geometry" />
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-2" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;路径依赖&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="239" y="779" width="90" height="30" as="geometry" />
+          <mxGeometry x="219" y="779" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;多源数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="230" y="750" width="120" height="22" as="geometry" />
+          <mxGeometry x="205" y="750" width="120" height="22" as="geometry" />
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-4" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;制度惯性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="239" y="820" width="90" height="30" as="geometry" />
+          <mxGeometry x="219" y="820" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-5" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;生态负债&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="239" y="860" width="90" height="30" as="geometry" />
+          <mxGeometry x="219" y="860" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-6" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;空间锁定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="239" y="900" width="90" height="30" as="geometry" />
+          <mxGeometry x="219" y="900" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;······&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="239" y="940" width="90" height="30" as="geometry" />
+          <mxGeometry x="219" y="940" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
