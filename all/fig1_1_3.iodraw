@@ -74,7 +74,7 @@
         <mxCell id="4H7y5VD8KLAMrlym_0M_-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;多元理论&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="875" y="841.5" width="70" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="4H7y5VD8KLAMrlym_0M_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4H7y5VD8KLAMrlym_0M_-7" target="4H7y5VD8KLAMrlym_0M_-19">
+        <mxCell id="4H7y5VD8KLAMrlym_0M_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4H7y5VD8KLAMrlym_0M_-7" target="4H7y5VD8KLAMrlym_0M_-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4H7y5VD8KLAMrlym_0M_-7" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
@@ -111,7 +111,7 @@
           <mxGeometry x="849.5" y="745" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4H7y5VD8KLAMrlym_0M_-19" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="686.5" width="85" height="120.5" as="geometry" />
+          <mxGeometry x="758" y="686.5" width="85" height="53.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
