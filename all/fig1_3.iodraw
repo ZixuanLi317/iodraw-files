@@ -173,7 +173,7 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-32" value="驱动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1540" y="755" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-33" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.3948717948717915;arrowSize=0.5153846153846189;" vertex="1" parent="1">
+        <mxCell id="djFd3ABPchH4VWwgqrRo-33" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.27056277056277134;arrowSize=0.7145454545454504;" vertex="1" parent="1">
           <mxGeometry x="1205.75" y="850" width="105" height="50" as="geometry" />
         </mxCell>
       </root>
