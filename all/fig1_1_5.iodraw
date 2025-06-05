@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="R2jNT-kwdEZG1Kvae4z1" name="第 1 页">
-    <mxGraphModel dx="748" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="427" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
           <mxGeometry x="698" y="726" width="50" height="203" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="754" y="711" width="140.25" height="129" as="geometry" />
+          <mxGeometry x="754" y="711" width="140.25" height="119" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-7" value="评估更新策略的实施效果" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="955.5" y="880" width="139" height="21" as="geometry" />
@@ -121,13 +121,13 @@
           <mxGeometry x="872.5" y="732" width="16.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="754.13" y="861" width="140.25" height="44" as="geometry" />
+          <mxGeometry x="754.13" y="851" width="140.25" height="44" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-19" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;动态评估&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="761.38" y="854" width="128" height="22" as="geometry" />
+          <mxGeometry x="761.38" y="844" width="128" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-21" value="评估更新策略实施效果" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="763.19" y="879" width="124.38" height="21" as="geometry" />
+          <mxGeometry x="763.19" y="869" width="124.38" height="21" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-22" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="754" y="917" width="140.25" height="44" as="geometry" />
