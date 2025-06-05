@@ -65,10 +65,10 @@
           <mxGeometry x="450" y="550" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="output_paths" value="&lt;b&gt;具有高度地域适应性的&lt;/b&gt;&lt;br&gt;更新路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;shadow=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="300" y="600" width="250" height="100" as="geometry" />
+          <mxGeometry x="390" y="710" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="output_strategies" value="&lt;b&gt;综合策略组合&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;shadow=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="650" y="600" width="250" height="100" as="geometry" />
+          <mxGeometry x="775" y="710" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="arrow_components_to_outputs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=1.5;" parent="1" source="component_industrial" target="output_paths" edge="1">
           <mxGeometry relative="1" as="geometry">
