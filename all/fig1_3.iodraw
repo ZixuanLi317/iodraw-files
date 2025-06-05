@@ -245,6 +245,9 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-57" value="&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;诊断与识别结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1172.5" y="1160" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="djFd3ABPchH4VWwgqrRo-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="djFd3ABPchH4VWwgqrRo-61" target="djFd3ABPchH4VWwgqrRo-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-61" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="880" width="300" height="60" as="geometry" />
         </mxCell>
@@ -261,16 +264,16 @@
           <mxGeometry x="1059" y="872" width="120" height="22" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-63" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="957" width="300" height="60" as="geometry" />
+          <mxGeometry x="970" y="998" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-64" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统辨识&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;与评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1059" y="949" width="120" height="22" as="geometry" />
+          <mxGeometry x="1059" y="990" width="120" height="22" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-65" value="&lt;span style=&quot;background-color: initial;&quot;&gt;核心地域&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;特色表现&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="977" width="90" height="30" as="geometry" />
+          <mxGeometry x="1000" y="1018" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-66" value="&lt;span style=&quot;background-color: initial;&quot;&gt;城市当前&lt;/span&gt;&lt;div&gt;演化阶段&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="977" width="90" height="30" as="geometry" />
+          <mxGeometry x="1150" y="1018" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
