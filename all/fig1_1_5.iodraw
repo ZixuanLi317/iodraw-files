@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="R2jNT-kwdEZG1Kvae4z1" name="第 1 页">
-    <mxGraphModel dx="262" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="384" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
           <mxGeometry x="698" y="726" width="50" height="203" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="756" y="711" width="140.25" height="142" as="geometry" />
+          <mxGeometry x="756" y="711" width="140.25" height="129" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-7" value="产业转型升级的具体方向" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="371" y="640" width="139" height="21" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry x="657" y="650" width="139" height="21" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-13" value="经济产业维度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="758.25" y="732" width="16.75" height="90" as="geometry" />
+          <mxGeometry x="763.25" y="732" width="16.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-14" value="社会文化维度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="732" width="16.75" height="90" as="geometry" />
