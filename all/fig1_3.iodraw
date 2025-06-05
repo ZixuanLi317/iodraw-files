@@ -135,7 +135,7 @@
           <mxGeometry x="1310" y="710" width="72.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-18" value="社会文化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="710" width="72.5" height="30" as="geometry" />
+          <mxGeometry x="1497.5" y="710" width="72.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-19" value="生态环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1403.75" y="710" width="72.5" height="30" as="geometry" />
@@ -149,7 +149,7 @@
             <mxPoint x="1356" y="781" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.872;entryY=0.04;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="djFd3ABPchH4VWwgqrRo-18" target="djFd3ABPchH4VWwgqrRo-20">
+        <mxCell id="djFd3ABPchH4VWwgqrRo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.861;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="djFd3ABPchH4VWwgqrRo-18" target="djFd3ABPchH4VWwgqrRo-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1450" y="750" as="sourcePoint" />
             <mxPoint x="1450" y="780" as="targetPoint" />
@@ -165,7 +165,7 @@
           <mxGeometry x="1468" y="721" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=2.1;dx=8.52;arrowHead=12.24;rounded=1;rotation=45;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="750" width="40" height="40" as="geometry" />
+          <mxGeometry x="1557" y="750" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
