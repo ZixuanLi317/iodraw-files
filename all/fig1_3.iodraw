@@ -281,13 +281,13 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-68" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="1048" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-69" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统辨识&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;与评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="djFd3ABPchH4VWwgqrRo-69" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;诊断与识别结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1040" width="120" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-70" value="&lt;span style=&quot;background-color: initial;&quot;&gt;核心地域&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;特色表现&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="djFd3ABPchH4VWwgqrRo-70" value="地域基因" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1068" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="djFd3ABPchH4VWwgqrRo-71" value="&lt;span style=&quot;background-color: initial;&quot;&gt;城市当前&lt;/span&gt;&lt;div&gt;演化阶段&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="djFd3ABPchH4VWwgqrRo-71" value="发展基底" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1068" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
