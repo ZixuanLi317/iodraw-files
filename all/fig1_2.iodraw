@@ -1,138 +1,142 @@
-<mxGraphModel dx="2000" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1800" math="0" shadow="0">
-  <root>
-    <mxCell id="0" />
-    <mxCell id="1" parent="0" />
-    <mxCell id="frameworkTitle" value="整合性分析范式：以地域特色为核心的分析方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;whiteSpace=wrap;spacingBottom=10;" parent="1" vertex="1">
-      <mxGeometry x="650" y="20" width="700" height="40" as="geometry" />
-    </mxCell>
-    <mxCell id="coreTheories" value="&lt;b&gt;核心理论引入&lt;/b&gt;&lt;br&gt;可持续发展、韧性、演化经济地理与路径创造、公正转型、空间生产与重构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-      <mxGeometry x="750" y="80" width="500" height="100" as="geometry" />
-    </mxCell>
-    <mxCell id="centralPhilosophy" value="&lt;b&gt;地域特色中心论&lt;/b&gt;&lt;br&gt;将特定资源型城市的经济产业、社会文化、生态环境、空间形态及其系统互动所共同构成的地域特色，视为认知、分析和介入其城市更新过程的根本出发点和贯穿始终的主线。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=0;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
-      <mxGeometry x="400" y="220" width="1200" height="100" as="geometry" />
-    </mxCell>
-    <mxCell id="module1" value="&lt;b&gt;模块一：地域特色综合诊断与类型识别系统 (诊断)&lt;/b&gt;&lt;br&gt;运用多源数据和综合评价方法，系统辨识特定资源型城市在经济、社会文化、生态、空间等维度的核心特征及其所处的演化阶段，深刻揭示其独特的“地域基因”与发展基底。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-      <mxGeometry x="100" y="400" width="350" height="200" as="geometry" />
-    </mxCell>
-    <mxCell id="module2" value="&lt;b&gt;模块二：更新的制约与驱动机制分析引擎 (分析)&lt;/b&gt;&lt;br&gt;基于地域特色诊断结果，深入剖析这些特色是如何通过复杂的相互作用具体影响城市更新的进程、方向和潜在成败的。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-      <mxGeometry x="550" y="400" width="350" height="200" as="geometry" />
-    </mxCell>
-    <mxCell id="module3" value="&lt;b&gt;模块三：多元理论引导下的多维目标建构与权衡 (目标)&lt;/b&gt;&lt;br&gt;核心理论分别从目标、能力、路径、公平和空间等维度，为资源型城市更新设定理想愿景和价值取向，并指导在具体地域特色约束下对这些多元目标进行科学的权衡与整合。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-      <mxGeometry x="1000" y="400" width="350" height="220" as="geometry" />
-    </mxCell>
-    <mxCell id="module4" value="&lt;b&gt;模块四：地域适应性的更新路径选择与策略设计 (路径)&lt;/b&gt;&lt;br&gt;以前三模块的分析为基础，聚焦于为特定资源型城市设计和选择具有高度地域适应性的更新路径与综合策略组合。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-      <mxGeometry x="1450" y="400" width="350" height="200" as="geometry" />
-    </mxCell>
-    <mxCell id="module5" value="&lt;b&gt;模块五：更新效应的动态评估与反馈调适机制 (评估-反馈)&lt;/b&gt;&lt;br&gt;建立包含经济、社会、生态、文化等多维度指标的效应评估体系，对更新策略的实施效果进行动态追踪和科学评估，并根据评估结果及时调整和优化更新路径与策略，形成一个反馈学习和持续改进的闭环。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-      <mxGeometry x="775" y="700" width="450" height="220" as="geometry" />
-    </mxCell>
-    <mxCell id="characteristicsValue" value="&lt;b&gt;该整合分析范式的特点与价值&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px; padding:0;&quot;&gt;&lt;li&gt;&lt;b&gt;地域中心性：&lt;/b&gt;始终将地域特色作为分析和决策的核心依据，强调“一把钥匙开一把锁”。&lt;/li&gt;&lt;li&gt;&lt;b&gt;理论整合性：&lt;/b&gt;有机融合了多个相关理论的核心思想，为理解复杂的更新问题提供了多棱镜式的观察视角。&lt;/li&gt;&lt;li&gt;&lt;b&gt;系统动态性：&lt;/b&gt;将城市更新视为一个动态演化的系统过程，强调各要素间的相互作用和反馈调整。&lt;/li&gt;&lt;li&gt;&lt;b&gt;实践导向性：&lt;/b&gt;最终目标是为资源型城市制定科学有效的更新策略提供可操作的分析框架和方法论指导。&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6ffcc;strokeColor=#82b366;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
-      <mxGeometry x="400" y="1000" width="1200" height="200" as="geometry" />
-    </mxCell>
-    <mxCell id="arrow_theory_philosophy" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" edge="1" parent="1" source="coreTheories" target="centralPhilosophy">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="arrow_philosophy_m1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="centralPhilosophy" target="module1">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="1000" y="320" as="sourcePoint" />
-        <mxPoint x="275" y="400" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="1000" y="360" />
-          <mxPoint x="275" y="360" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="arrow_m1_m2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="1" source="module1" target="module2">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="450" y="500" as="sourcePoint" />
-        <mxPoint x="550" y="500" as="targetPoint" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="arrow_m2_m3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="1" source="module2" target="module3">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="900" y="500" as="sourcePoint" />
-        <mxPoint x="1000" y="500" as="targetPoint" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="arrow_m3_m4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="1" source="module3" target="module4">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="1350" y="500" as="sourcePoint" />
-        <mxPoint x="1450" y="500" as="targetPoint" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="arrow_theory_m3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="coreTheories" target="module3">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="1000" y="180" as="sourcePoint" />
-        <mxPoint x="1175" y="400" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="1000" y="350" />
-          <mxPoint x="1175" y="350" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="arrow_m4_m5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="module4" target="module5">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="1625" y="600" as="sourcePoint" />
-        <mxPoint x="1112.5" y="700" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="1625" y="650" />
-          <mxPoint x="1112" y="650" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="arrow_m5_feedback_main" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;dashed=1;dashPattern=8 8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="module5" target="centralPhilosophy">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="887" y="700" as="sourcePoint"/>
-        <mxPoint x="1000" y="320" as="targetPoint"/>
-        <Array as="points">
-          <mxPoint x="887" y="350" />
-          <mxPoint x="1000" y="350" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="arrow_m5_feedback_label" value="反馈循环 (诊断-分析-目标-路径-评估-反馈)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=11;fontStyle=2;" connectable="0" vertex="1" parent="arrow_m5_feedback_main">
-      <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
-        <mxPoint x="30" y="-19" as="offset" />
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="influence_line_philosophy_m2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;strokeWidth=1;dashed=1;dashPattern=2 2;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="centralPhilosophy" target="module2">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="1000" y="320" as="sourcePoint" />
-        <mxPoint x="725" y="400" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="1000" y="360" />
-          <mxPoint x="725" y="360" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="influence_line_philosophy_m3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;strokeWidth=1;dashed=1;dashPattern=2 2;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="centralPhilosophy" target="module3">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="1000" y="320" as="sourcePoint" />
-        <mxPoint x="1175" y="400" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="1000" y="370" />
-          <mxPoint x="1175" y="370" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="influence_line_philosophy_m4" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;strokeWidth=1;dashed=1;dashPattern=2 2;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="centralPhilosophy" target="module4">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="1000" y="320" as="sourcePoint" />
-        <mxPoint x="1625" y="400" as="targetPoint" />
-        <Array as="points">
-          <mxPoint x="1000" y="360" />
-          <mxPoint x="1625" y="360" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="influence_line_philosophy_m5" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;strokeWidth=1;dashed=1;dashPattern=2 2;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="centralPhilosophy" target="module5">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="1000" y="320" as="sourcePoint"/>
-        <mxPoint x="1000" y="700" as="targetPoint"/>
-        <Array as="points">
-          <mxPoint x="1000" y="670" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-  </root>
-</mxGraphModel>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="0_iGCchf6DL5m9qADDwK" name="第 1 页">
+    <mxGraphModel dx="2320" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frameworkTitle" value="整合性分析范式：以地域特色为核心的分析方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;whiteSpace=wrap;spacingBottom=10;" parent="1" vertex="1">
+          <mxGeometry x="650" y="20" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="coreTheories" value="&lt;b&gt;核心理论引入&lt;/b&gt;&lt;br&gt;可持续发展、韧性、演化经济地理与路径创造、公正转型、空间生产与重构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="80" width="500" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="centralPhilosophy" value="&lt;b&gt;地域特色中心论&lt;/b&gt;&lt;br&gt;将特定资源型城市的经济产业、社会文化、生态环境、空间形态及其系统互动所共同构成的地域特色，视为认知、分析和介入其城市更新过程的根本出发点和贯穿始终的主线。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=0;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="220" width="1200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="module1" value="&lt;b&gt;模块一：地域特色综合诊断与类型识别系统 (诊断)&lt;/b&gt;&lt;br&gt;运用多源数据和综合评价方法，系统辨识特定资源型城市在经济、社会文化、生态、空间等维度的核心特征及其所处的演化阶段，深刻揭示其独特的“地域基因”与发展基底。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="400" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="module2" value="&lt;b&gt;模块二：更新的制约与驱动机制分析引擎 (分析)&lt;/b&gt;&lt;br&gt;基于地域特色诊断结果，深入剖析这些特色是如何通过复杂的相互作用具体影响城市更新的进程、方向和潜在成败的。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="400" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="module3" value="&lt;b&gt;模块三：多元理论引导下的多维目标建构与权衡 (目标)&lt;/b&gt;&lt;br&gt;核心理论分别从目标、能力、路径、公平和空间等维度，为资源型城市更新设定理想愿景和价值取向，并指导在具体地域特色约束下对这些多元目标进行科学的权衡与整合。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="400" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="module4" value="&lt;b&gt;模块四：地域适应性的更新路径选择与策略设计 (路径)&lt;/b&gt;&lt;br&gt;以前三模块的分析为基础，聚焦于为特定资源型城市设计和选择具有高度地域适应性的更新路径与综合策略组合。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="400" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="module5" value="&lt;b&gt;模块五：更新效应的动态评估与反馈调适机制 (评估-反馈)&lt;/b&gt;&lt;br&gt;建立包含经济、社会、生态、文化等多维度指标的效应评估体系，对更新策略的实施效果进行动态追踪和科学评估，并根据评估结果及时调整和优化更新路径与策略，形成一个反馈学习和持续改进的闭环。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="775" y="700" width="450" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="characteristicsValue" value="&lt;b&gt;该整合分析范式的特点与价值&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px; padding:0;&quot;&gt;&lt;li&gt;&lt;b&gt;地域中心性：&lt;/b&gt;始终将地域特色作为分析和决策的核心依据，强调“一把钥匙开一把锁”。&lt;/li&gt;&lt;li&gt;&lt;b&gt;理论整合性：&lt;/b&gt;有机融合了多个相关理论的核心思想，为理解复杂的更新问题提供了多棱镜式的观察视角。&lt;/li&gt;&lt;li&gt;&lt;b&gt;系统动态性：&lt;/b&gt;将城市更新视为一个动态演化的系统过程，强调各要素间的相互作用和反馈调整。&lt;/li&gt;&lt;li&gt;&lt;b&gt;实践导向性：&lt;/b&gt;最终目标是为资源型城市制定科学有效的更新策略提供可操作的分析框架和方法论指导。&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6ffcc;strokeColor=#82b366;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1000" width="1200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_theory_philosophy" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" parent="1" source="coreTheories" target="centralPhilosophy" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_philosophy_m1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="centralPhilosophy" target="module1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="320" as="sourcePoint" />
+            <mxPoint x="275" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="360" />
+              <mxPoint x="275" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_m1_m2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;" parent="1" source="module1" target="module2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="500" as="sourcePoint" />
+            <mxPoint x="550" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_m2_m3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;" parent="1" source="module2" target="module3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="500" as="sourcePoint" />
+            <mxPoint x="1000" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_m3_m4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;" parent="1" source="module3" target="module4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="500" as="sourcePoint" />
+            <mxPoint x="1450" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_theory_m3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="coreTheories" target="module3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="180" as="sourcePoint" />
+            <mxPoint x="1175" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="350" />
+              <mxPoint x="1175" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_m4_m5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="module4" target="module5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1625" y="600" as="sourcePoint" />
+            <mxPoint x="1112.5" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1625" y="650" />
+              <mxPoint x="1112" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_m5_feedback_main" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=2;dashed=1;dashPattern=8 8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="module5" target="centralPhilosophy" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="887" y="700" as="sourcePoint" />
+            <mxPoint x="1000" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="887" y="350" />
+              <mxPoint x="1000" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_m5_feedback_label" value="反馈循环 (诊断-分析-目标-路径-评估-反馈)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=11;fontStyle=2;" parent="arrow_m5_feedback_main" connectable="0" vertex="1">
+          <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
+            <mxPoint x="30" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="influence_line_philosophy_m2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;strokeWidth=1;dashed=1;dashPattern=2 2;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="centralPhilosophy" target="module2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="320" as="sourcePoint" />
+            <mxPoint x="725" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="360" />
+              <mxPoint x="725" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="influence_line_philosophy_m3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;strokeWidth=1;dashed=1;dashPattern=2 2;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="centralPhilosophy" target="module3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="320" as="sourcePoint" />
+            <mxPoint x="1175" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="370" />
+              <mxPoint x="1175" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="influence_line_philosophy_m4" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;strokeWidth=1;dashed=1;dashPattern=2 2;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="centralPhilosophy" target="module4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="320" as="sourcePoint" />
+            <mxPoint x="1625" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="360" />
+              <mxPoint x="1625" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="influence_line_philosophy_m5" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;strokeWidth=1;dashed=1;dashPattern=2 2;strokeColor=#6c8ebf;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="centralPhilosophy" target="module5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="320" as="sourcePoint" />
+            <mxPoint x="1000" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
