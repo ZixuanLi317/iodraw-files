@@ -11,7 +11,7 @@
           <mxGeometry x="1490" y="10" width="500" height="100" as="geometry" />
         </mxCell>
         <mxCell id="centralPhilosophy" value="&lt;b&gt;地域特色中心论&lt;/b&gt;&lt;br&gt;将特定资源型城市的经济产业、社会文化、生态环境、空间形态及其系统互动所共同构成的地域特色，视为认知、分析和介入其城市更新过程的根本出发点和贯穿始终的主线。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=0;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="220" width="1200" height="100" as="geometry" />
+          <mxGeometry x="1045" y="190" width="1200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="module1" value="&lt;b&gt;模块一：地域特色综合诊断与类型识别系统 (诊断)&lt;/b&gt;&lt;br&gt;运用多源数据和综合评价方法，系统辨识特定资源型城市在经济、社会文化、生态、空间等维度的核心特征及其所处的演化阶段，深刻揭示其独特的“地域基因”与发展基底。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;spacing=6;fontSize=12;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="550" width="350" height="200" as="geometry" />
