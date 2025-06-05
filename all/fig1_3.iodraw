@@ -170,6 +170,9 @@
         <mxCell id="djFd3ABPchH4VWwgqrRo-31" value="制约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1295" y="755" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="djFd3ABPchH4VWwgqrRo-32" value="制约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="755" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
