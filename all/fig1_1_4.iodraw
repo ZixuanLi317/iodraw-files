@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="PghNavr7Ia_x3xas-OpP" name="第 1 页">
-    <mxGraphModel dx="1151" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="650" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,31 +92,31 @@
           <mxGeometry x="998.5" y="1051.5" width="59.5" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="930" width="189.25" height="270" as="geometry" />
+          <mxGeometry x="740" y="930" width="199.25" height="270" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;b&gt;地域适应性的更新路径选择与&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&lt;b&gt;策略设计&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="908" y="968.5" width="50" height="203" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="754" y="951" width="154" height="142" as="geometry" />
+          <mxGeometry x="749" y="951" width="154" height="142" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-2" value="产业转型升级的具体方向" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="762" y="966.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="757" y="966.5" width="139" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-3" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;更新路径与策略组合&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="770" y="940" width="128" height="22" as="geometry" />
+          <mxGeometry x="765" y="940" width="128" height="22" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-7" value="生态环境修复的优先序" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="762" y="991.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="757" y="991.5" width="139" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-8" value="社会包容性政策的制定" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="762" y="1016.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="757" y="1016.5" width="139" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-9" value="空间功能重组的方案" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="762" y="1041.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="757" y="1041.5" width="139" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LbEWxDQuSPon8GTAGZHK-10" value="······" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="762" y="1066.5" width="139" height="21" as="geometry" />
+          <mxGeometry x="757" y="1066.5" width="139" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
