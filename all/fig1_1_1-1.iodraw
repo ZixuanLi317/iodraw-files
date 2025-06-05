@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="e8mtP8IQ6Zo9rbfe9ZtX" name="第 1 页">
-    <mxGraphModel dx="1069" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="748" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,9 @@
         </mxCell>
         <mxCell id="9rbnCJUj0f540ZzCsuID-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="530" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9rbnCJUj0f540ZzCsuID-15" value="&lt;span style=&quot;background-color: initial;&quot;&gt;核心地域&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;特色表现&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
