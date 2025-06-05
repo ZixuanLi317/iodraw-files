@@ -160,6 +160,9 @@
             <mxPoint x="290" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9rbnCJUj0f540ZzCsuID-10" value="可持续发展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="710" width="115" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
