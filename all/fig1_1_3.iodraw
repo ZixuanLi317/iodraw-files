@@ -1,61 +1,65 @@
-<mxGraphModel dx="1800" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1100" math="0" shadow="0">
-  <root>
-    <mxCell id="0" />
-    <mxCell id="1" parent="0" />
-    <mxCell id="module3_main_title" value="模块三：多元理论引导下的多维目标建构与权衡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-      <mxGeometry x="500" y="20" width="600" height="40" as="geometry" />
-    </mxCell>
-    <mxCell id="input_theories_block" value="&lt;b&gt;输入1: 核心理论及其贡献维度&lt;/b&gt;&lt;br&gt;（发挥关键引导作用）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=top;spacingTop=5;fontSize=13;shadow=1;" vertex="1" parent="1">
-      <mxGeometry x="100" y="100" width="450" height="300" as="geometry" />
-    </mxCell>
-    <mxCell id="theory1" value="&lt;b&gt;可持续发展&lt;/b&gt; &amp;rarr; 维度: 目标 (可持续性)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" vertex="1" parent="input_theories_block">
-      <mxGeometry y="50" width="450" height="30" as="geometry" />
-    </mxCell>
-    <mxCell id="theory2" value="&lt;b&gt;韧性&lt;/b&gt; &amp;rarr; 维度: 能力 (韧性)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" vertex="1" parent="input_theories_block">
-      <mxGeometry y="90" width="450" height="30" as="geometry" />
-    </mxCell>
-    <mxCell id="theory3" value="&lt;b&gt;演化经济地理与路径创造&lt;/b&gt; &amp;rarr; 维度: 路径 (路径创造)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" vertex="1" parent="input_theories_block">
-      <mxGeometry y="130" width="450" height="30" as="geometry" />
-    </mxCell>
-    <mxCell id="theory4" value="&lt;b&gt;公正转型&lt;/b&gt; &amp;rarr; 维度: 公平 (公正转型)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" vertex="1" parent="input_theories_block">
-      <mxGeometry y="170" width="450" height="30" as="geometry" />
-    </mxCell>
-    <mxCell id="theory5" value="&lt;b&gt;空间生产与重构&lt;/b&gt; &amp;rarr; 维度: 空间 (价值再造)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" vertex="1" parent="input_theories_block">
-      <mxGeometry y="210" width="450" height="30" as="geometry" />
-    </mxCell>
-    <mxCell id="input_constraints_block" value="&lt;b&gt;输入2: 地域特色约束&lt;/b&gt;&lt;br&gt;（来自模块一、二的分析结果）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontSize=13;shadow=1;" vertex="1" parent="1">
-      <mxGeometry x="100" y="450" width="450" height="80" as="geometry" />
-    </mxCell>
-    <mxCell id="process_vision_setting" value="&lt;b&gt;过程1：设定理想愿景和价值取向&lt;/b&gt;&lt;br&gt;（由核心理论指导）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontSize=13;shadow=1;" vertex="1" parent="1">
-      <mxGeometry x="650" y="200" width="300" height="100" as="geometry" />
-    </mxCell>
-    <mxCell id="arrow_theories_to_vision" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" edge="1" parent="1" source="input_theories_block" target="process_vision_setting">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-    <mxCell id="main_process_tradeoff" value="&lt;b&gt;核心过程：多元目标的科学权衡与整合&lt;/b&gt;&lt;br&gt;（在地域特色约束下进行）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontSize=14;shadow=1;" vertex="1" parent="1">
-      <mxGeometry x="625" y="420" width="350" height="140" as="geometry" />
-    </mxCell>
-    <mxCell id="arrow_vision_to_tradeoff" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" edge="1" parent="1" source="process_vision_setting" target="main_process_tradeoff">
-      <mxGeometry relative="1" as="geometry">
-        <Array as="points">
-          <mxPoint x="800" y="360" />
-          <mxPoint x="800" y="420" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="arrow_constraints_to_tradeoff" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" edge="1" parent="1" source="input_constraints_block" target="main_process_tradeoff">
-      <mxGeometry relative="1" as="geometry">
-         <Array as="points">
-          <mxPoint x="580" y="490" />
-          <mxPoint x="625" y="490" />
-        </Array>
-      </mxGeometry>
-    </mxCell>
-    <mxCell id="output_goals" value="&lt;b&gt;产出：建构的多维更新目标&lt;/b&gt;&lt;br&gt;（已权衡与整合）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontSize=14;shadow=1;" vertex="1" parent="1">
-      <mxGeometry x="1100" y="440" width="300" height="100" as="geometry" />
-    </mxCell>
-    <mxCell id="arrow_tradeoff_to_output" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" edge="1" parent="1" source="main_process_tradeoff" target="output_goals">
-      <mxGeometry relative="1" as="geometry" />
-    </mxCell>
-  </root>
-</mxGraphModel>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="lXMXi4RvJ0ln3GGO1P49" name="第 1 页">
+    <mxGraphModel dx="880" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="module3_main_title" value="模块三：多元理论引导下的多维目标建构与权衡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="500" y="20" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="input_theories_block" value="&lt;b&gt;输入1: 核心理论及其贡献维度&lt;/b&gt;&lt;br&gt;（发挥关键引导作用）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=top;spacingTop=5;fontSize=13;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="100" width="450" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="theory1" value="&lt;b&gt;可持续发展&lt;/b&gt; &amp;rarr; 维度: 目标 (可持续性)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" parent="input_theories_block" vertex="1">
+          <mxGeometry y="50" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="theory2" value="&lt;b&gt;韧性&lt;/b&gt; &amp;rarr; 维度: 能力 (韧性)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" parent="input_theories_block" vertex="1">
+          <mxGeometry y="90" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="theory3" value="&lt;b&gt;演化经济地理与路径创造&lt;/b&gt; &amp;rarr; 维度: 路径 (路径创造)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" parent="input_theories_block" vertex="1">
+          <mxGeometry y="130" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="theory4" value="&lt;b&gt;公正转型&lt;/b&gt; &amp;rarr; 维度: 公平 (公正转型)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" parent="input_theories_block" vertex="1">
+          <mxGeometry y="170" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="theory5" value="&lt;b&gt;空间生产与重构&lt;/b&gt; &amp;rarr; 维度: 空间 (价值再造)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;spacingLeft=10;" parent="input_theories_block" vertex="1">
+          <mxGeometry y="210" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="input_constraints_block" value="&lt;b&gt;输入2: 地域特色约束&lt;/b&gt;&lt;br&gt;（来自模块一、二的分析结果）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontSize=13;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="450" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="process_vision_setting" value="&lt;b&gt;过程1：设定理想愿景和价值取向&lt;/b&gt;&lt;br&gt;（由核心理论指导）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontSize=13;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="200" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_theories_to_vision" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" parent="1" source="input_theories_block" target="process_vision_setting" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="main_process_tradeoff" value="&lt;b&gt;核心过程：多元目标的科学权衡与整合&lt;/b&gt;&lt;br&gt;（在地域特色约束下进行）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;fontSize=14;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="420" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_vision_to_tradeoff" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" parent="1" source="process_vision_setting" target="main_process_tradeoff" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="360" />
+              <mxPoint x="800" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_constraints_to_tradeoff" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" parent="1" source="input_constraints_block" target="main_process_tradeoff" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="490" />
+              <mxPoint x="625" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="output_goals" value="&lt;b&gt;产出：建构的多维更新目标&lt;/b&gt;&lt;br&gt;（已权衡与整合）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontSize=14;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="440" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_tradeoff_to_output" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1.5;" parent="1" source="main_process_tradeoff" target="output_goals" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
