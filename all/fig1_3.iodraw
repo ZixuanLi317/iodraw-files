@@ -1,87 +1,82 @@
-<mxGraphModel dx="1430" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff">
-  <root>
-    <mxCell id="0"/>
-    <mxCell id="1" parent="0"/>
-
-    <mxCell id="block_theory_support" value="理论支撑：地域特色中心论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;spacingTop=5;" vertex="1" parent="1">
-      <mxGeometry x="50" y="50" width="220" height="80" as="geometry"/>
-    </mxCell>
-
-    <mxCell id="module1" value="模块一：&lt;br&gt;地域特色综合诊断与&lt;br&gt;类型识别系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-      <mxGeometry x="50" y="200" width="220" height="100" as="geometry"/>
-    </mxCell>
-
-    <mxCell id="module2" value="模块二：&lt;br&gt;更新的制约与驱动机制&lt;br&gt;分析引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-      <mxGeometry x="350" y="150" width="220" height="100" as="geometry"/>
-    </mxCell>
-
-    <mxCell id="module3" value="模块三：&lt;br&gt;多元理论引导下的&lt;br&gt;多维目标建构与权衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-      <mxGeometry x="350" y="300" width="220" height="100" as="geometry"/>
-    </mxCell>
-
-    <mxCell id="module4" value="模块四：&lt;br&gt;地域适应性的更新路径&lt;br&gt;选择与策略设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-      <mxGeometry x="650" y="200" width="220" height="100" as="geometry"/>
-    </mxCell>
-
-    <mxCell id="module5" value="模块五：&lt;br&gt;更新效应的动态评估与&lt;br&gt;反馈调适机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-      <mxGeometry x="350" y="480" width="220" height="100" as="geometry"/>
-    </mxCell>
-
-    <mxCell id="central_theme" value="地域特色导向" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-      <mxGeometry x="375" y="30" width="170" height="70" as="geometry"/>
-    </mxCell>
-
-    <mxCell id="arrow1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;" edge="1" parent="1" source="module1" target="module2">
-      <mxGeometry relative="1" as="geometry"/>
-    </mxCell>
-    <mxCell id="arrow2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;" edge="1" parent="1" source="module2" target="module3">
-      <mxGeometry relative="1" as="geometry"/>
-    </mxCell>
-    <mxCell id="arrow3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;" edge="1" parent="1" source="module3" target="module4">
-      <mxGeometry relative="1" as="geometry"/>
-    </mxCell>
-    <mxCell id="arrow4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;" edge="1" parent="1" source="module4" target="module5">
-      <mxGeometry relative="1" as="geometry">
-        <mxPoint x="760" y="350" as="targetPoint"/>
-         <Array as="points">
-            <mxPoint x="760" y="400"/> <mxPoint x="460" y="450"/>
-        </Array>
-      </mxGeometry>
-    </mxCell>
-     <mxCell id="arrow5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="module5" target="module1">
-            <mxGeometry relative="1" as="geometry">
-                <mxPoint x="250" y="400" as="sourcePoint"/>
-                 <Array as="points">
-                    <mxPoint x="160" y="530"/> </Array>
-            </mxGeometry>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="nFOreLPnj1hPi_k8kWWq" name="第 1 页">
+    <mxGraphModel dx="1657" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="block_theory_support" value="理论支撑：地域特色中心论" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontSize=14;fontStyle=1;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry x="50" y="50" width="220" height="80" as="geometry" />
         </mxCell>
-
-    <mxCell id="arrow_support_to_module2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=1;endFill=1;dashed=1;" edge="1" parent="1" source="block_theory_support" target="module2">
-      <mxGeometry relative="1" as="geometry"/>
-    </mxCell>
-     <mxCell id="arrow_support_to_module3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=1;endFill=1;dashed=1;" edge="1" parent="1" source="block_theory_support" target="module3">
-      <mxGeometry relative="1" as="geometry">
-       <Array as="points">
-            <mxPoint x="160" y="350"/>
-        </Array>
-      </mxGeometry>
-    </mxCell>
-
-    <mxCell id="influence_arrow1" value="影响与贯穿" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" edge="1" parent="1" source="central_theme" target="module1">
-      <mxGeometry relative="1" as="geometry"/>
-    </mxCell>
-    <mxCell id="influence_arrow2" value="" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" edge="1" parent="1" source="central_theme" target="module2">
-      <mxGeometry relative="1" as="geometry"/>
-    </mxCell>
-     <mxCell id="influence_arrow3" value="" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" edge="1" parent="1" source="central_theme" target="module3">
-      <mxGeometry relative="1" as="geometry"/>
-    </mxCell>
-     <mxCell id="influence_arrow4" value="" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" edge="1" parent="1" source="central_theme" target="module4">
-      <mxGeometry relative="1" as="geometry"/>
-    </mxCell>
-      <mxCell id="influence_arrow5" value="" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" edge="1" parent="1" source="central_theme" target="module5">
-      <mxGeometry relative="1" as="geometry"/>
-    </mxCell>
-
-  </root>
-</mxGraphModel>
+        <mxCell id="module1" value="模块一：&lt;br&gt;地域特色综合诊断与&lt;br&gt;类型识别系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry x="50" y="200" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="module2" value="模块二：&lt;br&gt;更新的制约与驱动机制&lt;br&gt;分析引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry x="350" y="150" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="module3" value="模块三：&lt;br&gt;多元理论引导下的&lt;br&gt;多维目标建构与权衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry x="350" y="300" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="module4" value="模块四：&lt;br&gt;地域适应性的更新路径&lt;br&gt;选择与策略设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry x="650" y="200" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="module5" value="模块五：&lt;br&gt;更新效应的动态评估与&lt;br&gt;反馈调适机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;fontSize=12;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry x="350" y="480" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="central_theme" value="地域特色导向" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="375" y="30" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;" parent="1" source="module1" target="module2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;" parent="1" source="module2" target="module3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;" parent="1" source="module3" target="module4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;" parent="1" source="module4" target="module5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="400" />
+              <mxPoint x="460" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=2;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="module5" target="module1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow_support_to_module2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=1;endFill=1;dashed=1;" parent="1" source="block_theory_support" target="module2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow_support_to_module3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;strokeWidth=1;endFill=1;dashed=1;" parent="1" source="block_theory_support" target="module3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="influence_arrow1" value="影响与贯穿" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" parent="1" source="central_theme" target="module1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="influence_arrow2" value="" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" parent="1" source="central_theme" target="module2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="influence_arrow3" value="" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" parent="1" source="central_theme" target="module3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="influence_arrow4" value="" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" parent="1" source="central_theme" target="module4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="influence_arrow5" value="" style="edgeStyle=none;html=1;endArrow=classic;strokeWidth=1;dashed=1;opacity=70;" parent="1" source="central_theme" target="module5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
