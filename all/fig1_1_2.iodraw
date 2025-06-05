@@ -130,13 +130,13 @@
           <mxGeometry x="219" y="810" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-5" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;生态负债&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="219" y="860" width="90" height="30" as="geometry" />
+          <mxGeometry x="219" y="840" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-6" value="&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap;&quot;&gt;空间锁定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="219" y="900" width="90" height="30" as="geometry" />
+          <mxGeometry x="219" y="870" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vZepCBg7MQhdkac6WDBC-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;······&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="219" y="940" width="90" height="30" as="geometry" />
+          <mxGeometry x="219" y="900" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
