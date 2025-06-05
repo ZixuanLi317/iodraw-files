@@ -135,7 +135,7 @@
         <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-23" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;调整优化&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="761.25" y="910" width="128" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-24" value="评估更新策略实施效果" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="gMTBb-YZ2NIh9mWJp2vJ-24" value="优化更新路径与策略" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="763.0600000000001" y="935" width="124.38" height="21" as="geometry" />
         </mxCell>
       </root>
