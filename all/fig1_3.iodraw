@@ -474,55 +474,55 @@
           <mxGeometry x="1390.19" y="1628.5" width="50" height="203" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-143" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="961" y="1145" width="171.25" height="270" as="geometry" />
+          <mxGeometry x="935" y="1145" width="171.25" height="270" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-144" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;更新效应的动态评估与反馈调适机制&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1171" width="50" height="203" as="geometry" />
+          <mxGeometry x="904" y="1171" width="50" height="203" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-145" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="986" y="1156" width="140.25" height="119" as="geometry" />
+          <mxGeometry x="960" y="1156" width="140.25" height="119" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-146" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;建立多维度评估体系&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="993.25" y="1149" width="128" height="22" as="geometry" />
+          <mxGeometry x="967.25" y="1149" width="128" height="22" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-147" value="经济产业维度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="993.25" y="1177" width="16.75" height="90" as="geometry" />
+          <mxGeometry x="967.25" y="1177" width="16.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-148" value="社会文化维度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1177" width="16.75" height="90" as="geometry" />
+          <mxGeometry x="994" y="1177" width="16.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-149" value="生态环境维度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1048.88" y="1177" width="16.75" height="90" as="geometry" />
+          <mxGeometry x="1022.8800000000001" y="1177" width="16.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-150" value="空间形态维度" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1076" y="1177" width="16.75" height="90" as="geometry" />
+          <mxGeometry x="1050" y="1177" width="16.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-151" value="···&lt;div&gt;···&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="1104.5" y="1177" width="16.75" height="90" as="geometry" />
+          <mxGeometry x="1078.5" y="1177" width="16.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-152" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="986.13" y="1296" width="140.25" height="44" as="geometry" />
+          <mxGeometry x="960.13" y="1296" width="140.25" height="44" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-153" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;动态评估&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="993.38" y="1289" width="128" height="22" as="geometry" />
+          <mxGeometry x="967.38" y="1289" width="128" height="22" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-154" value="评估更新策略实施效果" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="995.19" y="1314" width="124.38" height="21" as="geometry" />
+          <mxGeometry x="969.19" y="1314" width="124.38" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-155" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="986" y="1362" width="140.25" height="44" as="geometry" />
+          <mxGeometry x="960" y="1362" width="140.25" height="44" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-156" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;调整优化&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="993.25" y="1355" width="128" height="22" as="geometry" />
+          <mxGeometry x="967.25" y="1355" width="128" height="22" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-157" value="优化更新路径与策略" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="995.0600000000001" y="1380" width="124.38" height="21" as="geometry" />
+          <mxGeometry x="969.0600000000001" y="1380" width="124.38" height="21" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-158" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.30019493177386675;arrowSize=0.48765432098764444;" vertex="1" parent="1">
-          <mxGeometry x="1047.5" y="1273" width="19.5" height="16" as="geometry" />
+          <mxGeometry x="1021.5" y="1273" width="19.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="djFd3ABPchH4VWwgqrRo-159" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.30019493177386675;arrowSize=0.48765432098764444;" vertex="1" parent="1">
-          <mxGeometry x="1048.88" y="1339" width="19.5" height="16" as="geometry" />
+          <mxGeometry x="1022.8800000000001" y="1339" width="19.5" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
