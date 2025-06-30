@@ -347,7 +347,7 @@
         <mxCell id="PmSvw8HAVPupGCUkUPbk-57" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Ecosystem&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Services&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Calculation&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="920" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PmSvw8HAVPupGCUkUPbk-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PmSvw8HAVPupGCUkUPbk-59" target="PmSvw8HAVPupGCUkUPbk-62">
+        <mxCell id="PmSvw8HAVPupGCUkUPbk-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PmSvw8HAVPupGCUkUPbk-59" target="PmSvw8HAVPupGCUkUPbk-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-59" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;SETS&amp;nbsp; Attributes&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Database&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10.157894736842195;" vertex="1" parent="1">
