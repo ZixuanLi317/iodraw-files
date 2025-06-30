@@ -373,7 +373,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-66" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Causal&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Relationship&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="928" width="170" height="52" as="geometry" />
+          <mxGeometry x="590" y="920" width="170" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="PmSvw8HAVPupGCUkUPbk-67" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;" vertex="1" parent="1">
+          <mxGeometry x="430" y="700" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
