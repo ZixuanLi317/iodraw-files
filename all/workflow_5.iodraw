@@ -148,11 +148,17 @@
             <mxPoint x="1090" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PmSvw8HAVPupGCUkUPbk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PmSvw8HAVPupGCUkUPbk-4" target="PmSvw8HAVPupGCUkUPbk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;System&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Thinking&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="245" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;UGS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Research&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="245" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PmSvw8HAVPupGCUkUPbk-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
