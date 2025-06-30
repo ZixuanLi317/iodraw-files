@@ -40,7 +40,7 @@
         <mxCell id="final-en-text-1" value="Establish the theoretical and analytical foundation for the project, guided by SETS theory and Complex Adaptive Systems (CAS) thinking. [cite: 25]" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="1340" y="195" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="final-en-meth-1" value="• Conceptual Modeling&lt;br&gt;• Assessment System Design&lt;br&gt;• Literature Review" style="text;html=1;strokeColor=#fff2cc;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="final-en-meth-1" value="• Conceptual Modeling&lt;br&gt;• Assessment System Design&lt;br&gt;• Literature Review" style="text;html=1;strokeColor=#fff2cc;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="1080" y="185" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="final-en-arrow-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="final-en-plan-1" target="final-en-meth-1" edge="1">
