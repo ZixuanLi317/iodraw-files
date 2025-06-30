@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="zN6L4710ZQHg677Pz8Uu" name="第 1 页">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="490" y="290" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CgI4351xQ7sBq4lG9F2d-12" value="&lt;b&gt;WP4: 情景模拟与优化&lt;/b&gt;&lt;br&gt;(Scenario Simulation &amp;amp; Optimization)&lt;br&gt;&lt;br&gt;&lt;i&gt;方法：&lt;/i&gt;&lt;br&gt;• 智能体建模 (ABM) /&lt;br&gt;元胞自动机 (CA)&lt;br&gt;• 多目标评估" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="800" y="270" width="180" height="130" as="geometry" />
+          <mxGeometry x="820" y="283.5" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CgI4351xQ7sBq4lG9F2d-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryY=0;" parent="1" target="CgI4351xQ7sBq4lG9F2d-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -152,6 +152,9 @@
         </mxCell>
         <mxCell id="CgI4351xQ7sBq4lG9F2d-35" value="&lt;b&gt;最终目标：&lt;/b&gt;&lt;br&gt;可持续、有韧性和公正的UGS&lt;br&gt;(Sustainable, Resilient, and Just UGS)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="840" y="677" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-dPR1vawez6G22IdHmBM-1" value="&lt;b&gt;WP2: 空间诊断&lt;/b&gt;&lt;br&gt;(Spatial Diagnosis)&lt;br&gt;&lt;br&gt;&lt;i&gt;方法：&lt;/i&gt;&lt;br&gt;• 渗流分析&lt;br&gt;• GIS空间分析&lt;br&gt;• 景观格局指数" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
