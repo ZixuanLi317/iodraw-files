@@ -1,223 +1,105 @@
-<mxfile host="app.diagrams.net"
-        modified="2025-06-30T00:00:00.000Z"
-        agent="5.0 (Windows)"
-        etag="UGS_PhD_Workflow"
-        version="20.6.2"
-        type="device">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="diagram1" name="UGS Workflow">
-    <mxGraphModel dx="1600" dy="900"
-                  grid="1" gridSize="10" guides="1"
-                  tooltips="1" connect="1" arrows="1"
-                  fold="1" page="1" pageScale="1"
-                  pageWidth="1600" pageHeight="900"
-                  math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
-
-        <!-- ================= LEFT-HAND QUESTION LADDER ================= -->
-        <mxCell id="L1" value="Research Roadmap"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cfe2f3;strokeColor=#6c8ebf;"
-                vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="140" height="40" as="geometry"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L1" value="Research Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cfe2f3;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="20" y="80" width="140" height="40" as="geometry" />
         </mxCell>
-
-        <mxCell id="L2" value="Why integrate SETS?"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9ead3;strokeColor=#6aa84f;"
-                vertex="1" parent="1">
-          <mxGeometry x="20" y="180" width="140" height="40" as="geometry"/>
+        <mxCell id="L2" value="Why integrate SETS?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9ead3;strokeColor=#6aa84f;" parent="1" vertex="1">
+          <mxGeometry x="20" y="180" width="140" height="40" as="geometry" />
         </mxCell>
-
-        <mxCell id="L3" value="What patterns?"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;"
-                vertex="1" parent="1">
-          <mxGeometry x="20" y="300" width="140" height="40" as="geometry"/>
+        <mxCell id="L3" value="What patterns?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="20" y="300" width="140" height="40" as="geometry" />
         </mxCell>
-
-        <mxCell id="L4" value="What drivers?"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4cccc;strokeColor=#cc0000;"
-                vertex="1" parent="1">
-          <mxGeometry x="20" y="420" width="140" height="40" as="geometry"/>
+        <mxCell id="L4" value="What drivers?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4cccc;strokeColor=#cc0000;" parent="1" vertex="1">
+          <mxGeometry x="20" y="420" width="140" height="40" as="geometry" />
         </mxCell>
-
-        <mxCell id="L5" value="What interventions?"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ead1dc;strokeColor=#a64d79;"
-                vertex="1" parent="1">
-          <mxGeometry x="20" y="540" width="140" height="40" as="geometry"/>
+        <mxCell id="L5" value="What interventions?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ead1dc;strokeColor=#a64d79;" parent="1" vertex="1">
+          <mxGeometry x="20" y="540" width="140" height="40" as="geometry" />
         </mxCell>
-
-        <!-- ================= TOP TITLE BOX ================= -->
-        <mxCell id="T0" value="Research Framework"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;"
-                vertex="1" parent="1">
-          <mxGeometry x="350" y="20" width="220" height="40" as="geometry"/>
+        <mxCell id="T0" value="Research Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="20" width="220" height="40" as="geometry" />
         </mxCell>
-
-        <!-- ================= CENTRAL WORK PACKAGES ================= -->
-        <!-- WP1 -->
-        <mxCell id="WP1" value="WP 1&#10;Theoretical Framework Construction"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#6aa84f;"
-                vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="280" height="60" as="geometry"/>
+        <mxCell id="WP1" value="WP 1&#xa;Theoretical Framework Construction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#6aa84f;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="280" height="60" as="geometry" />
         </mxCell>
-
-        <!-- WP2 -->
-        <mxCell id="WP2" value="WP 2&#10;Spatial Diagnosis of UGS Patterns"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;"
-                vertex="1" parent="1">
-          <mxGeometry x="280" y="180" width="280" height="60" as="geometry"/>
+        <mxCell id="WP2" value="WP 2&#xa;Spatial Diagnosis of UGS Patterns" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="280" y="180" width="280" height="60" as="geometry" />
         </mxCell>
-
-        <!-- WP3 -->
-        <mxCell id="WP3" value="WP 3&#10;Mechanistic Investigation (SETS Drivers)"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;"
-                vertex="1" parent="1">
-          <mxGeometry x="280" y="300" width="280" height="60" as="geometry"/>
+        <mxCell id="WP3" value="WP 3&#xa;Mechanistic Investigation (SETS Drivers)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="280" y="300" width="280" height="60" as="geometry" />
         </mxCell>
-
-        <!-- WP4 -->
-        <mxCell id="WP4" value="WP 4&#10;Scenario Simulation &amp; Optimisation"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#e69138;"
-                vertex="1" parent="1">
-          <mxGeometry x="280" y="420" width="280" height="60" as="geometry"/>
+        <mxCell id="WP4" value="WP 4&#xa;Scenario Simulation &amp; Optimisation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#e69138;" parent="1" vertex="1">
+          <mxGeometry x="280" y="420" width="280" height="60" as="geometry" />
         </mxCell>
-
-        <!-- WP5 -->
-        <mxCell id="WP5" value="WP 5&#10;Policy Toolkit &amp; Recommendations"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ead1dc;strokeColor=#a64d79;"
-                vertex="1" parent="1">
-          <mxGeometry x="280" y="540" width="280" height="60" as="geometry"/>
+        <mxCell id="WP5" value="WP 5&#xa;Policy Toolkit &amp; Recommendations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ead1dc;strokeColor=#a64d79;" parent="1" vertex="1">
+          <mxGeometry x="280" y="540" width="280" height="60" as="geometry" />
         </mxCell>
-
-        <!-- ================= RIGHT-HAND METHODS BLOCKS ================= -->
-        <mxCell id="M1" value="Methods&#10;• Literature synthesis&#10;• Delphi &amp; expert panels"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6aa84f;"
-                vertex="1" parent="1">
-          <mxGeometry x="620" y="80" width="220" height="60" as="geometry"/>
+        <mxCell id="M1" value="Methods&#xa;• Literature synthesis&#xa;• Delphi &amp; expert panels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6aa84f;" parent="1" vertex="1">
+          <mxGeometry x="620" y="80" width="220" height="60" as="geometry" />
         </mxCell>
-
-        <mxCell id="M2" value="Methods&#10;• GIS / Percolation&#10;• Robustness metrics"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;"
-                vertex="1" parent="1">
-          <mxGeometry x="620" y="180" width="220" height="60" as="geometry"/>
+        <mxCell id="M2" value="Methods&#xa;• GIS / Percolation&#xa;• Robustness metrics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="620" y="180" width="220" height="60" as="geometry" />
         </mxCell>
-
-        <mxCell id="M3" value="Methods&#10;• GNN + SHAP&#10;• Causal inference"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;"
-                vertex="1" parent="1">
-          <mxGeometry x="620" y="300" width="220" height="60" as="geometry"/>
+        <mxCell id="M3" value="Methods&#xa;• GNN + SHAP&#xa;• Causal inference" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="620" y="300" width="220" height="60" as="geometry" />
         </mxCell>
-
-        <mxCell id="M4" value="Methods&#10;• ABM / CA&#10;• Multi-objective optimisation"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e69138;"
-                vertex="1" parent="1">
-          <mxGeometry x="620" y="420" width="220" height="60" as="geometry"/>
+        <mxCell id="M4" value="Methods&#xa;• ABM / CA&#xa;• Multi-objective optimisation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#e69138;" parent="1" vertex="1">
+          <mxGeometry x="620" y="420" width="220" height="60" as="geometry" />
         </mxCell>
-
-        <mxCell id="M5" value="Methods&#10;• Scenario dashboards&#10;• Stakeholder workshops"
-                style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a64d79;"
-                vertex="1" parent="1">
-          <mxGeometry x="620" y="540" width="220" height="60" as="geometry"/>
+        <mxCell id="M5" value="Methods&#xa;• Scenario dashboards&#xa;• Stakeholder workshops" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a64d79;" parent="1" vertex="1">
+          <mxGeometry x="620" y="540" width="220" height="60" as="geometry" />
         </mxCell>
-
-        <!-- ================= CONNECTORS ================= -->
-        <!-- Main vertical flow -->
-        <mxCell id="E1" edge="1" source="WP1" target="WP2"
-                style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#000000;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="E1" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="WP1" target="WP2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="E2" edge="1" source="WP2" target="WP3"
-                style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#000000;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="E2" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="WP2" target="WP3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="E3" edge="1" source="WP3" target="WP4"
-                style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#000000;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="E3" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="WP3" target="WP4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="E4" edge="1" source="WP4" target="WP5"
-                style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#000000;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="E4" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#000000;" parent="1" source="WP4" target="WP5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <!-- Feedback loop (dashed) -->
-        <mxCell id="E5" edge="1" source="WP4" target="WP1"
-                style="endArrow=open;dashed=1;html=1;strokeColor=#888888;"
-                parent="1">
+        <mxCell id="E5" style="endArrow=open;dashed=1;html=1;strokeColor=#888888;" parent="1" source="WP4" target="WP1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="500" as="sourcePoint"/>
-            <mxPoint x="420" y="60" as="targetPoint"/>
+            <mxPoint x="420" y="500" as="sourcePoint" />
+            <mxPoint x="420" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-
-        <!-- Method links (subtle arrows) -->
-        <mxCell id="E6" edge="1" source="M1" target="WP1"
-                style="endArrow=classic;html=1;strokeColor=#6aa84f;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="E6" style="endArrow=classic;html=1;strokeColor=#6aa84f;" parent="1" source="M1" target="WP1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="E7" edge="1" source="M2" target="WP2"
-                style="endArrow=classic;html=1;strokeColor=#6c8ebf;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="E7" style="endArrow=classic;html=1;strokeColor=#6c8ebf;" parent="1" source="M2" target="WP2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="E8" edge="1" source="M3" target="WP3"
-                style="endArrow=classic;html=1;strokeColor=#d6b656;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="E8" style="endArrow=classic;html=1;strokeColor=#d6b656;" parent="1" source="M3" target="WP3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="E9" edge="1" source="M4" target="WP4"
-                style="endArrow=classic;html=1;strokeColor=#e69138;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="E9" style="endArrow=classic;html=1;strokeColor=#e69138;" parent="1" source="M4" target="WP4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="E10" edge="1" source="M5" target="WP5"
-                style="endArrow=classic;html=1;strokeColor=#a64d79;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="E10" style="endArrow=classic;html=1;strokeColor=#a64d79;" parent="1" source="M5" target="WP5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <!-- Left question ladder arrows -->
-        <mxCell id="Q1" edge="1" source="L1" target="WP1"
-                style="endArrow=open;html=1;strokeColor=#999999;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="Q1" style="endArrow=open;html=1;strokeColor=#999999;" parent="1" source="L1" target="WP1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="Q2" edge="1" source="L2" target="WP1"
-                style="endArrow=open;html=1;strokeColor=#999999;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="Q2" style="endArrow=open;html=1;strokeColor=#999999;" parent="1" source="L2" target="WP1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="Q3" edge="1" source="L3" target="WP2"
-                style="endArrow=open;html=1;strokeColor=#999999;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="Q3" style="endArrow=open;html=1;strokeColor=#999999;" parent="1" source="L3" target="WP2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="Q4" edge="1" source="L4" target="WP3"
-                style="endArrow=open;html=1;strokeColor=#999999;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="Q4" style="endArrow=open;html=1;strokeColor=#999999;" parent="1" source="L4" target="WP3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
-        <mxCell id="Q5" edge="1" source="L5" target="WP4"
-                style="endArrow=open;html=1;strokeColor=#999999;"
-                parent="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="Q5" style="endArrow=open;html=1;strokeColor=#999999;" parent="1" source="L5" target="WP4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
