@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CgI4351xQ7sBq4lG9F2d-1" value="PhD Research Workflow)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="CgI4351xQ7sBq4lG9F2d-1" value="PhD Research Workflow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="20" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CgI4351xQ7sBq4lG9F2d-2" value="WP1: 框架构建 (Framework Construction)&lt;br&gt;&lt;br&gt;&lt;b&gt;核心理论基础&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -38,6 +38,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="210" as="sourcePoint" />
             <mxPoint x="600" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="70" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CgI4351xQ7sBq4lG9F2d-10" value="&lt;b&gt;WP2: 空间诊断&lt;/b&gt;&lt;br&gt;(Spatial Diagnosis)&lt;br&gt;&lt;br&gt;&lt;i&gt;方法：&lt;/i&gt;&lt;br&gt;• 渗流分析&lt;br&gt;• GIS空间分析&lt;br&gt;• 景观格局指数" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
