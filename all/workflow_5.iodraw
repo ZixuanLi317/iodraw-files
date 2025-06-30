@@ -124,8 +124,8 @@
         <mxCell id="final-en-text-4" value="Synthesize all prior findings to build a &quot;virtual laboratory&quot; to test the potential impacts of various planning and policy scenarios. [cite: 40, 41]" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="1210" y="1270" width="680" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="final-en-meth-4" value="• Agent-Based Modeling (ABM)&lt;br&gt;• Cellular Automata (CA)&lt;br&gt;• Scenario Design&lt;br&gt;• Multi-objective Evaluation [cite: 23]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="1060" width="200" height="80" as="geometry" />
+        <mxCell id="final-en-meth-4" value="• Agent-Based Modeling (ABM)&lt;br&gt;• Cellular Automata (CA)&lt;br&gt;• Scenario Design&lt;br&gt;• Multi-objective Evaluation [cite: 23]" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="913" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="final-en-arrow-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="final-en-plan-4" target="final-en-meth-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
