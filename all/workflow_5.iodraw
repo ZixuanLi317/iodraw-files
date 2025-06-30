@@ -309,7 +309,7 @@
         <mxCell id="PmSvw8HAVPupGCUkUPbk-46" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;UGS&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Spatial Diagnosis&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="525" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PmSvw8HAVPupGCUkUPbk-47" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Scale&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PmSvw8HAVPupGCUkUPbk-47" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Scale&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="567" width="130" height="13" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-48" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;hierarchy&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
