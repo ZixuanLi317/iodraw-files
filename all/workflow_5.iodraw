@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="pernyfPj-Rm4lsqmPgmR" name="第 1 页">
-    <mxGraphModel dx="1247" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="346" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,10 +415,10 @@
           <mxGeometry x="607.5" y="1164" width="125" height="32" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-95" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;System Assessment&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="1213" width="125" height="32" as="geometry" />
+          <mxGeometry x="607.5" y="1213" width="125" height="32" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-96" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;······&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="1288" width="125" height="21" as="geometry" />
+          <mxGeometry x="607.5" y="1260" width="125" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
