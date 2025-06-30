@@ -272,7 +272,12 @@
           <mxGeometry x="625" y="410" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PmSvw8HAVPupGCUkUPbk-36" target="PmSvw8HAVPupGCUkUPbk-38">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="555" />
+              <mxPoint x="510" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;UGS&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Geo-database&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.793103448276042;" vertex="1" parent="1">
           <mxGeometry x="385" y="520" width="110" height="70" as="geometry" />
@@ -284,7 +289,7 @@
           <mxGeometry x="385" y="600" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-38" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;UGS&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Identification&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="570" width="100" height="60" as="geometry" />
+          <mxGeometry x="540" y="570" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
