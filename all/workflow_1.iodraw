@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CgI4351xQ7sBq4lG9F2d-8" value="产出：&lt;br&gt;SETS-UGS&lt;br&gt;分析框架" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="760" y="70" width="200" height="60" as="geometry" />
+          <mxGeometry x="690" y="70" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CgI4351xQ7sBq4lG9F2d-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitY=0;entryX=0.5;entryY=0;entryDx=0;entryY=0;" parent="1" source="CgI4351xQ7sBq4lG9F2d-2" target="CgI4351xQ7sBq4lG9F2d-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CgI4351xQ7sBq4lG9F2d-21" value="输入：&lt;br&gt;地理空间数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="40" y="300" width="120" height="50" as="geometry" />
+          <mxGeometry x="10" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CgI4351xQ7sBq4lG9F2d-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitY=0;entryX=0;entryY=0.5;entryDx=0;entryY=0;" parent="1" source="CgI4351xQ7sBq4lG9F2d-21" target="CgI4351xQ7sBq4lG9F2d-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
