@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="final-en-meth-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;• Percolation Analysis&lt;br&gt;• Spatial Analysis&lt;br&gt;• Landscape Metrics&lt;/font&gt;" style="text;html=1;strokeColor=#10739e;fillColor=#b1ddf0;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="339" width="240" height="100" as="geometry" />
+          <mxGeometry x="1010" y="520" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="final-en-plan-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#d19851;fillColor=#f1f3f4;" parent="1" vertex="1">
           <mxGeometry x="370" y="723" width="600" height="270" as="geometry" />
