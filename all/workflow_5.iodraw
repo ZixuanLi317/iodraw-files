@@ -426,11 +426,11 @@
         <mxCell id="PmSvw8HAVPupGCUkUPbk-98" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1104" width="150" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="PmSvw8HAVPupGCUkUPbk-99" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Simulation&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PmSvw8HAVPupGCUkUPbk-99" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Optimization Suggestions&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1109" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-100" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=12.43;direction=south;notch=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="557.5" y="1210" width="42.5" height="20" as="geometry" />
+          <mxGeometry x="750" y="1200" width="42.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
