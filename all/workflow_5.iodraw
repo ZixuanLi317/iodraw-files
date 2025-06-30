@@ -76,7 +76,7 @@
         <mxCell id="final-en-plan-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="370" y="730" width="600" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="final-en-q3-box" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Objective 3:&lt;/b&gt;&lt;br&gt;How to investigate the complex mechanisms driving UGS dynamics? [cite: 5]&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;align=left;spacingLeft=10;size=0;" parent="1" vertex="1">
+        <mxCell id="final-en-q3-box" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Objective 3:&lt;/b&gt;&lt;br&gt;How to investigate the complex mechanisms driving UGS dynamics? [cite: 5]&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#bac8d3;strokeColor=#23445d;align=left;spacingLeft=10;size=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="830" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="final-en-arrow-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="final-en-q3-box" target="final-en-plan-3" edge="1">
