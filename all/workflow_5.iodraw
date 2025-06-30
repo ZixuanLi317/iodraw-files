@@ -92,7 +92,7 @@
           <mxGeometry x="1110" y="760" width="680" height="50" as="geometry" />
         </mxCell>
         <mxCell id="final-en-meth-3" value="• Graph Neural Networks (GNNs)&lt;br&gt;• Explainable AI (XAI)&lt;br&gt;• Causal Inference Models [cite: 23]" style="text;html=1;strokeColor=#b46504;fillColor=#fad7ac;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="885" width="200" height="70" as="geometry" />
+          <mxGeometry x="1280" y="520" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="final-en-arrow-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="final-en-plan-3" target="final-en-meth-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
