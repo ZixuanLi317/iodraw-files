@@ -158,7 +158,7 @@
           <mxGeometry x="827" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;CAS theory&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="230" width="100" height="30" as="geometry" />
+          <mxGeometry x="550" y="230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SETS theory&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="310" width="100" height="30" as="geometry" />
@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Social demension&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="220" width="140" height="40" as="geometry" />
+          <mxGeometry x="680" y="230" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
