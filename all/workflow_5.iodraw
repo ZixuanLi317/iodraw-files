@@ -372,8 +372,8 @@
             <mxPoint x="630" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PmSvw8HAVPupGCUkUPbk-66" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Driving Mechanisms&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="908" width="170" height="80" as="geometry" />
+        <mxCell id="PmSvw8HAVPupGCUkUPbk-66" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Causal&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Relationship&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="908" width="170" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
