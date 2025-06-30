@@ -306,7 +306,7 @@
         <mxCell id="PmSvw8HAVPupGCUkUPbk-44" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="520" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PmSvw8HAVPupGCUkUPbk-46" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;UGS&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Spatial Diagnosis&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PmSvw8HAVPupGCUkUPbk-46" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;UGS&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Spatial Diagnosis&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="525" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-47" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Scale&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -322,7 +322,7 @@
           <mxGeometry x="820" y="628" width="130" height="15" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-51" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;connectivity&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="638" width="130" height="15" as="geometry" />
+          <mxGeometry x="820" y="650" width="130" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
