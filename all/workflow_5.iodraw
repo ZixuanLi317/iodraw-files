@@ -394,16 +394,7 @@
           <mxGeometry x="397.5" y="1163" width="125" height="15" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-82" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ecological Priority&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="1178" width="125" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="PmSvw8HAVPupGCUkUPbk-83" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;structure&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1215" width="110" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="PmSvw8HAVPupGCUkUPbk-84" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;connectivity&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1234" width="110" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="PmSvw8HAVPupGCUkUPbk-85" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;resilience&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1253" width="110" height="15" as="geometry" />
+          <mxGeometry x="397.5" y="1185" width="125" height="15" as="geometry" />
         </mxCell>
         <mxCell id="PmSvw8HAVPupGCUkUPbk-86" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;······&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="1272" width="110" height="15" as="geometry" />
