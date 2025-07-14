@@ -49,17 +49,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v3n-tD_z1yqA5kK-x0vH-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="v3n-tD_z1yqA5kK-x0vH-1" target="v3n-tD_z1yqA5kK-x0vH-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="580" as="sourcePoint" />
-            <mxPoint x="990" y="530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1168" y="620" />
-              <mxPoint x="640" y="620" />
-              <mxPoint x="640" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v3n-tD_z1yqA5kK-x0vH-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;维度二：能源系统革命与安全保障&lt;/b&gt;&lt;br&gt;(Energy System Revolution and Security Guarantee)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="490" y="520" width="300" height="80" as="geometry" />
         </mxCell>
