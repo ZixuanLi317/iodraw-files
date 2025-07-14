@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="WmNHYP7qD56o0HoyQr0a">
-    <mxGraphModel dx="1265" dy="1118" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="870" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,16 +82,16 @@
         <mxCell id="mwwEUlQ556F2W2hnmUCW-21" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Energy System Revolution and Security Guarantee&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="468" y="1290" width="187" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="mwwEUlQ556F2W2hnmUCW-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;Ecological Restoration and Resource Constraints&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mwwEUlQ556F2W2hnmUCW-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;Ecological Restoration and Resource Constraints&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="468" y="1435" width="187" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="mwwEUlQ556F2W2hnmUCW-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;Social Transition and Just &amp;amp; Inclusive Development&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mwwEUlQ556F2W2hnmUCW-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;Social Transition and Just &amp;amp; Inclusive Development&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="468" y="1503" width="187" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="mwwEUlQ556F2W2hnmUCW-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;Modernization of Governance System and Fiscal Sustainability&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mwwEUlQ556F2W2hnmUCW-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;Modernization of Governance System and Fiscal Sustainability&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="468" y="1571" width="187" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="mwwEUlQ556F2W2hnmUCW-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;Infrastructure, Land Use, and Urban-Rural Spatial Restructuring&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mwwEUlQ556F2W2hnmUCW-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;Infrastructure, Land Use, and Urban-Rural Spatial Restructuring&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="468" y="1360" width="187" height="39" as="geometry" />
         </mxCell>
         <mxCell id="mwwEUlQ556F2W2hnmUCW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mwwEUlQ556F2W2hnmUCW-18" target="mwwEUlQ556F2W2hnmUCW-21">
