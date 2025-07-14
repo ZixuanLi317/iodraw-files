@@ -83,16 +83,22 @@
           <mxGeometry x="393" y="995" width="187" height="39" as="geometry" />
         </mxCell>
         <mxCell id="mwwEUlQ556F2W2hnmUCW-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;Ecological Restoration and Resource Constraints&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="1152" width="187" height="39" as="geometry" />
+          <mxGeometry x="393" y="1140" width="187" height="39" as="geometry" />
         </mxCell>
         <mxCell id="mwwEUlQ556F2W2hnmUCW-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;Social Transition and Just &amp;amp; Inclusive Development&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="1220" width="187" height="39" as="geometry" />
+          <mxGeometry x="393" y="1208" width="187" height="39" as="geometry" />
         </mxCell>
         <mxCell id="mwwEUlQ556F2W2hnmUCW-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;Modernization of Governance System and Fiscal Sustainability&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="1288" width="187" height="39" as="geometry" />
+          <mxGeometry x="393" y="1276" width="187" height="39" as="geometry" />
         </mxCell>
         <mxCell id="mwwEUlQ556F2W2hnmUCW-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;Infrastructure, Land Use, and Urban-Rural Spatial Restructuring&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="393" y="1065" width="187" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="mwwEUlQ556F2W2hnmUCW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="1038" as="sourcePoint" />
+            <mxPoint x="403" y="959" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
