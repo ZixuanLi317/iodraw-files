@@ -127,8 +127,8 @@
             <mxPoint x="518" y="1294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mwwEUlQ556F2W2hnmUCW-31" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="768.5" y="1214.5" width="120" height="60" as="geometry" />
+        <mxCell id="mwwEUlQ556F2W2hnmUCW-31" value="Dual Pressure on Public Finance and Growth" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="1214.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
