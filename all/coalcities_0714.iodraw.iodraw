@@ -92,7 +92,7 @@
           <mxGeometry x="468" y="1571" width="187" height="39" as="geometry" />
         </mxCell>
         <mxCell id="mwwEUlQ556F2W2hnmUCW-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;Infrastructure, Land Use, and Urban-Rural Spatial Restructuring&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="468" y="1360" width="187" height="39" as="geometry" />
+          <mxGeometry x="468" y="1360" width="187" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mwwEUlQ556F2W2hnmUCW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mwwEUlQ556F2W2hnmUCW-18" target="mwwEUlQ556F2W2hnmUCW-21">
           <mxGeometry relative="1" as="geometry">
