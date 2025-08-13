@@ -20,7 +20,7 @@
           <mxGeometry x="20" y="380" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BzKaTt7a7DWVFTfrv8TK-6" value="统一阈值决策" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="75" y="500" width="150" height="150" as="geometry" />
+          <mxGeometry x="75" y="500" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BzKaTt7a7DWVFTfrv8TK-7" value="汇总城市 recommended_px&#xa;计算中位数 / P75" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="1028" width="256" height="78" as="geometry" />
