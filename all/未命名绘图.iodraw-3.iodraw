@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="XGBi6pYEP5yywxN2RzBv">
-    <mxGraphModel dx="1026" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="48" y="20" width="204" height="78" as="geometry" />
         </mxCell>
         <mxCell id="BzKaTt7a7DWVFTfrv8TK-2" value="数据准备&#xa;UCDB(中国)+China边界+WorldCover v200 10m" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="148" width="260" height="102" as="geometry" />
+          <mxGeometry x="20" y="120" width="260" height="102" as="geometry" />
         </mxCell>
         <mxCell id="BzKaTt7a7DWVFTfrv8TK-3" value="GEE 提取绿地 10m&#xa;映射绿地类别(含/不含耕地)&#xa;形态学闭运算(10-20m)&#xa;导出 RAW GeoTIFF(不做 MMU)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="260" height="150" as="geometry" />
