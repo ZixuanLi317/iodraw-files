@@ -11,13 +11,13 @@
           <mxGeometry x="20" y="120" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BzKaTt7a7DWVFTfrv8TK-3" value="GEE 提取绿地 10m&#xa;映射绿地类别(含/不含耕地)&#xa;形态学闭运算(10-20m)&#xa;导出 RAW GeoTIFF(不做 MMU)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="261" width="260" height="79" as="geometry" />
+          <mxGeometry x="20" y="210" width="260" height="79" as="geometry" />
         </mxCell>
         <mxCell id="BzKaTt7a7DWVFTfrv8TK-4" value="质量检查 QC&#xa;像元对齐/抽查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="68" y="370" width="164" height="50" as="geometry" />
+          <mxGeometry x="68" y="310" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BzKaTt7a7DWVFTfrv8TK-5" value="Python: MMU 数据驱动选择&#xa;面积 log 直方图 + CCDF 拐点(knee)&#xa;最近邻距离分布&#xa;面积保留率 &amp;gt;= 99% 得 A*" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="628" width="260" height="150" as="geometry" />
+          <mxGeometry x="20" y="380" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BzKaTt7a7DWVFTfrv8TK-6" value="统一阈值决策" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="75" y="828" width="150" height="150" as="geometry" />
