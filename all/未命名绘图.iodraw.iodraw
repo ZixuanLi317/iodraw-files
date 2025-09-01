@@ -38,7 +38,7 @@
           <mxGeometry x="-150" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-10" value="青龙山、紫金山、汤山山脉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="570" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="585" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-11" value="六合平山省级森林公园" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="340" width="80" height="80" as="geometry" />
@@ -128,13 +128,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-34" value="六合平山省级森林公园" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-35" value="六合国家地质公园" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="650" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-36" value="止马岭" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="757" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="747" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-37" value="老山片区" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="383.5" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
