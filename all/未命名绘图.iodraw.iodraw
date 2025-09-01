@@ -411,6 +411,9 @@
         <mxCell id="BJqGQshSLxK1LGxMzPdS-112" value="&lt;span style=&quot;background-color: initial;&quot;&gt;桐子山&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="980" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-114" target="BJqGQshSLxK1LGxMzPdS-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-114" value="老山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="980" width="80" height="80" as="geometry" />
         </mxCell>
@@ -441,8 +444,17 @@
             <mxPoint x="50" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-122" target="BJqGQshSLxK1LGxMzPdS-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-122" value="青龙山、紫金山、汤山&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;山脉&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="980" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-124" value="青龙山、紫金山、汤山&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;山脉&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310.5" y="1105" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-126" value="老山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1140" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
