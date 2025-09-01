@@ -290,13 +290,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-71" value="&lt;span style=&quot;background-color: initial;&quot;&gt;桐子山&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="70" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-76" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-73" target="BJqGQshSLxK1LGxMzPdS-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-73" value="青龙山、紫金山、汤山、栖霞山&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;山脉&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="190" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-75" value="青龙山、紫金山、汤山、栖霞山&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;山脉&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="850" width="80" height="80" as="geometry" />
