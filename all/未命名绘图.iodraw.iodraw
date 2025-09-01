@@ -115,8 +115,14 @@
             <mxPoint x="100" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-30" target="BJqGQshSLxK1LGxMzPdS-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-30" value="老山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-31" target="BJqGQshSLxK1LGxMzPdS-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-31" value="tingzi山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="460" width="80" height="80" as="geometry" />
@@ -312,6 +318,9 @@
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-85" value="老山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-87" value="tingzi山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
