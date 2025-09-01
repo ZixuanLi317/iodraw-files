@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-2" target="BJqGQshSLxK1LGxMzPdS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-2" value="长江南部" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="190" width="80" height="80" as="geometry" />
         </mxCell>
@@ -12,6 +15,9 @@
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-4" value="六合片区" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="580" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
