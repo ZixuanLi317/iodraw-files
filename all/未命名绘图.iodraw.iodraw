@@ -79,6 +79,12 @@
         <mxCell id="BJqGQshSLxK1LGxMzPdS-23" value="云台山、牛首山&lt;span style=&quot;background-color: initial;&quot;&gt;山脉&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="460" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="56" y="570" as="sourcePoint" />
+            <mxPoint x="-70" y="649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
