@@ -115,13 +115,13 @@
             <mxPoint x="100" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJqGQshSLxK1LGxMzPdS-86" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-30" target="BJqGQshSLxK1LGxMzPdS-85">
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-86" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-30" target="BJqGQshSLxK1LGxMzPdS-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-30" value="老山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BJqGQshSLxK1LGxMzPdS-88" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-31" target="BJqGQshSLxK1LGxMzPdS-87">
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-88" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-31" target="BJqGQshSLxK1LGxMzPdS-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-31" value="tingzi山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -334,12 +334,12 @@
         <mxCell id="BJqGQshSLxK1LGxMzPdS-91" value="青龙山、紫金山、汤山、栖霞山&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;山脉&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BJqGQshSLxK1LGxMzPdS-94" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="BJqGQshSLxK1LGxMzPdS-96" source="BJqGQshSLxK1LGxMzPdS-85">
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-94" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BJqGQshSLxK1LGxMzPdS-96" source="BJqGQshSLxK1LGxMzPdS-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="377" y="679" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJqGQshSLxK1LGxMzPdS-95" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="BJqGQshSLxK1LGxMzPdS-97" source="BJqGQshSLxK1LGxMzPdS-87">
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-95" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BJqGQshSLxK1LGxMzPdS-97" source="BJqGQshSLxK1LGxMzPdS-87">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="485" y="678" as="sourcePoint" />
           </mxGeometry>
