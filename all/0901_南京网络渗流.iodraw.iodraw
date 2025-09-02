@@ -37,11 +37,20 @@
         <mxCell id="BJqGQshSLxK1LGxMzPdS-9" value="溧水、高淳片区&lt;div&gt;（机场以南）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="460" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-11" target="BJqGQshSLxK1LGxMzPdS-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-11" value="六合平山省级森林公园" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="340" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-12" target="BJqGQshSLxK1LGxMzPdS-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-12" value="六合国家地质公园" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJqGQshSLxK1LGxMzPdS-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-13" target="BJqGQshSLxK1LGxMzPdS-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-13" value="止马岭" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="747" y="340" width="80" height="80" as="geometry" />
@@ -317,7 +326,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-73" value="青龙山、紫金山、汤山、栖霞山&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;山脉&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="189.5" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="120" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-92" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-75" target="BJqGQshSLxK1LGxMzPdS-91">
           <mxGeometry relative="1" as="geometry" />
@@ -347,10 +356,10 @@
           <mxGeometry x="160" y="850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-85" value="老山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="299.5" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="270" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-87" value="tingzi山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="413.5" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="374" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-90" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-89" target="BJqGQshSLxK1LGxMzPdS-83">
           <mxGeometry relative="1" as="geometry" />
