@@ -32,7 +32,7 @@
           <mxGeometry x="-40" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-7" value="青龙山、紫金山、汤山、钟山、栖霞山&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;山脉&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="334" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-9" value="溧水、高淳片区&lt;div&gt;（机场以南）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="460" width="80" height="80" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="440" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-16" value="幕府山" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-4" target="BJqGQshSLxK1LGxMzPdS-11">
           <mxGeometry relative="1" as="geometry">
@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-28" value="青龙山、紫金山、汤山、钟山、栖霞山&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;山脉&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="334" y="470" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-29" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BJqGQshSLxK1LGxMzPdS-7" target="BJqGQshSLxK1LGxMzPdS-28">
           <mxGeometry relative="1" as="geometry">
