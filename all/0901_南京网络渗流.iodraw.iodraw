@@ -56,10 +56,10 @@
           <mxGeometry x="897" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-14" value="老山、tingzi山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="584.5" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-15" value="褚赫山" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="540" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="440" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJqGQshSLxK1LGxMzPdS-16" value="幕府山" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="330" width="80" height="80" as="geometry" />
