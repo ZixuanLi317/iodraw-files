@@ -20,15 +20,15 @@
           <mxGeometry x="535" y="310" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="10" value="&lt;div&gt;&lt;b&gt;非药物疗法&lt;/b&gt;&lt;/div&gt;&lt;div&gt;湿热&lt;/div&gt;&lt;div&gt;冰敷&lt;/div&gt;&lt;div&gt;睡眠/保健&lt;/div&gt;&lt;div&gt;运动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="660" y="410" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="420" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="5" edge="1">
+        <mxCell id="11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_0OXcBQR6sZspQtltueD-31" target="5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="110" as="sourcePoint" />
             <mxPoint x="180" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="6" edge="1">
+        <mxCell id="12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_0OXcBQR6sZspQtltueD-31" target="6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="155" y="110" as="sourcePoint" />
             <mxPoint x="320" y="310" as="targetPoint" />
