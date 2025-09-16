@@ -17,10 +17,10 @@
           <mxGeometry x="660" y="180" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9" value="阿片类药：&lt;div&gt;在其他镇痛方法之后的补充镇痛（而不作为首选）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="535" y="310" width="260" height="70" as="geometry" />
+          <mxGeometry x="540" y="310" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="10" value="&lt;div&gt;&lt;b&gt;非药物疗法&lt;/b&gt;&lt;/div&gt;&lt;div&gt;湿热&lt;/div&gt;&lt;div&gt;冰敷&lt;/div&gt;&lt;div&gt;睡眠/保健&lt;/div&gt;&lt;div&gt;运动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="535" y="440" width="240" height="80" as="geometry" />
+          <mxGeometry x="535" y="440" width="265" height="80" as="geometry" />
         </mxCell>
         <mxCell id="11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_0OXcBQR6sZspQtltueD-31" target="5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,7 +46,7 @@
             <mxPoint x="570" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_0OXcBQR6sZspQtltueD-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.314;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_0OXcBQR6sZspQtltueD-32" target="9">
+        <mxCell id="_0OXcBQR6sZspQtltueD-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.288;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_0OXcBQR6sZspQtltueD-32" target="9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="602.5" y="110" as="sourcePoint" />
             <mxPoint x="740" y="190" as="targetPoint" />
@@ -73,8 +73,11 @@
         <mxCell id="_0OXcBQR6sZspQtltueD-32" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;术中&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="30" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_0OXcBQR6sZspQtltueD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_0OXcBQR6sZspQtltueD-33" target="10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_0OXcBQR6sZspQtltueD-33" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;术后&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="450" width="155" height="80" as="geometry" />
+          <mxGeometry x="336" y="440" width="155" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
