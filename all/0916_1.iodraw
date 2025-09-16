@@ -107,7 +107,8 @@
             <mxPoint x="675" y="120" as="sourcePoint" />
             <mxPoint x="740" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="110" />
+              <mxPoint x="665" y="150" />
+              <mxPoint x="600" y="150" />
               <mxPoint x="600" y="270" />
               <mxPoint x="670" y="270" />
             </Array>
