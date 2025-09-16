@@ -23,7 +23,7 @@
           <mxGeometry x="660" y="180" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9" value="阿片类药：&lt;div&gt;在其他镇痛方法之后的补充镇痛（而不作为首选）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="540" y="320" width="260" height="50" as="geometry" />
+          <mxGeometry x="540" y="310" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="&lt;div&gt;&lt;b&gt;非药物疗法&lt;/b&gt;&lt;/div&gt;&lt;div&gt;湿热&lt;/div&gt;&lt;div&gt;冰敷&lt;/div&gt;&lt;div&gt;睡眠/保健&lt;/div&gt;&lt;div&gt;运动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=4;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="590" y="470" width="120" height="110" as="geometry" />
