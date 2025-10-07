@@ -838,7 +838,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-123" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1500" width="20" height="20" as="geometry" />
+          <mxGeometry x="80" y="1480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z6Zqr-FPFdFyB53ypTnZ-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-123" target="z6Zqr-FPFdFyB53ypTnZ-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="1510" as="sourcePoint" />
+            <mxPoint x="100" y="1540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
