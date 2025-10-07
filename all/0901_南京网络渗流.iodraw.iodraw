@@ -814,9 +814,6 @@
             <mxPoint x="120.5" y="1642.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z6Zqr-FPFdFyB53ypTnZ-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-116" target="z6Zqr-FPFdFyB53ypTnZ-114">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-116" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="1580" width="20" height="20" as="geometry" />
         </mxCell>
