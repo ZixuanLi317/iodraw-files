@@ -770,8 +770,11 @@
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="118" y="1390" width="43" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="z6Zqr-FPFdFyB53ypTnZ-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-90" target="z6Zqr-FPFdFyB53ypTnZ-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="1400" width="43" height="43" as="geometry" />
+          <mxGeometry x="118.5" y="1290" width="43" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
