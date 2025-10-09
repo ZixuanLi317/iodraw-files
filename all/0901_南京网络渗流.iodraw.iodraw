@@ -601,7 +601,7 @@
           <mxGeometry x="478" y="1959" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fontFamily=Verdana;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="478" y="2009" width="20" height="20" as="geometry" />
+          <mxGeometry x="482" y="2013" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-33" target="z6Zqr-FPFdFyB53ypTnZ-34">
           <mxGeometry relative="1" as="geometry" />
@@ -980,7 +980,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-177" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 7px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Qinglong,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Verdana; font-size: 7px; text-align: center;&quot;&gt;Zijin,&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-family: Verdana; font-size: 7px; text-align: center;&quot;&gt;Tang&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;font-family: Verdana; font-size: 7px; text-align: center;&quot;&gt;Mountain&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="483.75" y="2029" width="56.5" height="43" as="geometry" />
+          <mxGeometry x="475" y="2018" width="56.5" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
