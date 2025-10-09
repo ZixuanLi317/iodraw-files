@@ -651,10 +651,12 @@
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="203" y="1911" as="targetPoint" />
+            <mxPoint x="192" y="1911" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="203" y="1912" />
-              <mxPoint x="198" y="1912" />
+              <mxPoint x="203" y="1914" />
+              <mxPoint x="198" y="1914" />
+              <mxPoint x="198" y="1917" />
+              <mxPoint x="203" y="1917" />
             </Array>
           </mxGeometry>
         </mxCell>
