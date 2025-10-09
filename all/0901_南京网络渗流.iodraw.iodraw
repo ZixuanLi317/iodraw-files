@@ -867,7 +867,7 @@
             <mxPoint x="545.4999999999998" y="1852" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z6Zqr-FPFdFyB53ypTnZ-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-279">
+        <mxCell id="z6Zqr-FPFdFyB53ypTnZ-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-277" target="z6Zqr-FPFdFyB53ypTnZ-273">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="577.9999999999998" y="1852" as="sourcePoint" />
             <mxPoint x="578" y="1872" as="targetPoint" />
@@ -1218,7 +1218,7 @@
           <mxGeometry x="547" y="1847.5" width="25" height="16" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-279" value="&lt;div style=&quot;line-height: 100%; font-size: 6px;&quot;&gt;&lt;div style=&quot;font-size: 6px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Verdana; text-align: center; background-color: initial; font-size: 6px;&quot;&gt;(&lt;i style=&quot;font-size: 6px;&quot;&gt;n=13&lt;/i&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;labelBackgroundColor=none;fontColor=default;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="613" y="1847.5" width="25" height="16" as="geometry" />
+          <mxGeometry x="579" y="1847.5" width="25" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
