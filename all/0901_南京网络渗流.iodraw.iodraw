@@ -1237,7 +1237,7 @@
           <mxGeometry x="537.5" y="1745" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-285" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;font-size: 7px; line-height: 100%;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Zhong&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;Mountains&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=7;labelBackgroundColor=none;fontColor=default;spacing=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="522" y="1893" width="34" height="15.5" as="geometry" />
+          <mxGeometry x="566" y="1748" width="34" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
