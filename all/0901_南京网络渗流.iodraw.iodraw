@@ -1096,6 +1096,9 @@
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-226" value="&lt;div style=&quot;line-height: 100%; font-size: 6px;&quot;&gt;&lt;div style=&quot;font-size: 6px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Verdana; text-align: center; background-color: initial; font-size: 6px;&quot;&gt;(&lt;i&gt;n=23&lt;/i&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;labelBackgroundColor=none;fontColor=default;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="262" y="1970.5" width="39" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="z6Zqr-FPFdFyB53ypTnZ-227" value="&lt;div style=&quot;line-height: 100%; font-size: 6px;&quot;&gt;&lt;div style=&quot;font-size: 6px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Verdana; text-align: center; background-color: initial; font-size: 6px;&quot;&gt;(&lt;i&gt;n=23&lt;/i&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;labelBackgroundColor=none;fontColor=default;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="272" y="1980.5" width="39" height="16" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
