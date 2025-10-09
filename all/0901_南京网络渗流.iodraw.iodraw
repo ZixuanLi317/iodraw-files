@@ -734,7 +734,7 @@
           <mxGeometry x="438.5" y="1873.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fontFamily=Verdana;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="362" y="1873" width="12" height="12" as="geometry" />
+          <mxGeometry x="379" y="1881" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-81" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-80" target="z6Zqr-FPFdFyB53ypTnZ-79">
           <mxGeometry relative="1" as="geometry" />
@@ -995,7 +995,7 @@
           <mxGeometry x="406" y="1887" width="39" height="16" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-182" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;font-size: 7px; line-height: 100%;&quot;&gt;&lt;font style=&quot;font-family: Verdana; text-align: center;&quot;&gt;Niushou,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px; line-height: 100%;&quot;&gt;&lt;font style=&quot;font-family: Verdana; text-align: center;&quot;&gt;Jiangjun&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Verdana; text-align: center; background-color: initial;&quot;&gt;Mountains&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Verdana; font-size: 7px; text-align: center;&quot;&gt;(n=26)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=7;labelBackgroundColor=none;fontColor=default;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="358.5" y="1895" width="39" height="34" as="geometry" />
+          <mxGeometry x="359" y="1885" width="39" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
