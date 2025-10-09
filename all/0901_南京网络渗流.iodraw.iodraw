@@ -675,7 +675,7 @@
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fillColor=#00CC00;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="151" y="1845.5" width="12" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="z6Zqr-FPFdFyB53ypTnZ-62" value="Youzishan&lt;div&gt;Forest&lt;/div&gt;&lt;div&gt;park&lt;/div&gt;&lt;div&gt;(South)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fontFamily=Verdana;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="z6Zqr-FPFdFyB53ypTnZ-62" value="Youzishan&lt;div&gt;Forest&lt;/div&gt;&lt;div&gt;park&lt;/div&gt;&lt;div&gt;(South)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fontFamily=Verdana;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="110" y="1839.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-63" target="z6Zqr-FPFdFyB53ypTnZ-59">
