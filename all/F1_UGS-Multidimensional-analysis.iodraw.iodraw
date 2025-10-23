@@ -29,7 +29,7 @@
           <mxGeometry x="515.5" y="193" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-6" value="Technological Dimension" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="360" y="489" width="120" height="40" as="geometry" />
+          <mxGeometry x="492" y="437.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-7" value="• 生态系统服务&lt;br&gt;• 生物多样性&lt;br&gt;• 气候调节" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="-136" y="405" width="120" height="60" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="750" y="409" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-10" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;Social&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;–&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-weight: 700; font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 12px;&quot;&gt;Ecological Intergration&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="354.5" y="165" width="120" height="40" as="geometry" />
+          <mxGeometry x="357" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jG3L2s0Q9zXkF7rY1pBw-12" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;Social&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;–&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#333333&quot;&gt;Technological&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#333333&quot;&gt;Intergration&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="470.5" y="328" width="84" height="45" as="geometry" />
