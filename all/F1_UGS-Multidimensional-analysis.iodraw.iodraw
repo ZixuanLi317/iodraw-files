@@ -272,7 +272,7 @@
           <mxGeometry x="1470.5" y="43" width="406" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-65" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;UGS-SETS Framework&lt;/b&gt;&lt;/font&gt;" style="shape=switch;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=none;fillColor=#d80073;gradientDirection=radial;fontColor=#ffffff;gradientColor=#FFFFFF;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1183.5" y="624" width="552" height="112" as="geometry" />
+          <mxGeometry x="1113" y="512" width="552" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
