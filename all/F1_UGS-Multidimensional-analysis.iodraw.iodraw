@@ -542,10 +542,10 @@
           <mxGeometry x="1525.25" y="1276" width="138" height="138" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-165" value="&lt;span style=&quot;font-size: 10.5pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Multi-scale dynamic interaction&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1064.6499999999999" y="1442" width="207.7" height="39" as="geometry" />
+          <mxGeometry x="1064.65" y="1431" width="207.7" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-167" value="&lt;span style=&quot;font-size: 10.5pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Multi-scale dynamic interaction&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1088.6499999999999" y="1403" width="163.45" height="39" as="geometry" />
+          <mxGeometry x="1259.9999999999998" y="1336" width="163.45" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
