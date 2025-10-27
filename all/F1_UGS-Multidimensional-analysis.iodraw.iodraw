@@ -373,13 +373,8 @@
         <mxCell id="5lYMveRcIN2kl_HFBh-6-114" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;UGS -SETS Framework&lt;/b&gt;&lt;/font&gt;" style="shape=switch;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#FFFFFF;fillColor=#8D6D9C;gradientDirection=radial;fontColor=#000000;gradientColor=#FFFFFF;rotation=0;points=[[0,0,0,0,0],[0,1,0,0,0],[0.25,0.5,0,0,0],[0.51,0.08,0,0,0],[0.51,0.94,0,0,0],[0.75,0.5,0,0,0],[1,0,0,0,0],[1,1,0,0,0]];opacity=85;strokeWidth=1;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="1367.3" y="656.5" width="102" height="422.5" as="geometry" />
         </mxCell>
-        <mxCell id="5lYMveRcIN2kl_HFBh-6-125" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5lYMveRcIN2kl_HFBh-6-100" target="5lYMveRcIN2kl_HFBh-6-110">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1518" y="833" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-126" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1557" y="693.75" width="343" height="343" as="geometry" />
+          <mxGeometry x="1513.3" y="680.5" width="343" height="343" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-117" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1628.1799999999998" y="617" width="121.75" height="120" as="geometry" />
