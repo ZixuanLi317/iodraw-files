@@ -562,7 +562,7 @@
         <mxCell id="5lYMveRcIN2kl_HFBh-6-185" value="S-&lt;span style=&quot;background-color: initial;&quot;&gt;E Interactions&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=0;fontSize=13;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="5lYMveRcIN2kl_HFBh-6-213">
           <mxGeometry x="103.9068046875" y="218.70935960591135" width="99.2368359375" height="46.69950738916256" as="geometry" />
         </mxCell>
-        <mxCell id="5lYMveRcIN2kl_HFBh-6-186" value="Ecological–Technological Interactions" style="text;whiteSpace=wrap;html=1;align=center;fontSize=13;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="5lYMveRcIN2kl_HFBh-6-213">
+        <mxCell id="5lYMveRcIN2kl_HFBh-6-186" value="E-T Interactions" style="text;whiteSpace=wrap;html=1;align=center;fontSize=13;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="5lYMveRcIN2kl_HFBh-6-213">
           <mxGeometry x="318.91994921875" y="218.70935960591135" width="77.8328125" height="54.48275862068966" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-187" value="S-T&lt;div style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Interactions&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=13;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="5lYMveRcIN2kl_HFBh-6-213">
