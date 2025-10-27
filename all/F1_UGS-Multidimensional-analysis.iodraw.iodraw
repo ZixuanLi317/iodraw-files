@@ -374,7 +374,7 @@
           <mxGeometry x="2075" y="1009" width="406" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-114" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;UGS -SETS Framework&lt;/b&gt;&lt;/font&gt;" style="shape=switch;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#FFFFFF;fillColor=#8D6D9C;gradientDirection=radial;fontColor=#000000;gradientColor=#FFFFFF;rotation=0;points=[[0,0,0,0,0],[0,1,0,0,0],[0.25,0.5,0,0,0],[0.51,0.08,0,0,0],[0.51,0.94,0,0,0],[0.75,0.5,0,0,0],[1,0,0,0,0],[1,1,0,0,0]];opacity=85;strokeWidth=1;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="1367.3" y="656.5" width="102" height="422.5" as="geometry" />
+          <mxGeometry x="2075" y="779.5" width="102" height="422.5" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-117" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1623.9999999999998" y="623" width="121.75" height="120" as="geometry" />
@@ -398,7 +398,7 @@
           <mxGeometry x="2.5" y="16" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-109" value="&lt;b&gt;Social -&lt;/b&gt;&lt;div&gt;&lt;b&gt;Economic&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Domain&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=11;labelBackgroundColor=none;spacing=2;align=center;fontStyle=2" vertex="1" parent="5lYMveRcIN2kl_HFBh-6-119">
-          <mxGeometry x="24" y="56" width="77" height="52" as="geometry" />
+          <mxGeometry x="24" y="53.5" width="77" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-120" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1466" y="894" width="120" height="120" as="geometry" />
