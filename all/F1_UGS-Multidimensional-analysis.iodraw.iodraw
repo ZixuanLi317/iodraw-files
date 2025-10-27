@@ -566,7 +566,7 @@
           <mxGeometry x="191.37166015625002" y="91.99733990147783" width="125.11624609375001" height="31.133004926108377" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-188" value="&lt;ul style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;li style=&quot;&quot;&gt;Digital Governance Policies&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;→&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;Platform Applications&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Transportation Infrastructure&lt;br style=&quot;padding: 0px; margin: 0px; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;→&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;Residential Segregation&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=11;labelBackgroundColor=none;spacing=2;" vertex="1" parent="5lYMveRcIN2kl_HFBh-6-213">
-          <mxGeometry x="157.39" y="114.89" width="231" height="70.05" as="geometry" />
+          <mxGeometry x="163.32" y="119" width="231" height="70.05" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-189" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.726;exitY=0.041;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2.5;flowAnimation=1;startArrow=none;startFill=0;" edge="1" parent="5lYMveRcIN2kl_HFBh-6-213" source="5lYMveRcIN2kl_HFBh-6-184">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
