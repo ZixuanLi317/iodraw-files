@@ -409,7 +409,7 @@
         <mxCell id="5lYMveRcIN2kl_HFBh-6-108" value="&lt;b&gt;Ecological -&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Biophysical&lt;/b&gt;&lt;div&gt;&lt;b&gt;Domain&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=11;labelBackgroundColor=none;spacing=2;align=center;fontStyle=2" vertex="1" parent="5lYMveRcIN2kl_HFBh-6-120">
           <mxGeometry x="15.700000000000045" y="55.5" width="95" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="5lYMveRcIN2kl_HFBh-6-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5lYMveRcIN2kl_HFBh-6-100">
+        <mxCell id="5lYMveRcIN2kl_HFBh-6-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5lYMveRcIN2kl_HFBh-6-100" target="5lYMveRcIN2kl_HFBh-6-110">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1518" y="833" as="targetPoint" />
           </mxGeometry>
