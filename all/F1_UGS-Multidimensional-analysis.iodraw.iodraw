@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="GDUI3rXUotCDzuUynW4w" name="第 1 页">
-    <mxGraphModel dx="2259" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,7 +365,7 @@
           <mxGeometry x="1678" y="787" width="259" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-112" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Social -&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 13px; background-color: initial;&quot;&gt;Ecological&lt;/b&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div style=&quot;font-size: 13px; line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Interactions&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1606" y="975" width="158.95" height="40" as="geometry" />
+          <mxGeometry x="1609.78" y="975" width="158.95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-113" value="Research on&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Socio-Ecological-Technological&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;System&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(SETS)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1486.25" y="1027" width="406" height="70" as="geometry" />
@@ -446,7 +446,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-134" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.35;dx=17.8;opacity=75;" vertex="1" parent="1">
-          <mxGeometry x="1208.6" y="860" width="407.2" height="26.5" as="geometry" />
+          <mxGeometry x="1208.6" y="860" width="412.4" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-135" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.056;entryY=0.736;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
