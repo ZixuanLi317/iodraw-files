@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="GDUI3rXUotCDzuUynW4w" name="第 1 页">
-    <mxGraphModel dx="1768" dy="479" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="987" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,7 +446,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-134" value="&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;UGS-SET Framework&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.35;dx=17.8;opacity=75;gradientColor=#FFFFFF;fillColor=#8D6D9C;gradientDirection=west;" vertex="1" parent="1">
-          <mxGeometry x="1208.1" y="855.5" width="412.4" height="34" as="geometry" />
+          <mxGeometry x="1208.1" y="855.5" width="405.9" height="34" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-135" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.056;entryY=0.736;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
