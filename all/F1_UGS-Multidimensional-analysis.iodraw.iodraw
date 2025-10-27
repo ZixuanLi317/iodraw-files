@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="GDUI3rXUotCDzuUynW4w" name="第 1 页">
-    <mxGraphModel dx="2474" dy="839" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,6 +399,9 @@
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-114" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;UGS -SETS Framework&lt;/b&gt;&lt;/font&gt;" style="shape=switch;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#FFFFFF;fillColor=#8D6D9C;gradientDirection=radial;fontColor=#000000;gradientColor=#FFFFFF;rotation=0;points=[[0,0,0,0,0],[0,1,0,0,0],[0.25,0.5,0,0,0],[0.51,0.08,0,0,0],[0.51,0.94,0,0,0],[0.75,0.5,0,0,0],[1,0,0,0,0],[1,1,0,0,0]];opacity=85;strokeWidth=1;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="1367.3" y="656.5" width="102" height="422.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5lYMveRcIN2kl_HFBh-6-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.854;entryY=1.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5lYMveRcIN2kl_HFBh-6-110" target="5lYMveRcIN2kl_HFBh-6-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
