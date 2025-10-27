@@ -155,7 +155,7 @@
           <mxGeometry x="1984" y="21.5" width="571.6" height="1121" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=#fbf7f4;strokeWidth=2;dashed=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="896" y="48" width="491" height="496" as="geometry" />
+          <mxGeometry x="896" y="43" width="491" height="501" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#87a28e;strokeColor=#000000;gradientColor=none;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="901.5" y="109" width="300" height="300" as="geometry" />
@@ -188,7 +188,7 @@
           <mxGeometry x="1079.25" y="275" width="124.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-37" value="Research on Urban Green Spaces (UGS)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1008.25" y="44" width="250" height="70" as="geometry" />
+          <mxGeometry x="1016.5" y="44" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-38" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bul%20style%3D%26quot%3Bline-height%3A%20130%25%3B%20font-size%3A%2010px%3B%26quot%3B%26gt%3B%26lt%3Bli%20style%3D%26quot%3B%26quot%3B%26gt%3BGreenspace%20Policies%26lt%3Bbr%20style%3D%26quot%3Bpadding%3A%200px%3B%20margin%3A%200px%3B%20text-align%3A%20center%3B%20text-wrap-mode%3A%20nowrap%3B%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Btext-align%3A%20center%3B%20text-wrap-mode%3A%20nowrap%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%E2%86%92%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3BBiodiversity%20Patterns%26lt%3B%2Fli%26gt%3B%26lt%3Bli%20style%3D%26quot%3B%26quot%3B%26gt%3BEcosystem%20Service%20Benefits%26lt%3Bbr%20style%3D%26quot%3Bpadding%3A%200px%3B%20margin%3A%200px%3B%20text-align%3A%20center%3B%20text-wrap-mode%3A%20nowrap%3B%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Btext-align%3A%20center%3B%20text-wrap-mode%3A%20nowrap%3B%26quot%3B%26gt%3B%26lt%3Bb%26gt%3B%E2%86%92%26amp%3Bnbsp%3B%26amp%3Bnbsp%3B%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fspan%26gt%3BPublic%20Engagement%26lt%3B%2Fli%26gt%3B%26lt%3B%2Ful%26gt%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BverticalAlign%3Dtop%3BfontSize%3D11%3BlabelBackgroundColor%3Dnone%3Bspacing%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-508%22%20y%3D%223907%22%20width%3D%22197.75%22%20height%3D%2290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;Ecosystem services&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;Biodiversity&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;Climate regulation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;······&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=11;labelBackgroundColor=none;spacing=2;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="907.75" y="222" width="150" height="80" as="geometry" />
@@ -269,7 +269,7 @@
           <mxGeometry x="1628.5" y="419" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-64" value="Research on&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Socio-Ecological-Technological&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;System&lt;/span&gt;&lt;div&gt;(SETS)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1506" y="44" width="350" height="70" as="geometry" />
+          <mxGeometry x="1450" y="44" width="406" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-65" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;UGS-SETS Framework&lt;/b&gt;&lt;/font&gt;" style="shape=switch;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=none;fillColor=#d80073;gradientDirection=radial;fontColor=#ffffff;gradientColor=#FFFFFF;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1184.25" y="635" width="552" height="112" as="geometry" />
