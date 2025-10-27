@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="GDUI3rXUotCDzuUynW4w" name="第 1 页">
-    <mxGraphModel dx="2474" dy="839" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,7 +359,7 @@
           <mxGeometry x="1470.8" y="849" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#de8a74;strokeColor=#000000;gradientColor=none;opacity=75;direction=west;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="1625.3" y="745.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="1783.55" y="845" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-102" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7aa2b9;strokeColor=#000000;gradientColor=none;opacity=75;direction=west;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="1629.8" y="621" width="120" height="120" as="geometry" />
@@ -374,7 +374,7 @@
           <mxGeometry x="1783.55" y="864.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-106" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Socio-Ecological- Technological&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;System&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(SETS)&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1626.8" y="828" width="124.5" height="65" as="geometry" />
+          <mxGeometry x="1261" y="868.5" width="124.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="5lYMveRcIN2kl_HFBh-6-107" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Ecological -&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Technological&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Interactions&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1550.55" y="775.5" width="90" height="40" as="geometry" />
