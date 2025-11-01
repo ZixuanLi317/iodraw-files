@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-318" value="Φ = 1.0" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=#eeeeee;align=right;dashed=1;dashPattern=8 8;strokeWidth=0.5;fontSize=10;fontStyle=0;strokeColor=#36393d;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="1266.5" y="1845" width="657" height="51" as="geometry" />
+          <mxGeometry x="109" y="1632" width="657" height="51" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-310" value="Φ = 0.9254" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;align=right;dashed=1;dashPattern=8 8;strokeWidth=0.5;fontSize=10;fontStyle=0;strokeColor=#36393d;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="109" y="1683" width="657" height="49" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="109" y="1919" width="657" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-316" value="Φ = 0.4512" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;align=right;dashed=1;strokeWidth=0.5;fontSize=10;dashPattern=8 8;strokeColor=#36393d;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="109" y="1954" width="657" height="46.5" as="geometry" />
+          <mxGeometry x="1017" y="2056" width="657" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-317" value="Φ = 0.3681" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=#eeeeee;align=right;dashed=1;strokeWidth=0.5;fontSize=10;dashPattern=8 8;strokeColor=#36393d;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="109" y="2001" width="657" height="54.5" as="geometry" />
