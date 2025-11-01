@@ -1617,7 +1617,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-392" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;direction=east;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1294" y="1883" width="16" height="16" as="geometry" />
+          <mxGeometry x="1292" y="1883" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-393" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;strokeWidth=0.75;endSize=3;" parent="1" source="z6Zqr-FPFdFyB53ypTnZ-394" target="z6Zqr-FPFdFyB53ypTnZ-392" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1946,7 +1946,7 @@
           <mxGeometry x="1160" y="1656.5" width="136" height="15.5" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-479" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fontFamily=Verdana;fillColor=#3399FF;strokeColor=#36393d;direction=east;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1292" y="1791" width="20" height="20" as="geometry" />
+          <mxGeometry x="1289" y="1791" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-480" value="&lt;div style=&quot;line-height: 100%; font-size: 6px;&quot;&gt;&lt;div style=&quot;font-size: 6px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Verdana; text-align: center; background-color: initial; font-size: 6px;&quot;&gt;(&lt;i&gt;n=202&lt;/i&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;labelBackgroundColor=none;fontColor=default;spacing=2;direction=east;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1305" y="1778.5" width="39" height="16" as="geometry" />
