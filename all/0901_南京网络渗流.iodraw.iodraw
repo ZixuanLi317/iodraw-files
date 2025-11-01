@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="pawDn-xHX37DdjvHosjA-16" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#808080;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1129" y="1630" as="sourcePoint" />
+            <mxPoint x="1128.8600000000001" y="1566.12" as="sourcePoint" />
             <mxPoint x="1128.8600000000001" y="2033.874466338259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -55,7 +55,7 @@
         <mxCell id="pawDn-xHX37DdjvHosjA-9" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#808080;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1435.0000000000002" y="1565.12" as="sourcePoint" />
-            <mxPoint x="1435.0000000000002" y="2032.874466338259" as="targetPoint" />
+            <mxPoint x="1435.0000000000002" y="2024" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z6Zqr-FPFdFyB53ypTnZ-318" value="Φ = 1.0" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=#eeeeee;align=right;dashed=1;dashPattern=8 8;strokeWidth=0.5;fontSize=10;fontStyle=0;strokeColor=#36393d;verticalAlign=bottom;" parent="1" vertex="1">
