@@ -184,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-61" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;部门联动&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="123.5" y="783" width="55" height="20" as="geometry" />
+          <mxGeometry x="123.5" y="803" width="55" height="47" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;机制探索&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="188" y="783" width="55" height="20" as="geometry" />
@@ -395,10 +395,10 @@
           <mxGeometry x="730.25" y="407" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-134" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="74" y="230" width="700" height="360" as="geometry" />
+          <mxGeometry x="566.75" y="630.5" width="700" height="360" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-135" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;核心机制&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="349" y="210" width="150" height="40" as="geometry" />
+          <mxGeometry x="841.75" y="610.5" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
