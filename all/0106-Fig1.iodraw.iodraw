@@ -11,7 +11,7 @@
           <mxGeometry x="339" y="20" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="80" width="270" height="60" as="geometry" />
+          <mxGeometry x="90" y="80" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="80" width="270" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="190" y="95" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-9" value="战略统筹&lt;div&gt;与传导&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="200" y="105" width="80" height="35" as="geometry" />
+          <mxGeometry x="280" y="95" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
