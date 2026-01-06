@@ -409,7 +409,7 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-138" value="底线硬&lt;div&gt;约束强&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="664.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-139" value="底线管控优先" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KrMugSLsITzTBFDYzuU0-139" value="协作成本偏高" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="664.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
