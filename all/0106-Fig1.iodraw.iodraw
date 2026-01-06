@@ -70,7 +70,7 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-27" value="监测评估（反馈化）" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="445" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KrMugSLsITzTBFDYzuU0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="371" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
