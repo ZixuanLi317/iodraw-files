@@ -377,7 +377,7 @@
           <mxGeometry x="622" y="470.5" width="64.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-128" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;区域&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;组织执行&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
-          <mxGeometry x="570.5" y="498" width="69.5" height="25" as="geometry" />
+          <mxGeometry x="570.5" y="498" width="62" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-129" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;监督考核&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
           <mxGeometry x="622" y="498" width="60" height="25" as="geometry" />
