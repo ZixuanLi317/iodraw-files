@@ -424,6 +424,9 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-143" value="统筹能力受限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="661.5" y="651.5" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="KrMugSLsITzTBFDYzuU0-145" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.55;dx=17.19;flipH=1;notch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="414" y="600" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
