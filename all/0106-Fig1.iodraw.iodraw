@@ -281,7 +281,7 @@
           <mxGeometry x="-155" y="670.5" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-111" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=11.29;direction=north;notch=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="248.5" y="328.75" width="20" height="167.5" as="geometry" />
+          <mxGeometry x="248.5" y="328.75" width="25" height="167.5" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-94" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=28;" vertex="1" parent="1">
           <mxGeometry x="82" y="312.5" width="190" height="47.5" as="geometry" />
@@ -332,7 +332,7 @@
           <mxGeometry x="84" y="355.5" width="25" height="167.5" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-113" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;体检评估&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="59" y="438" width="70" height="28" as="geometry" />
+          <mxGeometry x="226" y="425.25" width="70" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
