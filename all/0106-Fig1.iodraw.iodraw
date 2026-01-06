@@ -52,6 +52,9 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KrMugSLsITzTBFDYzuU0-20" target="KrMugSLsITzTBFDYzuU0-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KrMugSLsITzTBFDYzuU0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="319" y="371" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-20" value="规&lt;div&gt;划&lt;/div&gt;&lt;div&gt;文&lt;/div&gt;&lt;div&gt;本&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327" y="310" width="30" height="70" as="geometry" />
         </mxCell>
@@ -60,9 +63,6 @@
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-23" value="组织载体（常设化）" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="327" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-25" value="议事协商（制度化）" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="347.5" width="120" height="35" as="geometry" />
