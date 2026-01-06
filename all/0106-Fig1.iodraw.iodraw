@@ -175,10 +175,10 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-60" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;行政协调&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85.5" y="408.5" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-61" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;指标约束&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KrMugSLsITzTBFDYzuU0-61" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;部门联动&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="149" y="408.5" width="55" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;纵向传导&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KrMugSLsITzTBFDYzuU0-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;机制探索&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="213.5" y="408.5" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
