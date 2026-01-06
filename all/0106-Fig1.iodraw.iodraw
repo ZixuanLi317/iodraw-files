@@ -362,13 +362,13 @@
           <mxGeometry x="619.75" y="385" width="64.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-123" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;相互反馈&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
-          <mxGeometry x="568.25" y="412.5" width="60" height="25" as="geometry" />
+          <mxGeometry x="565.5" y="412.5" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-124" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;多主体协商&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
           <mxGeometry x="614.87" y="412.5" width="70.25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-125" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;机制探索&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
-          <mxGeometry x="671.25" y="412.5" width="60" height="25" as="geometry" />
+          <mxGeometry x="673.5" y="412.5" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-126" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=28;" vertex="1" parent="1">
           <mxGeometry x="558.5" y="483" width="190" height="47.5" as="geometry" />
