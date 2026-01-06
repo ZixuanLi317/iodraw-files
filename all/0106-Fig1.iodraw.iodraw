@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="pzL8H4lQz9KiY8fKBiBZ">
-    <mxGraphModel dx="956" dy="147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,13 +155,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="319.5" width="90" height="73" as="geometry" />
+          <mxGeometry x="171" y="319.5" width="90" height="73" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-40" value="权&lt;span style=&quot;background-color: initial;&quot;&gt;威&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;来&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;源&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="184.75" y="302.5" width="64.5" height="25" as="geometry" />
+          <mxGeometry x="183.75" y="302.5" width="64.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;政策统筹&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="184.5" y="332.5" width="55" height="15" as="geometry" />
+          <mxGeometry x="188.5" y="332.5" width="55" height="15" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;指标约束&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184.5" y="355" width="55" height="15" as="geometry" />
