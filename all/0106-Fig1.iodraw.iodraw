@@ -118,6 +118,9 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-40" value="权&lt;span style=&quot;background-color: initial;&quot;&gt;威&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;来&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;源&lt;/span&gt;&lt;div&gt;（Authority）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="300" width="86" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KrMugSLsITzTBFDYzuU0-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
