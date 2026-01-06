@@ -328,7 +328,7 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-109" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;数字监管&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;" vertex="1" parent="1">
           <mxGeometry x="197.75" y="498" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-112" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=11.29;direction=north;notch=0;rotation=-181;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=none;gradientDirection=west;" vertex="1" parent="1">
+        <mxCell id="KrMugSLsITzTBFDYzuU0-112" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=11.29;direction=north;notch=0;rotation=-181;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=default;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="84" y="355.5" width="20" height="167.5" as="geometry" />
         </mxCell>
       </root>
