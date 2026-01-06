@@ -433,10 +433,13 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-147" value="区域规划有效性" style="text;whiteSpace=wrap;html=1;rotation=0;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="367.88" y="633.25" width="93.25" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="KrMugSLsITzTBFDYzuU0-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KrMugSLsITzTBFDYzuU0-148" target="KrMugSLsITzTBFDYzuU0-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-148" value="约束规则" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="389" y="657.25" width="50" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-149" value="约束规则" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="KrMugSLsITzTBFDYzuU0-149" value="治理平台化能力" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="367.88" y="686.5" width="92.12" height="16" as="geometry" />
         </mxCell>
       </root>
