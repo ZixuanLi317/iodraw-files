@@ -116,7 +116,12 @@
           <mxGeometry x="319" y="480" width="95" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KrMugSLsITzTBFDYzuU0-40" target="KrMugSLsITzTBFDYzuU0-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="354" />
+              <mxPoint x="150" y="394" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-40" value="权&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;威&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;来&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;源&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="296" width="29" height="115" as="geometry" />
@@ -125,12 +130,12 @@
           <mxGeometry x="180" y="295" width="80.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;指标约束&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（底线导向）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="335" width="80.5" height="35" as="geometry" />
+          <mxGeometry x="180" y="336" width="80.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-44" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;纵向传导&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（层级落实）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="376" width="80.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KrMugSLsITzTBFDYzuU0-40">
+        <mxCell id="KrMugSLsITzTBFDYzuU0-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrMugSLsITzTBFDYzuU0-40" target="KrMugSLsITzTBFDYzuU0-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129" y="364" as="sourcePoint" />
             <mxPoint x="190" y="404" as="targetPoint" />
