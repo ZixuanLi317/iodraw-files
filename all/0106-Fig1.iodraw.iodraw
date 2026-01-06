@@ -113,7 +113,7 @@
           <mxGeometry x="578.5" y="256" width="143" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-40" value="权&lt;div&gt;威&lt;/div&gt;&lt;div&gt;来&lt;/div&gt;&lt;div&gt;源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="84" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="84" y="300" width="26" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
