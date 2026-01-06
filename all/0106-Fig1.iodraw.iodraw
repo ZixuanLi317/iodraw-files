@@ -115,7 +115,7 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="480" width="95" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KrMugSLsITzTBFDYzuU0-40" target="KrMugSLsITzTBFDYzuU0-44">
+        <mxCell id="KrMugSLsITzTBFDYzuU0-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KrMugSLsITzTBFDYzuU0-40" target="KrMugSLsITzTBFDYzuU0-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-40" value="权&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;威&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;来&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;源&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
