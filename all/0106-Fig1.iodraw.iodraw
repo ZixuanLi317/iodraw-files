@@ -412,6 +412,18 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-139" value="协作成本偏高" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="664.5" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="KrMugSLsITzTBFDYzuU0-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="652" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMugSLsITzTBFDYzuU0-141" value="联邦制&lt;div&gt;分权治理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="664.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMugSLsITzTBFDYzuU0-142" value="地方自治&lt;div&gt;与协商&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="573" y="664.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMugSLsITzTBFDYzuU0-143" value="法定规划约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="663" y="664.5" width="80" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
