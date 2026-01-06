@@ -286,9 +286,6 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-95" value="权&lt;span style=&quot;background-color: initial;&quot;&gt;威&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;来&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;源&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145.5" y="300" width="64.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-97" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=18;" vertex="1" parent="1">
-          <mxGeometry x="92" y="322.5" width="58" height="27.5" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
