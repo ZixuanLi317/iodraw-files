@@ -58,8 +58,11 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-21" value="治&lt;div&gt;理&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327" y="410" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-23" value="单一制&lt;div&gt;国家治理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KrMugSLsITzTBFDYzuU0-23" value="组织载体（常设化）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390.5" y="300" width="109.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KrMugSLsITzTBFDYzuU0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.752;entryY=0.857;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KrMugSLsITzTBFDYzuU0-23" target="KrMugSLsITzTBFDYzuU0-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
