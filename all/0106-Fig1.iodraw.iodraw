@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="pzL8H4lQz9KiY8fKBiBZ">
-    <mxGraphModel dx="1095" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,7 +383,7 @@
           <mxGeometry x="618.75" y="498" width="65" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-130" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;司法&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;救济保障&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="498" width="65" height="25" as="geometry" />
+          <mxGeometry x="671" y="498" width="65" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-131" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=11.29;direction=north;notch=0;rotation=-180;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="554.75" y="355.5" width="25" height="167.5" as="geometry" />
