@@ -407,16 +407,16 @@
           <mxGeometry x="249" y="651.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="639" width="280" height="60" as="geometry" />
+          <mxGeometry x="490" y="639" width="265" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-141" value="协商稳&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;且&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;协调强&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="496" y="651.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="498" y="651.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-142" value="实施连续&lt;div&gt;且成本低&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="584" y="651.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="583" y="651.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-143" value="统筹能力受限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669.25" y="651.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="668.25" y="651.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-145" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.55;dx=17.19;flipH=1;notch=0;rotation=-90;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="361.51" y="567" width="106" height="20" as="geometry" />
