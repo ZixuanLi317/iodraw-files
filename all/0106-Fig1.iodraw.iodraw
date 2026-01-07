@@ -5,37 +5,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KrMugSLsITzTBFDYzuU0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="64" y="66" width="700" height="120" as="geometry" />
+          <mxGeometry x="64" y="83" width="700" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;制度环境&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-604" y="80.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74" y="108.5" width="280" height="60" as="geometry" />
+          <mxGeometry x="74" y="125.5" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="473" y="108.5" width="280" height="60" as="geometry" />
+          <mxGeometry x="473" y="125.5" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-7" value="单一制&lt;div&gt;国家治理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="84" y="121" width="80" height="35" as="geometry" />
+          <mxGeometry x="84" y="138" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-8" value="战略统筹&lt;div&gt;与传导&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="121" width="80" height="35" as="geometry" />
+          <mxGeometry x="174" y="138" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-9" value="底线管控优先" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="121" width="80" height="35" as="geometry" />
+          <mxGeometry x="264" y="138" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-10" value="联邦制&lt;div&gt;分权治理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="483" y="121" width="80" height="35" as="geometry" />
+          <mxGeometry x="483" y="138" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-11" value="地方自治&lt;div&gt;与协商&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="121" width="80" height="35" as="geometry" />
+          <mxGeometry x="573" y="138" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-12" value="法定规划约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="663" y="121" width="80" height="35" as="geometry" />
+          <mxGeometry x="663" y="138" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-14" value="治理结构差异&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;路径逻辑分化&lt;/div&gt;" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.61;dx=16.09;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="357" y="127.5" width="113.5" height="26" as="geometry" />
+          <mxGeometry x="357" y="144.5" width="113.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KrMugSLsITzTBFDYzuU0-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="64" y="220" width="700" height="360" as="geometry" />
