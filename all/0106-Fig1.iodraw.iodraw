@@ -600,8 +600,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="903" />
-              <mxPoint x="250" y="953" />
-              <mxPoint x="260" y="953" />
+              <mxPoint x="250" y="970" />
+              <mxPoint x="260" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -623,7 +623,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="1027" />
-              <mxPoint x="250" y="972" />
+              <mxPoint x="250" y="970" />
+              <mxPoint x="260" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -631,10 +632,10 @@
           <mxGeometry x="174.5" y="1005.5" width="64.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-25" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;详&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;细&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;规&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;划&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="259.75" y="905" width="20" height="130" as="geometry" />
+          <mxGeometry x="259.75" y="903" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-26" value="&lt;div&gt;村&lt;/div&gt;&lt;div&gt;庄&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;划&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="283" y="905" width="20" height="130" as="geometry" />
+          <mxGeometry x="283" y="903" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="319" y="789.5" width="41" height="240" as="geometry" />
