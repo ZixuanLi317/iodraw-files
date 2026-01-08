@@ -719,6 +719,9 @@
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-64" value="市镇综合&lt;div&gt;发展构想&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="568" y="1011.5" width="64.5" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-65" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="563" y="934.5" width="74" height="115.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
