@@ -656,6 +656,36 @@
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rUm-RGwWjC7dZaoCBBSY-26" target="rUm-RGwWjC7dZaoCBBSY-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-45" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.38;dx=26.63;flipH=1;notch=0;rotation=-90;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-15.39" y="870.11" width="263.28" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUm-RGwWjC7dZaoCBBSY-47" target="rUm-RGwWjC7dZaoCBBSY-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-47" value="国家级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="807" width="64.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUm-RGwWjC7dZaoCBBSY-49" target="rUm-RGwWjC7dZaoCBBSY-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-49" value="省级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="852.5" width="64.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUm-RGwWjC7dZaoCBBSY-51" target="rUm-RGwWjC7dZaoCBBSY-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-51" value="市级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="900" width="64.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUm-RGwWjC7dZaoCBBSY-53" target="rUm-RGwWjC7dZaoCBBSY-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-53" value="县级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="949.5" width="64.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-54" value="镇（乡）级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="999.5" width="64.5" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
