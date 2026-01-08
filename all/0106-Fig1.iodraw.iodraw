@@ -560,6 +560,9 @@
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-5" value="镇（乡）级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="74" y="989.5" width="64.5" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-12" value="国家级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="807" width="64.5" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
