@@ -594,7 +594,7 @@
           <mxGeometry x="174.5" y="985.5" width="64.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-25" value="国土空间&lt;div&gt;总体规划&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270.5" y="890" width="69.5" height="130" as="geometry" />
+          <mxGeometry x="256" y="886" width="69.5" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
