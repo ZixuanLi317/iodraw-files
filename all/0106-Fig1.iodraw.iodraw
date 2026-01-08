@@ -650,6 +650,9 @@
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="319" y="770" width="41" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rUm-RGwWjC7dZaoCBBSY-39" target="rUm-RGwWjC7dZaoCBBSY-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-39" value="专项&lt;div&gt;规划&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="777" width="31.5" height="33" as="geometry" />
         </mxCell>
@@ -746,7 +749,7 @@
           <mxGeometry x="411.24" y="804.5" width="96" height="46" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="399.24" y="746" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
