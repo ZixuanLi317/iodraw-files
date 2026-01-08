@@ -1,9 +1,15 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="pzL8H4lQz9KiY8fKBiBZ">
-    <mxGraphModel dx="1428" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KrMugSLsITzTBFDYzuU0-176" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="759.75" width="350.75" height="320.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rUm-RGwWjC7dZaoCBBSY-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="559.5" y="770" width="80" height="259.5" as="geometry" />
+        </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-63" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="563" y="869.5" width="74.5" height="59" as="geometry" />
         </mxCell>
@@ -539,9 +545,6 @@
         <mxCell id="KrMugSLsITzTBFDYzuU0-174" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;制度环境&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="602" y="108" width="96" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="KrMugSLsITzTBFDYzuU0-176" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="759.75" width="350.75" height="320.5" as="geometry" />
-        </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUm-RGwWjC7dZaoCBBSY-1" target="rUm-RGwWjC7dZaoCBBSY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -694,9 +697,6 @@
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-54" value="镇级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="682.39" y="989.5" width="64.5" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="rUm-RGwWjC7dZaoCBBSY-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="559.5" y="770" width="80" height="259.5" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-56" value="国家空间&lt;div&gt;发展战略&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="568" y="777" width="64.5" height="33" as="geometry" />
