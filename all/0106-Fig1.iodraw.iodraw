@@ -696,16 +696,13 @@
           <mxGeometry x="568" y="838.5" width="64.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-58" value="区域规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="568" y="885.5" width="64.5" height="33" as="geometry" />
+          <mxGeometry x="568" y="885.5" width="64.5" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-59" value="国土空间&lt;div&gt;总体规划&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="568" y="935" width="64.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-60" value="国土空间&lt;div&gt;总体规划&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="568" y="985" width="64.5" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="rUm-RGwWjC7dZaoCBBSY-61" value="区域规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="946.5" width="64.5" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
