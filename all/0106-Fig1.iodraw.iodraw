@@ -675,7 +675,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-49" value="&lt;div&gt;州级&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="682.39" y="842.5" width="64.5" height="25" as="geometry" />
+          <mxGeometry x="681.75" y="830" width="64.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUm-RGwWjC7dZaoCBBSY-51" target="rUm-RGwWjC7dZaoCBBSY-53">
           <mxGeometry relative="1" as="geometry" />
@@ -699,7 +699,7 @@
           <mxGeometry x="568" y="777" width="64.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-57" value="州发展规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="568" y="838.5" width="64.5" height="33" as="geometry" />
+          <mxGeometry x="568" y="824.5" width="64.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="rUm-RGwWjC7dZaoCBBSY-58" value="区域规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="568" y="885.5" width="64.5" height="14.5" as="geometry" />
