@@ -1524,7 +1524,7 @@
           <mxGeometry x="777.5" y="2469" width="196" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-393" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;arcSize=3;" vertex="1" parent="1">
-          <mxGeometry x="256" y="2215" width="490" height="125" as="geometry" />
+          <mxGeometry x="256" y="2215" width="490" height="145" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-394" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Outputs and goal&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=20;fontColor=default;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="328" y="2210" width="336" height="40" as="geometry" />
