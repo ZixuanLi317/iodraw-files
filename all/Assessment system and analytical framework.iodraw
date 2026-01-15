@@ -1236,7 +1236,7 @@
           <mxGeometry x="1405.5" y="3023" width="261" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-233" value="&lt;div&gt;Couplings among units and across layers.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1416" y="2614.5" width="331" height="32.5" as="geometry" />
+          <mxGeometry x="1403" y="3046.5" width="331" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
