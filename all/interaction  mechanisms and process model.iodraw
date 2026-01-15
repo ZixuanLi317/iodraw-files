@@ -381,7 +381,7 @@
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-22" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Multi-layer Network&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;Coupling Structure&lt;br&gt;(edges + interaction attributes)&lt;br&gt;direction/sign • strength • lag • uncertainty provenance" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1380" y="150" width="360" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-23" value="Interaction Dynamics&#xa;(mechanisms operating on states via couplings)&#xa;feedback • cross-scale propagation/constraints • nonlinearity/uncertainty" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Interaction Dynamics&lt;/b&gt;&lt;/font&gt;&lt;br&gt;(mechanisms operating on states via couplings)&lt;br&gt;feedback • cross-scale propagation/constraints • nonlinearity/uncertainty" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1050" y="360" width="360" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-24" value="Structural Emergence&#xa;(topology + spatial organisation)&#xa;clusters • bottlenecks • modularity • spatial concentration" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
