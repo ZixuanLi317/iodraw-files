@@ -1565,7 +1565,7 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-405" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Mechanism commitments preserved in synthesis&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="261.75" y="2452" width="300.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-406" value="&lt;b&gt;Goal: decision-relevant synthesis for UGS planning and governance&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-406" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Mechanism commitments preserved in synthesis&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="259.75" y="2335" width="481" height="29" as="geometry" />
         </mxCell>
       </root>
