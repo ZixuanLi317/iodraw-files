@@ -1556,7 +1556,7 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-402" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Plausible pathways and mechanism tests&lt;/font&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="2255.1" width="149" height="29.8" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-403" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Scenario and robustness evaluation&lt;/font&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-403" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Robustness profiles and trade-offs under uncertainty&lt;/font&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="586" y="2255.1" width="149" height="29.8" as="geometry" />
         </mxCell>
       </root>
