@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" modified="2026-01-15T00:00:00.000Z" agent="GPT-5.2" version="24.7.8">
+  <diagram id="UGS_SETS_ProcessLoop" name="Fig5_ProcessLoop_Rebuild">
+    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- Nodes -->
+        <mxCell id="10" value="External Drivers &amp; Disturbances&#10;(climate extremes, demographic change, policy shocks, platform availability shocks)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="280" height="90" as="geometry" />
+        </mxCell>
+
+        <mxCell id="20" value="Adaptive Governance &amp; Technology Interventions&#10;(policy learning, investment allocation, platform rules, operational reconfiguration)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="320" height="100" as="geometry" />
+        </mxCell>
+
+        <mxCell id="30" value="UGS–SETS Units&#10;Unit Conditions (S/E/T)&#10;(observable condition indicators and capacity proxies)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="300" height="95" as="geometry" />
+        </mxCell>
+
+        <mxCell id="40" value="Multilayer Coupling Structure&#10;(edges + interaction attributes)&#10;direction/sign • strength • lag • uncertainty provenance" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="360" height="95" as="geometry" />
+        </mxCell>
+
+        <mxCell id="50" value="Interaction Dynamics&#10;(mechanisms operating on states via couplings)&#10;feedback • cross-scale propagation/constraints • nonlinearity/uncertainty" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="360" height="110" as="geometry" />
+        </mxCell>
+
+        <mxCell id="60" value="Structural Emergence&#10;(topology + spatial organisation)&#10;clusters • bottlenecks • modularity • spatial concentration" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="505" width="360" height="95" as="geometry" />
+        </mxCell>
+
+        <mxCell id="70" value="Evaluated Outcomes&#10;(services, resilience, equity)&#10;performance distribution • robustness loss • equity gaps" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="790" y="505" width="230" height="95" as="geometry" />
+        </mxCell>
+
+        <!-- Edges -->
+        <mxCell id="101" value="disturbance &amp; constraints" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="10" target="30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="102" value="disrupts dependencies / observability" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="10" target="40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="103" value="policy/market shocks" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="10" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="104" value="unit conditions (S/E/T proxies)" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="30" target="50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="105" value="couplings + interaction attributes" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="40" target="50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="106" value="co-evolution over time&#10;(updates unit conditions)" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;dashed=0;" edge="1" parent="1" source="50" target="30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+
+        <mxCell id="107" value="repeated interactions generate structure" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="50" target="60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="108" value="structural patterns shape evaluated outcomes" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="60" target="70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="109" value="learning, accountability, and prioritisation" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="70" target="20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="110" value="investment / operations / maintenance allocation" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="20" target="30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <mxCell id="111" value="reconfigures platform rules &amp; cross-unit coordination&#10;(updates couplings and dependencies)" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="20" target="40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
