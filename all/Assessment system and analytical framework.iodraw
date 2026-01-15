@@ -1266,7 +1266,7 @@
           <mxGeometry x="1412.5" y="3216.5" width="187.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-243" value="&lt;h3 style=&quot;line-height: 100%; margin-top: 0px; margin-bottom: 0px;&quot; data-start=&quot;733&quot; data-end=&quot;767&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Resilience outcomes&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px; font-size: 11px;&quot;&gt;&lt;li&gt;Robustness loss under shocks&lt;/li&gt;&lt;li&gt;Cascading disruption risk&lt;/li&gt;&lt;li&gt;······&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1413" y="3210" width="184" height="70" as="geometry" />
+          <mxGeometry x="1413" y="3210" width="177" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
