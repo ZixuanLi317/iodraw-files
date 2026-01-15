@@ -509,7 +509,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-51" value="unit conditions (S/E/T proxies)" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-43" target="XPv8OMpyc-NgbJ4rvPUP-45">
+        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-51" value="" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-43" target="XPv8OMpyc-NgbJ4rvPUP-45">
           <mxGeometry x="-0.1064" y="-89" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -517,7 +517,7 @@
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-52" value="couplings + interaction attributes" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-44" target="XPv8OMpyc-NgbJ4rvPUP-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-53" value="co-evolution over time&#xa;(updates unit conditions)" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;dashed=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-45" target="XPv8OMpyc-NgbJ4rvPUP-43">
+        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-53" value="co-evolution" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;dashed=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-45" target="XPv8OMpyc-NgbJ4rvPUP-43">
           <mxGeometry x="0.1064" y="-61" relative="1" as="geometry">
             <mxPoint x="189" y="-605" as="targetPoint" />
             <mxPoint as="offset" />
