@@ -373,7 +373,7 @@
           <mxGeometry x="1130" y="-200" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Adaptive Governance&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;amp; Technology Interventions&lt;/font&gt;&lt;/b&gt;&lt;br&gt;(policy learning, investment allocation, platform rules, operational reconfiguration)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1505" y="-210" width="320" height="100" as="geometry" />
+          <mxGeometry x="1420" y="-210" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-21" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;UGS–SETS Units&lt;br&gt;Unit Conditions (S/E/T)&lt;/b&gt;&lt;br&gt;&lt;i&gt;(observable condition indicators and capacity proxies)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1130" y="150" width="200" height="95" as="geometry" />
