@@ -1502,7 +1502,7 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-382" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Stress tests&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="597.75" y="2132" width="131.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-383" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Causal pathway models&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-383" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Portfolio comparison&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="598.5" y="2162" width="131.5" height="20" as="geometry" />
         </mxCell>
       </root>
