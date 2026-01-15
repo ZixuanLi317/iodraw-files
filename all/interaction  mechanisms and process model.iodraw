@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="_7yNoZWo7T30EIfcQOJN" name="第 1 页">
-    <mxGraphModel dx="1575" dy="3144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1446" dy="3005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -487,7 +487,7 @@
           <mxGeometry x="379" y="-710" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;forcing&lt;/b&gt;&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;whiteSpace=wrap;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-41" target="XPv8OMpyc-NgbJ4rvPUP-43">
-          <mxGeometry x="0.0183" y="29" relative="1" as="geometry">
+          <mxGeometry y="-29" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -540,7 +540,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-58" value="reconfiguration" style="endArrow=block;html=1;rounded=0;whiteSpace=wrap;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontSize=12;fontStyle=1" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-42" target="XPv8OMpyc-NgbJ4rvPUP-44">
-          <mxGeometry x="0.1429" y="-49" relative="1" as="geometry">
+          <mxGeometry x="0.25" y="41" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
