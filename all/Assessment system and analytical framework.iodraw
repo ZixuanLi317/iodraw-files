@@ -1230,7 +1230,7 @@
           <mxGeometry x="50.661874999999995" y="23.795774647887324" width="23.028125" height="23.028125" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-231" value="&lt;div&gt;Couplings among units and across layers.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1416" y="2614.5" width="331" height="32.5" as="geometry" />
+          <mxGeometry x="1406" y="2980" width="331" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
