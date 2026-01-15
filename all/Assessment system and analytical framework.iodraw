@@ -1079,10 +1079,10 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-172" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1406" y="2630" width="170" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-173" value="&lt;b&gt;Intra-layer edges&lt;/b&gt;&lt;div&gt;&lt;b&gt;(within-layer coupling)&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-173" value="&lt;b&gt;Intra-layer edges&lt;/b&gt;&lt;div&gt;&lt;b&gt;(within-layer coupling)&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="1408.5" y="2627.5" width="165" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-174" value="&lt;b&gt;Inter-layer edges&lt;/b&gt;&lt;div&gt;&lt;b&gt;(cross-dimensional coupling)&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-174" value="&lt;b&gt;Inter-layer edges&lt;/b&gt;&lt;div&gt;&lt;b&gt;(cross-dimensional coupling)&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="1585.5" y="2627.5" width="174.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-179" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
