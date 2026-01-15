@@ -422,8 +422,13 @@
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-33" value="structural patterns shape evaluated outcomes" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-24" target="XPv8OMpyc-NgbJ4rvPUP-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-34" value="learning, accountability, and prioritisation" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-25" target="XPv8OMpyc-NgbJ4rvPUP-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-34" value="learning, accountability, and prioritisation" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-25" target="XPv8OMpyc-NgbJ4rvPUP-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2150" y="628" />
+              <mxPoint x="2150" y="-120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-35" value="investment / operations / maintenance allocation" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-20" target="XPv8OMpyc-NgbJ4rvPUP-21">
           <mxGeometry relative="1" as="geometry">
