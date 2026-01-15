@@ -1494,7 +1494,7 @@
           <mxGeometry x="430" y="1789" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-377" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Uncertainty provenance&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1789.18" width="90" height="23" as="geometry" />
+          <mxGeometry x="470" y="1786.18" width="90" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
