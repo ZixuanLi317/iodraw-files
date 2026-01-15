@@ -1070,7 +1070,7 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-169" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Interactions / Edge attributes&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;fontColor=default;align=left;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1409" y="2570" width="261" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-170" value="&lt;div&gt;Couplings among units and across layers; report a minimum set of interaction attributes.&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-170" value="&lt;div&gt;Couplings among units and across layers; report a minimum set of interaction attributes&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1409" y="2597.5" width="331" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-171" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;" vertex="1" parent="1">
