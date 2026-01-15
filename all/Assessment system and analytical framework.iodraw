@@ -1550,7 +1550,7 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-400" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;For&amp;nbsp;&lt;i&gt;“What if”&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="586" y="2238" width="140" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-401" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Structural analytics&lt;/font&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-401" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Diagnosis and leverage points&lt;/font&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261.5" y="2255.1" width="149" height="29.8" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-402" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Process-explicit modelling&lt;/font&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
