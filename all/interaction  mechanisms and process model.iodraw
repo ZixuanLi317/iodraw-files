@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="_7yNoZWo7T30EIfcQOJN" name="第 1 页">
-    <mxGraphModel dx="2059" dy="2010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3007" dy="2657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -394,10 +394,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-27" value="disrupts dependencies / observability" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-19" target="XPv8OMpyc-NgbJ4rvPUP-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="-45" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-28" value="policy/market shocks" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-19" target="XPv8OMpyc-NgbJ4rvPUP-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.0436" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-29" value="unit conditions (S/E/T proxies)" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-21" target="XPv8OMpyc-NgbJ4rvPUP-23">
           <mxGeometry relative="1" as="geometry" />
