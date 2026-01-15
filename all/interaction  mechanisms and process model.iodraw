@@ -548,7 +548,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-58" value="reconfigures platform rules &amp; cross-unit coordination&#xa;(updates couplings and dependencies)" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-42" target="XPv8OMpyc-NgbJ4rvPUP-44">
+        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-58" value="reconfiguration" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-42" target="XPv8OMpyc-NgbJ4rvPUP-44">
           <mxGeometry x="0.0018" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="669" y="-1210" />
