@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="m1RTSPT_75vWHLUcorhi" name="第 1 页">
-    <mxGraphModel dx="2173" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2039" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1379,7 +1379,7 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-311" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot;&gt;T&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#729fb8;" vertex="1" parent="1">
           <mxGeometry x="356.33" y="1729.9950000000001" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-329" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Observable condition indicators and capacity proxies at the unit scale.&lt;/font&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-329" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Indicators and capacity proxies (S/E/T)&lt;/font&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="267" y="1755" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-337" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Structural emergence&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
