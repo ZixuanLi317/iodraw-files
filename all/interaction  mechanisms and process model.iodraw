@@ -373,7 +373,7 @@
           <mxGeometry x="1040" y="-90" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-20" value="Adaptive Governance &amp; Technology Interventions&#xa;(policy learning, investment allocation, platform rules, operational reconfiguration)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="-95" width="320" height="100" as="geometry" />
+          <mxGeometry x="1775" y="-95" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-21" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;UGS–SETS Units&lt;br&gt;Unit Conditions (S/E/T)&lt;/b&gt;&lt;br&gt;&lt;i&gt;(observable condition indicators and capacity proxies)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1030" y="180" width="300" height="95" as="geometry" />
@@ -385,7 +385,7 @@
           <mxGeometry x="1370" y="320" width="360" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-24" value="Structural Emergence&#xa;(topology + spatial organisation)&#xa;clusters • bottlenecks • modularity • spatial concentration" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="485" width="360" height="95" as="geometry" />
+          <mxGeometry x="1370" y="580" width="360" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-25" value="Evaluated Outcomes&#xa;(services, resilience, equity)&#xa;performance distribution • robustness loss • equity gaps" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1820" y="485" width="230" height="95" as="geometry" />
@@ -429,7 +429,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-36" value="reconfigures platform rules &amp; cross-unit coordination&#xa;(updates couplings and dependencies)" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-20" target="XPv8OMpyc-NgbJ4rvPUP-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1935" y="70" />
+              <mxPoint x="1550" y="70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
