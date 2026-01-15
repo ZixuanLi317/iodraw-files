@@ -441,7 +441,7 @@
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-35" value="investment / operations / maintenance allocation" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-20" target="XPv8OMpyc-NgbJ4rvPUP-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1665" y="60" />
+              <mxPoint x="1580" y="60" />
               <mxPoint x="1230" y="60" />
             </Array>
           </mxGeometry>
