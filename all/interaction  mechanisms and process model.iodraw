@@ -382,7 +382,7 @@
           <mxGeometry x="1530" y="100" width="360" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-23" value="Interaction Dynamics&#xa;(mechanisms operating on states via couplings)&#xa;feedback • cross-scale propagation/constraints • nonlinearity/uncertainty" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="390" width="360" height="110" as="geometry" />
+          <mxGeometry x="1360" y="390" width="360" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-24" value="Structural Emergence&#xa;(topology + spatial organisation)&#xa;clusters • bottlenecks • modularity • spatial concentration" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1370" y="580" width="360" height="95" as="geometry" />
