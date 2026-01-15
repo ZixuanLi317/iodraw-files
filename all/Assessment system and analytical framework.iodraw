@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="m1RTSPT_75vWHLUcorhi" name="第 1 页">
-    <mxGraphModel dx="2148" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2681" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1083,7 +1083,7 @@
           <mxGeometry x="1408.5" y="2632.5" width="165" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-174" value="&lt;b&gt;Inter-layer edges&lt;/b&gt;&lt;div&gt;&lt;b&gt;(cross-dimensional coupling)&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1585.5" y="2632.5" width="165" height="25" as="geometry" />
+          <mxGeometry x="1585.5" y="2632.5" width="174.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
