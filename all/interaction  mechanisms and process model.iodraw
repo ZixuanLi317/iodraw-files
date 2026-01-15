@@ -376,7 +376,7 @@
           <mxGeometry x="1775" y="-170" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-21" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;UGS–SETS Units&lt;br&gt;Unit Conditions (S/E/T)&lt;/b&gt;&lt;br&gt;&lt;i&gt;(observable condition indicators and capacity proxies)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="180" width="200" height="95" as="geometry" />
+          <mxGeometry x="1115" y="180" width="200" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-22" value="Multilayer Coupling Structure&#xa;(edges + interaction attributes)&#xa;direction/sign • strength • lag • uncertainty provenance" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1530" y="100" width="360" height="95" as="geometry" />
@@ -388,7 +388,7 @@
           <mxGeometry x="1370" y="580" width="360" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-25" value="Evaluated Outcomes&#xa;(services, resilience, equity)&#xa;performance distribution • robustness loss • equity gaps" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="485" width="230" height="95" as="geometry" />
+          <mxGeometry x="1838" y="580" width="230" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-26" value="disturbance &amp; constraints" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-19" target="XPv8OMpyc-NgbJ4rvPUP-21">
           <mxGeometry relative="1" as="geometry" />
