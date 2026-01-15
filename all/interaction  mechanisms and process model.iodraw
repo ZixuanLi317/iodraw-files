@@ -391,7 +391,9 @@
           <mxGeometry x="1838" y="580" width="230" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-26" value="disturbance &amp; constraints" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-19" target="XPv8OMpyc-NgbJ4rvPUP-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.3171" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-27" value="disrupts dependencies / observability" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-19" target="XPv8OMpyc-NgbJ4rvPUP-22">
           <mxGeometry relative="1" as="geometry">
@@ -434,8 +436,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1650" />
-              <mxPoint x="1180" />
-              <mxPoint x="1180" y="228" />
+              <mxPoint x="1050" />
+              <mxPoint x="1050" y="228" />
             </Array>
           </mxGeometry>
         </mxCell>
