@@ -375,7 +375,7 @@
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-20" value="Adaptive Governance &amp; Technology Interventions&#xa;(policy learning, investment allocation, platform rules, operational reconfiguration)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1720" y="20" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-21" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;UGS–SETS Units&lt;br&gt;Unit Conditions (S/E/T)&lt;/b&gt;&lt;br&gt;(observable condition indicators and capacity proxies)" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-21" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;UGS–SETS Units&lt;br&gt;Unit Conditions (S/E/T)&lt;/b&gt;&lt;br&gt;&lt;i&gt;(observable condition indicators and capacity proxies)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1030" y="180" width="300" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-22" value="Multilayer Coupling Structure&#xa;(edges + interaction attributes)&#xa;direction/sign • strength • lag • uncertainty provenance" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
