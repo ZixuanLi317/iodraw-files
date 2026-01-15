@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="m1RTSPT_75vWHLUcorhi" name="第 1 页">
-    <mxGraphModel dx="1715" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2344" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1103,7 +1103,7 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-178" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;S&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e88671;" vertex="1" parent="1">
           <mxGeometry x="1519" y="2680" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-181" value="&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px;&quot;&gt;&lt;li&gt;Cross-unit coordination and resource sharing&lt;/li&gt;&lt;li&gt;Visitor/user flows between units&lt;/li&gt;&lt;li&gt;Policy spillovers across districts&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-181" value="&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px; font-size: 11px;&quot;&gt;&lt;li&gt;Cross-unit coordination and resource sharing&lt;/li&gt;&lt;li&gt;Visitor/user flows between units&lt;/li&gt;&lt;li&gt;Policy spillovers across districts&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1416" y="2690" width="150" height="120" as="geometry" />
         </mxCell>
       </root>
