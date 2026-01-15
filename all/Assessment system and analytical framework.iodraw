@@ -1451,8 +1451,8 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-356" value="&lt;div style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;ul style=&quot;line-height: 120%; padding-bottom: 0px;&quot;&gt;&lt;li&gt;Perturb coupling assumptions (strength/lag/reliability)&lt;/li&gt;&lt;li&gt;Compare intervention portfolios and trade-offs&lt;/li&gt;&lt;li&gt;Report robustness profiles for resilience and equity outcomes&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="561.25" y="1898.9" width="178.75" height="100.6" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-357" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=25.23;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="1825" width="106.88" height="45" as="geometry" />
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-357" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.54;dx=11.57;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1840" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
