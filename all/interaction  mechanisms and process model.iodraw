@@ -390,8 +390,10 @@
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-25" value="Evaluated Outcomes&#xa;(services, resilience, equity)&#xa;performance distribution • robustness loss • equity gaps" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1838" y="580" width="230" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-26" value="disturbance &amp; constraints" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-19" target="XPv8OMpyc-NgbJ4rvPUP-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-26" value="disturbance &amp; constraints" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-19" target="XPv8OMpyc-NgbJ4rvPUP-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-27" value="disrupts dependencies / observability" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-19" target="XPv8OMpyc-NgbJ4rvPUP-22">
           <mxGeometry relative="1" as="geometry">
@@ -444,7 +446,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2020" y="-160" />
-              <mxPoint x="2020" y="148" />
+              <mxPoint x="2020" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
