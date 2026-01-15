@@ -1104,7 +1104,7 @@
           <mxGeometry x="1519" y="2677" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-181" value="&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px; font-size: 11px;&quot;&gt;&lt;li&gt;Cross-unit coordination and resource sharing&lt;/li&gt;&lt;li&gt;Visitor flows between units&lt;/li&gt;&lt;li&gt;······&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1412" y="2697" width="154" height="73" as="geometry" />
+          <mxGeometry x="1412" y="2693" width="154" height="73" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-183" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1412" y="2778" width="158" height="97" as="geometry" />
@@ -1179,7 +1179,7 @@
           <mxGeometry x="1697.5" y="2780" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-210" value="&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;S→T :&lt;/b&gt;&amp;nbsp;Prioritisation and platform governance&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;T→E :&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; operation shaping ecological condition&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1589" y="2694" width="161" height="73" as="geometry" />
+          <mxGeometry x="1589" y="2691" width="161" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
