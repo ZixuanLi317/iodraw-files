@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="m1RTSPT_75vWHLUcorhi" name="第 1 页">
-    <mxGraphModel dx="2759" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1450,6 +1450,9 @@
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-356" value="&lt;div style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;ul style=&quot;line-height: 120%; padding-bottom: 0px;&quot;&gt;&lt;li&gt;Perturb coupling assumptions (strength/lag/reliability)&lt;/li&gt;&lt;li&gt;Compare intervention portfolios and trade-offs&lt;/li&gt;&lt;li&gt;Report robustness profiles for resilience and equity outcomes&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="561.25" y="1898.9" width="178.75" height="100.6" as="geometry" />
+        </mxCell>
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-357" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.45;dx=25.23;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1825" width="106.88" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
