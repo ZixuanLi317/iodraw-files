@@ -1179,7 +1179,7 @@
           <mxGeometry x="1697.5" y="2780" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-210" value="&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px; font-size: 11px;&quot;&gt;&lt;li&gt;Cross-unit coordination and resource sharing&lt;/li&gt;&lt;li&gt;Visitor flows between units&lt;/li&gt;&lt;li&gt;······&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1422" y="2707" width="154" height="73" as="geometry" />
+          <mxGeometry x="1591" y="2697" width="154" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
