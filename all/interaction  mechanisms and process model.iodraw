@@ -373,7 +373,7 @@
           <mxGeometry x="1130" y="-195" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-20" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Adaptive Governance&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;amp; Technology Interventions&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;(&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;e.g.,&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;policy learning, investment allocation, platform rules, operational reconfiguration)&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="-195" width="320" height="80" as="geometry" />
+          <mxGeometry x="1420" y="-195" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-21" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;UGS–SETS Units&lt;br&gt;Unit Conditions (S/E/T)&lt;/b&gt;&lt;br&gt;&lt;i&gt;(observable condition indicators and capacity proxies)&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1130" y="152.5" width="200" height="90" as="geometry" />
