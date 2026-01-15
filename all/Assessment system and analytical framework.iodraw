@@ -1437,7 +1437,7 @@
           <mxGeometry x="417.5" y="1880.2" width="149" height="29.8" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-352" value="&lt;div style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;ul style=&quot;line-height: 120%; padding-bottom: 0px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Unevenness of unit conditions (S/E/T)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Coupling structure (clusters, bottlenecks, mismatch)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Distributional summaries (who receives what, where)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="246.25" y="1911.4" width="170.75" height="100.6" as="geometry" />
+          <mxGeometry x="400.25" y="1898.9" width="170.75" height="100.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
