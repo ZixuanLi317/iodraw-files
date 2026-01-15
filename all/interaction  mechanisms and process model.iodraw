@@ -529,7 +529,7 @@
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-55" value="" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-46" target="XPv8OMpyc-NgbJ4rvPUP-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-56" value="learning, accountability, and prioritisation" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-47" target="XPv8OMpyc-NgbJ4rvPUP-42">
+        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-56" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;learning&lt;/font&gt;" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-47" target="XPv8OMpyc-NgbJ4rvPUP-42">
           <mxGeometry x="-0.1046" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="649" y="-447" />
