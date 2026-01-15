@@ -1130,6 +1130,9 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-189" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;T&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#729fb8;" vertex="1" parent="1">
           <mxGeometry x="1519" y="2886" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-191" value="&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px; font-size: 11px;&quot;&gt;&lt;li&gt;Cross-unit coordination and resource sharing&lt;/li&gt;&lt;li&gt;Visitor flows between units&lt;/li&gt;&lt;li&gt;Policy spillovers across districts&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="2790" width="154" height="73" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
