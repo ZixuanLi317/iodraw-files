@@ -495,12 +495,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-49" value="disrupts dependencies / observability" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-41" target="XPv8OMpyc-NgbJ4rvPUP-44">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="XPv8OMpyc-NgbJ4rvPUP-49" value="disruption" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-41" target="XPv8OMpyc-NgbJ4rvPUP-44">
+          <mxGeometry x="-0.0007" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="189" y="-1100" />
               <mxPoint x="459" y="-1100" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-50" value="policy/market shocks" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-41" target="XPv8OMpyc-NgbJ4rvPUP-42">
