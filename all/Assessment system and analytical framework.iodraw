@@ -1398,7 +1398,7 @@
           <mxGeometry x="426.34" y="1775" width="146" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-335" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="1756.6" width="146" height="43.4" as="geometry" />
+          <mxGeometry x="264" y="1756.6" width="148" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
