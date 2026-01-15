@@ -1191,7 +1191,7 @@
           <mxGeometry x="1400" y="3030" width="360" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-227" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1409" y="3091" width="261" height="109" as="geometry" />
+          <mxGeometry x="1409" y="3080" width="261" height="109" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-215" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="DaFFgc0UVLaM9YUzNTti-227" source="DaFFgc0UVLaM9YUzNTti-219" target="DaFFgc0UVLaM9YUzNTti-221">
           <mxGeometry relative="1" as="geometry" />
@@ -1239,7 +1239,7 @@
           <mxGeometry x="1406" y="3048.5" width="331" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-234" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="3076" width="263.25" height="134" as="geometry" />
+          <mxGeometry x="1490" y="3076" width="263.25" height="114" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-235" value="&lt;b&gt;Structural emergence&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1492" y="3073" width="165" height="25" as="geometry" />
