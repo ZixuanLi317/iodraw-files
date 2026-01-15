@@ -1245,13 +1245,13 @@
           <mxGeometry x="1492" y="3073" width="165" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-236" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1495.5" y="3096.5" width="123" height="103.5" as="geometry" />
+          <mxGeometry x="1495.5" y="3096.5" width="123" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-237" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1624" y="3096.5" width="123" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-238" value="&lt;h3 style=&quot;line-height: 100%; margin-top: 0px; margin-bottom: 0px;&quot; data-start=&quot;733&quot; data-end=&quot;767&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Topological organisation&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px; font-size: 11px;&quot;&gt;&lt;li&gt;Bottlenecks&lt;/li&gt;&lt;li&gt;Modularity&lt;/li&gt;&lt;li&gt;······&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1497" y="3092.5" width="113" height="110" as="geometry" />
+          <mxGeometry x="1497" y="3092.5" width="113" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-239" value="&lt;h3 style=&quot;line-height: 100%; margin-top: 0px; margin-bottom: 0px;&quot; data-start=&quot;733&quot; data-end=&quot;767&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Spatial organisation&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px; font-size: 11px;&quot;&gt;&lt;li&gt;Canopy / vegetation structure (cover proxy)&lt;/li&gt;&lt;li&gt;Habitat condition and fragmentation proxy&lt;/li&gt;&lt;li&gt;Soil / substrate condition proxy&lt;/li&gt;&lt;li&gt;······&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1624" y="3093.25" width="123" height="110" as="geometry" />
