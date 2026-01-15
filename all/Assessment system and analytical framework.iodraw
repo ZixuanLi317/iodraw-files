@@ -954,7 +954,7 @@
           <mxGeometry x="1519" y="2470" width="500" height="695" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-126" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Unit-Level Conditions (S/E/T)&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;fontColor=default;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1584.5" y="2479" width="371" height="40" as="geometry" />
+          <mxGeometry x="1501" y="2470" width="269" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
