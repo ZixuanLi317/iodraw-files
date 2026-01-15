@@ -1257,7 +1257,7 @@
           <mxGeometry x="1629.25" y="3092.5" width="123" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-240" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1407" y="3196" width="263.25" height="114" as="geometry" />
+          <mxGeometry x="1407" y="3196" width="343" height="114" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-241" value="&lt;b&gt;Structural emergence&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1409" y="3193" width="165" height="25" as="geometry" />
