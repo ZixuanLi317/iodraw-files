@@ -385,10 +385,10 @@
           <mxGeometry x="1130" y="360" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Structural Emergence&lt;/b&gt;&lt;/font&gt;&lt;br&gt;(topology + spatial organisation)&lt;br&gt;clusters • bottlenecks • modularity • spatial concentration" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="550" width="200" height="95" as="geometry" />
+          <mxGeometry x="1130" y="550" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-25" value="&lt;b&gt;Evaluated Outcomes&lt;/b&gt;&lt;br&gt;(services, resilience, equity)&lt;br&gt;performance distribution • robustness loss • equity gaps" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="550" width="230" height="95" as="geometry" />
+          <mxGeometry x="1460" y="550" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XPv8OMpyc-NgbJ4rvPUP-26" value="disturbance &amp; constraints" style="endArrow=block;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;whiteSpace=wrap;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPv8OMpyc-NgbJ4rvPUP-19" target="XPv8OMpyc-NgbJ4rvPUP-21">
           <mxGeometry relative="1" as="geometry">
