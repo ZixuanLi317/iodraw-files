@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="m1RTSPT_75vWHLUcorhi" name="第 1 页">
-    <mxGraphModel dx="2616" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1338,7 +1338,7 @@
           <mxGeometry x="264" y="1700" width="140" height="28" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-308" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="265" y="1725" width="20" height="82" as="geometry" />
+          <mxGeometry x="265" y="1728" width="20" height="82" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-309" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot;&gt;S&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e88671;" vertex="1" parent="DaFFgc0UVLaM9YUzNTti-308">
           <mxGeometry width="20" height="20" as="geometry" />
@@ -1392,13 +1392,13 @@
           <mxGeometry x="661.63" y="1765" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-310" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot;&gt;E&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#80a08b;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1724.9975" width="20" height="20" as="geometry" />
+          <mxGeometry x="310" y="1727.9975" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-311" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 12px;&quot;&gt;T&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#729fb8;" vertex="1" parent="1">
-          <mxGeometry x="356.33" y="1724.9950000000001" width="20" height="20" as="geometry" />
+          <mxGeometry x="356.33" y="1727.9950000000001" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-329" value="&lt;div&gt;Observable condition indicators and capacity proxies at the unit scale.&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="1750" width="380" height="30" as="geometry" />
+          <mxGeometry x="264" y="1750" width="146" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
