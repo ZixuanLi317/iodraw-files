@@ -1251,7 +1251,7 @@
           <mxGeometry x="1406" y="3048.5" width="354" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-234" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="3076" width="263.25" height="104" as="geometry" />
+          <mxGeometry x="1490" y="3086" width="263.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-235" value="&lt;b&gt;Structural emergence&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1492" y="3079" width="165" height="25" as="geometry" />
@@ -1269,22 +1269,22 @@
           <mxGeometry x="1624" y="3098" width="123" height="53.75" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-240" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1407" y="3186" width="346" height="100" as="geometry" />
+          <mxGeometry x="1407" y="3191" width="346" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-241" value="&lt;b&gt;Evaluated outcomes&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1408.5" y="3183" width="241" height="25" as="geometry" />
+          <mxGeometry x="1408.5" y="3188" width="241" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-242" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1412.5" y="3206.5" width="152" height="74" as="geometry" />
+          <mxGeometry x="1412.5" y="3211.5" width="152" height="74" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-243" value="&lt;h3 style=&quot;line-height: 100%; margin-top: 0px; margin-bottom: 0px;&quot; data-start=&quot;733&quot; data-end=&quot;767&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Resilience outcomes&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px; font-size: 11px; line-height: 100%;&quot;&gt;&lt;li&gt;Robustness loss under shocks&lt;/li&gt;&lt;li&gt;Cascading disruption risk&lt;/li&gt;&lt;li&gt;······&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1413" y="3200" width="157" height="70" as="geometry" />
+          <mxGeometry x="1413" y="3205" width="157" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-244" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="3206.5" width="177" height="74" as="geometry" />
+          <mxGeometry x="1570" y="3211.5" width="177" height="74" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-245" value="&lt;h3 style=&quot;line-height: 100%; margin-top: 0px; margin-bottom: 0px;&quot; data-start=&quot;733&quot; data-end=&quot;767&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;&lt;i&gt;Equity&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;&amp;nbsp;outcomes&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ul style=&quot;padding-left: 20px; margin-top: 6px; margin-bottom: 0px; font-size: 11px; line-height: 95%;&quot;&gt;&lt;li&gt;Vulnerability-weighted&amp;nbsp;service shortfall&lt;/li&gt;&lt;li&gt;Technology-mediated inequity risk&lt;/li&gt;&lt;li&gt;······&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1572" y="3200" width="175" height="70" as="geometry" />
+          <mxGeometry x="1572" y="3205" width="175" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-289" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="571" y="1702" width="169" height="110" as="geometry" />
