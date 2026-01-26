@@ -1472,8 +1472,8 @@
         <mxCell id="DaFFgc0UVLaM9YUzNTti-371" value="&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Scenario and robustness evaluation&lt;/font&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585.75" y="2094.2" width="149" height="29.8" as="geometry" />
         </mxCell>
-        <mxCell id="DaFFgc0UVLaM9YUzNTti-373" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;edge types&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;with interaction attributes&lt;/div&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;(direction, strength, lag, uncertainty)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1759" width="130" height="50" as="geometry" />
+        <mxCell id="DaFFgc0UVLaM9YUzNTti-373" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;edge types&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;with interaction attributes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 90%;&quot;&gt;(direction, strength, lag, uncertainty)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1750" width="130" height="59" as="geometry" />
         </mxCell>
         <mxCell id="DaFFgc0UVLaM9YUzNTti-374" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Strength&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="815.8299999999999" y="1794.32" width="51" height="20" as="geometry" />
