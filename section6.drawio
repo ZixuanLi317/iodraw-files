@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Section 6 workflow v3" id="section6-workflow-v3">
-    <mxGraphModel dx="1166" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,7 +228,7 @@
         <mxCell id="lPkQfJbUEwC9vkQxYqbs-21" edge="1" parent="1" source="lPkQfJbUEwC9vkQxYqbs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lPkQfJbUEwC9vkQxYqbs-20" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPkQfJbUEwC9vkQxYqbs-19" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5c8a68;strokeWidth=1.8;fontSize=10;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:116%;&quot;&gt;&lt;font&gt;&lt;b&gt;S indicator:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height:116%;&quot;&gt;&lt;font&gt;S1, S2, S3&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height:116%;&quot;&gt;&lt;font&gt;&lt;b&gt;E indicator:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height:116%;&quot;&gt;&lt;font&gt;E1, E2, E3&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height:116%;&quot;&gt;&lt;font&gt;&lt;b&gt;T indicator:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height:116%;&quot;&gt;&lt;font&gt;T1, T2, T3, T4&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="lPkQfJbUEwC9vkQxYqbs-19" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5c8a68;strokeWidth=1.8;fontSize=10;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height: 126%;&quot;&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;S indicator:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;S1, S2, S3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;E indicator:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;E1, E2, E3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;T indicator:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;T1, T2, T3, T4&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="87" width="103" x="248.5" y="1572" as="geometry" />
         </mxCell>
         <mxCell id="lPkQfJbUEwC9vkQxYqbs-20" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5c8a68;strokeWidth=1.8;fontSize=10;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height: 116%;&quot;&gt;&lt;b&gt;&lt;font&gt;Unit&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(32, 37, 43), rgb(201, 206, 211));&quot;&gt;S/E/T condition level:&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height:116%;&quot;&gt;&lt;font&gt;high, medium, low&lt;/font&gt;&lt;/div&gt;" vertex="1">
