@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xBzA64-M_zRiJnIsFazR">
-    <mxGraphModel dx="1115" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,17 +47,6 @@
         <mxCell id="e14" edge="1" parent="1" source="v10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4b5563;strokeWidth=4;endArrow=block;endFill=1;fontSize=14;fontColor=#68717c;" target="v11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cme6kQyOgf4SOWVPcrtf-48" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=block;endFill=1;strokeColor=light-dark(#000000,#B77859);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#68717c;labelBackgroundColor=default;dashed=1;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="891.37" y="403.52" />
-              <mxPoint x="891.37" y="385.52" />
-              <mxPoint x="937.37" y="385.52" />
-            </Array>
-            <mxPoint x="860.62" y="403.02" as="sourcePoint" />
-            <mxPoint x="937.7500000000001" y="385.02" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v21" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5c8a68;fontSize=15;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;textOpacity=80;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-weight: bold; font-size: 12px; line-height: 100%;&quot;&gt;Unit conditions&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;S/E/T indicators&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;padding-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px; line-height: 100%;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;capacity proxies&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="59" width="137.5" x="244" y="434" as="geometry" />
         </mxCell>
@@ -96,17 +85,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="112.85753275109141" y="763" as="sourcePoint" />
             <mxPoint x="114.80960854092518" y="564" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cme6kQyOgf4SOWVPcrtf-47" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#B77859);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#68717c;labelBackgroundColor=default;endArrow=block;endFill=1;dashed=1;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="860.37" y="534.52" />
-              <mxPoint x="891.37" y="534.52" />
-              <mxPoint x="891.37" y="385.52" />
-            </Array>
-            <mxPoint x="859.0000000000001" y="513.52" as="sourcePoint" />
-            <mxPoint x="937.7500000000001" y="385.02" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cme6kQyOgf4SOWVPcrtf-18" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5c8a68;fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;" value="&lt;b&gt;Coupling structure&lt;/b&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 10px; text-align: left; background-color: transparent; color: light-dark(rgb(32, 37, 43), rgb(201, 206, 211)); line-height: 100%;&quot;&gt;&lt;b&gt;Edge types&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%; margin-bottom: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;inter / intra-layer edge&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 10px; text-align: left; background-color: transparent; color: light-dark(rgb(32, 37, 43), rgb(201, 206, 211)); line-height: 100%;&quot;&gt;&lt;b&gt;Interaction attruibution&lt;/b&gt;:&lt;/span&gt;&lt;ul style=&quot;padding-left: 10px; margin-bottom: 10px; margin-top: 0px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;i&gt;direction&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;strength&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;lag&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;uncertainty&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
@@ -157,149 +135,6 @@
             <mxPoint x="589.25" y="469" as="sourcePoint" />
             <mxPoint x="589.25" y="492" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fbf7f4;strokeColor=none;strokeWidth=0;fontSize=15;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=0;" value="" vertex="1">
-          <mxGeometry height="1310" width="1660" x="832" y="970" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=0;fontSize=30;fontColor=#20252b;fontStyle=1;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=0;fontColor=#20252b;" value="&lt;b&gt;Section 5: generic UGS--SETS workflow&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="1540" x="869" y="979" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a6acb3;strokeWidth=1.8;fontSize=22;fontColor=#20252b;fontStyle=1;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;b&gt;UGS--SETS decision context&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:15px&quot;&gt;urban green-space planning / governance problem&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="1460" x="909" y="1039" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-7" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f5e7d8;strokeColor=#b97849;strokeWidth=2.2;fontSize=22;fontColor=#20252b;fontStyle=1;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;b&gt;Phase 1: Scoping and framing&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;define what the assessment is for&lt;/font&gt;" vertex="1">
-          <mxGeometry height="105" width="330" x="844" y="1154" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-8" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e8f0ea;strokeColor=#5c8a68;strokeWidth=2.2;fontSize=22;fontColor=#20252b;fontStyle=1;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;b&gt;Phase 2: Assessment specification&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;convert framing into the UGS--SETS multilayer network specification&lt;/font&gt;" vertex="1">
-          <mxGeometry height="105" width="350" x="1244" y="1154" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-9" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e8eef6;strokeColor=#60748b;strokeWidth=2.2;fontSize=22;fontColor=#20252b;fontStyle=1;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;b&gt;Phase 3: Analysis selection and synthesis&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:14px&quot;&gt;read the same specification through question-led routes&lt;/font&gt;" vertex="1">
-          <mxGeometry height="105" width="760" x="1664" y="1154" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-10" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#424b57;strokeWidth=3;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-7" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-11" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#424b57;strokeWidth=4;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-8" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-12" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#424b57;strokeWidth=4;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-9" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-13" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fffaf3;strokeColor=#c29061;strokeWidth=2.6;fontSize=15;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;dashed=1;dashPattern=8 5;" value="" vertex="1">
-          <mxGeometry height="570" width="370" x="824" y="1294" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-14" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b97849;strokeWidth=1.6;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:113%;&quot;&gt;&lt;b&gt;Inputs&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;decision problem&lt;br&gt;spatial / temporal boundary&lt;br&gt;governance or planning concern&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="300" x="859" y="1329" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-15" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b97849;strokeWidth=1.6;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:113%;&quot;&gt;&lt;b&gt;Framing statement&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;unit-boundary justification&lt;br&gt;prioritised coupling subset&lt;br&gt;key interaction attributes&lt;br&gt;system-level descriptor targets&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="300" x="859" y="1479" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-16" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b97849;strokeWidth=1.6;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:113%;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;decision-relevant scope&lt;br&gt;for the assessment&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="115" width="300" x="859" y="1679" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-17" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#b97849;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-14" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-18" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#b97849;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-15" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-19" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#b97849;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-16" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-20" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#f7fbf8, #121212);strokeColor=#5c8a68;strokeWidth=2.6;fontSize=15;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;dashed=1;dashPattern=8 5;" value="" vertex="1">
-          <mxGeometry height="570" width="390" x="1224" y="1294" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-21" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5c8a68;strokeWidth=1.6;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:113%;&quot;&gt;&lt;b&gt;Unit conditions&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;UGS--SETS units&lt;br&gt;S / E / T indicators&lt;br&gt;capacity proxies and dimension levels&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="310" x="1264" y="1329" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-22" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5c8a68;strokeWidth=1.6;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:113%;&quot;&gt;&lt;b&gt;Coupling structure&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:12px&quot;&gt;within- and cross-dimensional edge types&lt;br&gt;direction / strength / lag / uncertainty provenance&lt;br&gt;retained coupling pathways&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="150" width="310" x="1264" y="1479" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-23" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5c8a68;strokeWidth=1.6;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:113%;&quot;&gt;&lt;b&gt;System-level descriptor families&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:12px&quot;&gt;structural emergence&lt;br&gt;evaluated outcomes&lt;br&gt;resilience performance&lt;br&gt;equity and governance outcomes&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="125" width="310" x="1264" y="1659" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-24" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#5c8a68;strokeWidth=1.6;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:113%;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;transparent and traceable assessment specification&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="65" width="310" x="1264" y="1809" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-25" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5c8a68;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-21" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-26" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5c8a68;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-22" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-27" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5c8a68;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-23" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-28" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#5c8a68;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-24" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-29" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#f8fafd, #121212);strokeColor=#94a3b8;strokeWidth=2.6;fontSize=15;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;dashed=1;dashPattern=8 5;" value="" vertex="1">
-          <mxGeometry height="760" width="795" x="1644" y="1294" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-30" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#7b8c9e;strokeWidth=1.6;fontSize=19;fontColor=#20252b;fontStyle=1;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;b&gt;Common input&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;retained assessment specification: unit conditions + coupling structure + descriptor targets&lt;/font&gt;" vertex="1">
-          <mxGeometry height="65" width="640" x="1724" y="1324" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-31" parent="1" style="whiteSpace=wrap;html=1;fillColor=#eef3f8;strokeColor=#94a3b8;strokeWidth=1.6;fontSize=19;fontColor=#20252b;fontStyle=1;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;b&gt;Question-led route selection&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:13px&quot;&gt;route selected by analytical question, not by method preference&lt;/font&gt;" vertex="1">
-          <mxGeometry height="65" width="540" x="1774" y="1419" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-32" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#7b8c9e;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;dashed=1;dashPattern=4 4;" target="oM-HLyUwaogQcWR4YF3r-30" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1636" y="1842" />
-              <mxPoint x="1636" y="1356" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-33" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#7b8c9e;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-31" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-34" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#7b8c9e;strokeWidth=1.8;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:110%;&quot;&gt;&lt;b&gt;What route&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;&lt;i&gt;System portrait and diagnosis&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Question:&lt;/b&gt;&lt;br&gt;What structure,&lt;br&gt;mismatch, or&lt;br&gt;dependency appears?&lt;br&gt;&lt;br&gt;&lt;b&gt;Reading:&lt;/b&gt;&lt;br&gt;diagnostic reading&lt;br&gt;of unit conditions&lt;br&gt;and coupling structure&lt;br&gt;&lt;br&gt;&lt;b&gt;Read-out:&lt;/b&gt;&lt;br&gt;structural emergence signatures&lt;br&gt;bottlenecks&lt;br&gt;clusters&lt;br&gt;dependency hubs&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="315" width="235" x="1679" y="1524" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-35" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#7b8c9e;strokeWidth=1.8;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:110%;&quot;&gt;&lt;b&gt;Why route&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;&lt;i&gt;Mechanism-consistent explanation&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Question:&lt;/b&gt;&lt;br&gt;Why do observed&lt;br&gt;signatures arise?&lt;br&gt;&lt;br&gt;&lt;b&gt;Reading:&lt;/b&gt;&lt;br&gt;mechanism pathway tracing&lt;br&gt;through retained couplings&lt;br&gt;&lt;br&gt;&lt;b&gt;Read-out:&lt;/b&gt;&lt;br&gt;plausible mechanism pathways&lt;br&gt;feedback / lag&lt;br&gt;dependency pathways&lt;br&gt;competing explanations&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="315" width="235" x="1929" y="1524" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-36" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#7b8c9e;strokeWidth=1.8;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:110%;&quot;&gt;&lt;b&gt;What-if route&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:11px&quot;&gt;&lt;i&gt;Robustness-oriented exploration&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Question:&lt;/b&gt;&lt;br&gt;How do evaluated&lt;br&gt;outcomes respond&lt;br&gt;under perturbation?&lt;br&gt;&lt;br&gt;&lt;b&gt;Reading:&lt;/b&gt;&lt;br&gt;perturbation reading&lt;br&gt;of unit conditions,&lt;br&gt;coupling attributes,&lt;br&gt;and stress conditions&lt;br&gt;&lt;br&gt;&lt;b&gt;Read-out:&lt;/b&gt;&lt;br&gt;evaluated outcome profiles&lt;br&gt;robustness patterns&lt;br&gt;trade-offs&lt;br&gt;intervention sensitivity&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="315" width="235" x="2179" y="1524" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-37" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4b5563;strokeWidth=2.4;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-34" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-38" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4b5563;strokeWidth=2.4;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-35" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-39" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4b5563;strokeWidth=2.4;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-36" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-40" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8fafd;strokeColor=#94a3b8;strokeWidth=1.8;fontSize=19;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:113%;&quot;&gt;&lt;b&gt;Cross-route synthesis&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:12px&quot;&gt;connect the three route-specific read-outs&lt;br&gt;What identifies structural signatures.&lt;br&gt;Why explains coupling pathways.&lt;br&gt;What-if compares intervention or stress responses.&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="655" x="1719" y="1884" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-41" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4b5563;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-40" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-42" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4b5563;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-40" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-43" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4b5563;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-40" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-44" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#94a3b8;strokeWidth=1.6;fontSize=17;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;b&gt;Output:&lt;/b&gt; question-aligned synthesis grounded in system-level descriptors" vertex="1">
-          <mxGeometry height="62" width="625" x="1734" y="2009" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-45" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4b5563;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-44" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-46" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a6acb3;strokeWidth=1.8;fontSize=19;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:113%;&quot;&gt;&lt;b&gt;Planning and governance interpretation&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:12px&quot;&gt;translate synthesis into decision-relevant implications&lt;br&gt;where priority mismatch or vulnerability concentrates; which pathways create delay, dependency, or uneven responsiveness&lt;br&gt;which intervention logic changes outcomes: allocation, reconfiguration, or combined portfolios; which conclusions are stable or uncertainty-sensitive&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="105" width="1110" x="1079" y="2119" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-47" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a6acb3;strokeWidth=1.8;fontSize=18;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;b&gt;Goal:&lt;/b&gt; support comparable, transparent, and decision-relevant UGS planning and governance" vertex="1">
-          <mxGeometry height="55" width="800" x="1234" y="2239" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-48" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4b5563;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-46" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oM-HLyUwaogQcWR4YF3r-49" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4b5563;strokeWidth=2;fontSize=12;fontColor=#68717c;fontFamily=Helvetica;" target="oM-HLyUwaogQcWR4YF3r-47" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oM-HLyUwaogQcWR4YF3r-54" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b97849;strokeWidth=1;fontSize=12;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=1;arcSize=8;" value="&lt;div style=&quot;line-height:116%;&quot;&gt;&lt;b&gt;Inputs&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;padding-left: 10px; margin-top: 6px; margin-bottom: 6px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;decision problem&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;spatial / temporal boundary&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;goverance or planning concern&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="106" width="115.5" x="56.75" y="429" as="geometry" />
