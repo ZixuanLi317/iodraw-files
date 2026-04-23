@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xBzA64-M_zRiJnIsFazR">
-    <mxGraphModel dx="1115" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,13 +51,13 @@
           <mxGeometry height="59" width="137.5" x="244" y="434" as="geometry" />
         </mxCell>
         <mxCell id="v29" parent="1" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#60748b;fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;fontFamily=Helvetica;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;b&gt;What task&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;system portrait and diagnosis&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; line-height: 100%;&quot;&gt;&lt;b&gt;Reading:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;unit conditions +&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;coupling structure&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; line-height: 100%;&quot;&gt;&lt;b&gt;Read-out:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;structural emergence&amp;nbsp;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="146" width="97" x="430.25" y="540" as="geometry" />
+          <mxGeometry height="146" width="99.75" x="430.25" y="540" as="geometry" />
         </mxCell>
         <mxCell id="v30" parent="1" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#60748b;fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;fontFamily=Helvetica;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;b&gt;Why task&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;mechanism-consistent explanation&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;div style=&quot;text-align: left; line-height: 10px;&quot;&gt;&lt;b&gt;Reading:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 10px;&quot;&gt;structural emergence signitures&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(32, 37, 43), rgb(201, 206, 211));&quot;&gt;+&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 10px;&quot;&gt;coupling&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(32, 37, 43), rgb(201, 206, 211));&quot;&gt;pathways&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; line-height: 10px;&quot;&gt;&lt;b&gt;Read-out:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 10px;&quot;&gt;plausible mechanisms&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="145" width="121" x="535.24" y="541" as="geometry" />
+          <mxGeometry height="145" width="116.76" x="535.24" y="541" as="geometry" />
         </mxCell>
-        <mxCell id="v31" parent="1" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#60748b;fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;fontFamily=Helvetica;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;b&gt;What-if task&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;robustness exploration&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;font-size: 10px; text-align: left; line-height: 10px;&quot;&gt;&lt;b&gt;Reading:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;perturbations + stress conditions&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; line-height: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; text-align: left; line-height: 10px;&quot;&gt;&lt;b&gt;Read-out:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; line-height: 10px;&quot;&gt;outcome profiles and trade-offs&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="144" width="93" x="665.25" y="541" as="geometry" />
+        <mxCell id="v31" parent="1" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#60748b;fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;fontFamily=Helvetica;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;b&gt;What-if task&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(32, 37, 43), rgb(201, 206, 211));&quot;&gt;robustness-oriented exploration&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;font-size: 10px; text-align: left; line-height: 10px;&quot;&gt;&lt;b&gt;Reading:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 10px;&quot;&gt;&lt;div style=&quot;line-height: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;adaptive interventions&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(32, 37, 43), rgb(201, 206, 211));&quot;&gt;+&lt;/span&gt;&amp;nbsp;external stress conditions&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; line-height: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; text-align: left; line-height: 10px;&quot;&gt;&lt;b&gt;Read-out:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; line-height: 10px;&quot;&gt;outcome profiles and trade-offs&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="144" width="116" x="657" y="541" as="geometry" />
         </mxCell>
         <mxCell id="e32" edge="1" parent="1" source="cme6kQyOgf4SOWVPcrtf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#7b8c9e, #b77859);strokeWidth=2;endArrow=block;endFill=1;fontSize=14;fontColor=#68717c;exitX=0;exitY=0.5;exitDx=0;exitDy=0;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="v29" value="">
           <mxGeometry relative="1" as="geometry">
@@ -75,8 +75,8 @@
         <mxCell id="e34" edge="1" parent="1" source="cme6kQyOgf4SOWVPcrtf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#7b8c9e, #b77859);strokeWidth=2;endArrow=block;endFill=1;fontSize=14;fontColor=#68717c;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=default;" target="v31" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v35" parent="1" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#94a3b8;fontSize=16;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px; line-height: 80%;&quot;&gt;Cross-tasks synthesis&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 80%;&quot;&gt;connect the three task-specific read-outs&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;What task&lt;/b&gt; identifies structural signatures.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Why task&lt;/b&gt; explains coupling pathways.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;What-if task&lt;/b&gt; compares intervention or stress responses&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="74" width="320" x="435.5" y="722" as="geometry" />
+        <mxCell id="v35" parent="1" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#94a3b8;fontSize=16;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 12px; line-height: 80%;&quot;&gt;Cross-tasks synthesis&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;div style=&quot;line-height: 80%;&quot;&gt;connect the three task-specific read-outs&lt;/div&gt;&lt;div&gt;&lt;ul style=&quot;padding-left: 30px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;What task&lt;/b&gt; identifies structural signatures.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Why task&lt;/b&gt; explains coupling pathways.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;What-if task&lt;/b&gt; compares intervention and stress responses&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="314" x="437" y="724" as="geometry" />
         </mxCell>
         <mxCell id="e38" edge="1" parent="1" source="v30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#7b8c9e, #b77859);strokeWidth=2;endArrow=block;endFill=1;fontSize=14;fontColor=#68717c;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="v35" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -110,25 +110,25 @@
           <mxGeometry height="25" width="25" x="299.62" y="630" as="geometry" />
         </mxCell>
         <mxCell id="cme6kQyOgf4SOWVPcrtf-30" parent="1" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#94a3b8;fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;b&gt;Question-led tasks&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;tasks selected by analytical question&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="31.5" width="190" x="500.74" y="485" as="geometry" />
+          <mxGeometry height="31.5" width="185.26" x="501.49" y="486.5" as="geometry" />
         </mxCell>
         <mxCell id="oM-HLyUwaogQcWR4YF3r-71" edge="1" parent="1" source="cme6kQyOgf4SOWVPcrtf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="oM-HLyUwaogQcWR4YF3r-67" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cme6kQyOgf4SOWVPcrtf-49" parent="1" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#94a3b8;fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=18;fontFamily=Helvetica;" value="&lt;div&gt;&lt;font&gt;&lt;b&gt;Outputs&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;question-aligned synthesis grounded in &lt;b&gt;system-level descriptors&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="42" width="329" x="431.25" y="818" as="geometry" />
+          <mxGeometry height="42" width="314" x="437" y="818" as="geometry" />
         </mxCell>
-        <mxCell id="cme6kQyOgf4SOWVPcrtf-51" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e8f0ea;strokeColor=#5c8a68;fontSize=18;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;rotation=-90;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Indicator system&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28.5" width="155" x="144.12" y="617.5" as="geometry" />
+        <mxCell id="cme6kQyOgf4SOWVPcrtf-51" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#e8f0ea, #1c2228);strokeColor=light-dark(#5c8a68, #7c8ea1);fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;rotation=-90;fontFamily=Helvetica;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;line-height: 90%;&quot;&gt;Indicator system&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="17.5" width="155" x="144.62" y="623" as="geometry" />
         </mxCell>
         <mxCell id="cme6kQyOgf4SOWVPcrtf-52" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e8eef6;strokeColor=#60748b;fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;rotation=90;fontFamily=Helvetica;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Analytical framework&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28.5" width="155" x="704" y="601.5" as="geometry" />
+          <mxGeometry height="19.5" width="155" x="709.25" y="619" as="geometry" />
         </mxCell>
         <mxCell id="oM-HLyUwaogQcWR4YF3r-2" edge="1" parent="1" source="oM-HLyUwaogQcWR4YF3r-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#7b8c9e, #b77859);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#68717c;labelBackgroundColor=default;endArrow=block;endFill=1;" target="cme6kQyOgf4SOWVPcrtf-30" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oM-HLyUwaogQcWR4YF3r-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#94a3b8;fontSize=12;fontColor=#20252b;align=center;verticalAlign=middle;spacing=10;rounded=1;arcSize=10;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;b&gt;Common inputs&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;b&gt;multilayer network specification:&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px; line-height: 100%;&quot;&gt;unit conditions + coupling structure + system-level descriptor&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="47" width="291.62" x="449.93" y="421" as="geometry" />
+          <mxGeometry height="47" width="290.07" x="449.93" y="421" as="geometry" />
         </mxCell>
         <mxCell id="oM-HLyUwaogQcWR4YF3r-3" edge="1" parent="1" source="cme6kQyOgf4SOWVPcrtf-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#7b8c9e, #b77859);strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#68717c;labelBackgroundColor=default;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="v30" value="">
           <mxGeometry relative="1" as="geometry">
@@ -163,16 +163,18 @@
         <mxCell id="e37" edge="1" parent="1" source="v29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#7b8c9e, #b77859);strokeWidth=2;endArrow=block;endFill=1;fontSize=14;fontColor=#68717c;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="v35" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="479.25" y="700" />
-              <mxPoint x="596.25" y="700" />
+              <mxPoint x="479" y="700" />
+              <mxPoint x="594" y="700" />
+              <mxPoint x="594" y="724" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e39" edge="1" parent="1" source="v31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#7b8c9e, #b77859);strokeWidth=2;endArrow=block;endFill=1;fontSize=14;fontColor=#68717c;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="v35" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="714.25" y="700" />
-              <mxPoint x="595.25" y="700" />
+              <mxPoint x="712" y="700" />
+              <mxPoint x="594" y="700" />
+              <mxPoint x="594" y="724" />
             </Array>
           </mxGeometry>
         </mxCell>
