@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lPkQfJbUEwC9vkQxYqbs-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fbf7f4;strokeColor=#000000;strokeWidth=1;fontSize=16;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=0;" value="" vertex="1">
+        <mxCell id="lPkQfJbUEwC9vkQxYqbs-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fbf7f4;strokeColor=none;strokeWidth=1;fontSize=16;fontColor=#20252b;fontStyle=0;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;rounded=0;" value="" vertex="1">
           <mxGeometry height="835" width="797" x="15" y="1399" as="geometry" />
         </mxCell>
         <mxCell id="lPkQfJbUEwC9vkQxYqbs-28" edge="1" parent="1" source="lPkQfJbUEwC9vkQxYqbs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#424b57;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#68717c;labelBackgroundColor=default;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lPkQfJbUEwC9vkQxYqbs-115" value="">
